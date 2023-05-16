@@ -7,7 +7,7 @@ This is my README and you just read me. (please keep reading this is just a joke
 
 ### Moving on... Hello there 👋
 
-I am mostly a backend developer and have sometimes do somethings with DevOps tools like Docker:
+I am mostly a backend developer and have sometimes done somethings with DevOps tools like Docker:
   - I am most experienced with python and javascript
   - I have made python modules
   - I have contributed to some famous projects, such as [py-cord](https://github.com/Pycord-Development/pycord/pulls?q=is%3Apr+author%3ASengolda+), [PyTweet](https://github.com/PyTweet/PyTweet/pulls?q=is%3Apr+author%3ASengolda)
