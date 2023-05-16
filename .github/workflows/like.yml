@@ -30,64 +30,6 @@ jobs:
       run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add --all
+          git add .
           git commit -m "Someone liked on $(date +%Y-%m-%d_%H-%M)"
-          git push --force
-
-  add-mutable-like:
-    env:
-      author: ${{github.event.issue.user.login}}
-    if: github.event.label.name == 'like-mutable'
-    runs-on: ubuntu-latest
-    name: commit and push mutable like
-    steps:
-    - uses: actions/checkout@v3
-      with:
-        fetch-depth: 2
-    - name: Create local changes
-      run: |
-        if grep -Fxq "$author" likers-mutable.txt
-        then
-        echo "Try again!"
-        else
-        echo "$author" >> likers-mutable.txt
-        #and update counter
-        LIKES=$(wc -l < likers-mutable.txt);REPLACE=$(echo "<sub><b><i>Like counter: ${LIKES}</i></b></sub>");(head -18 README.md; echo "$REPLACE"; tail -n +20 README.md) > foobar && mv foobar README.md
-        fi
-    - name: Commit & Push changes
-      run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add --all
-          git commit -m "Someone liked (this commit is for mutable like) $(date +%Y-%m-%d_%H-%M)"
-          git push --force
-
-  unlike:
-    env:
-      author: ${{github.event.issue.user.login}}
-    if: github.event.label.name == 'unlike-mutable'
-    runs-on: ubuntu-latest
-    name: commit and push mutable unlike
-    steps:
-    - uses: actions/checkout@v3
-      with:
-        fetch-depth: 2
-    - name: Create local changes
-      run: |
-        LINE=$(grep -Fx "$author" likers-mutable.txt -n| cut -d ":" -f 1)
-        if [ -z "$LINE" ]
-        then
-        echo "Try again! You haven't already liked"
-        else
-        #withdraw like
-        sed -i "${LINE}d" likers-mutable.txt
-        #and update counter
-        LIKES=$(wc -l < likers-mutable.txt);REPLACE=$(echo "<sub><b><i>Like counter: ${LIKES}</i></b></sub>");(head -18 README.md; echo "$REPLACE"; tail -n +20 README.md) > foobar && mv foobar README.md
-        fi
-    - name: Commit & Push changes unlike
-      run : |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add --all
-          git commit -m "Someone disliked on $(date +%Y-%m-%d_%H-%M)"
           git push --force

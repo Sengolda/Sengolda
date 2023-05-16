@@ -1,3 +1,20 @@
+<div align=center>
+
+<table>
+<tr>
+<td>
+Like me!
+
+[<a href="https://github.com/Sengolda/Sengolda/issues/new?assignees=&labels=like&template=like.yml&title=Add+new+like%21">👍</a>]
+
+<sub><b><i>Like counter: 0</i></b></sub>
+
+</td>
+</tr>
+</table>
+</div>
+
+
 # Hello
 
 This is my README and you just read me. (please keep reading this is just a joke)

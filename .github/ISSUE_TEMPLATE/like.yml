@@ -1,0 +1,16 @@
+name: Like
+description: Add a like
+title: "Add new like!"
+labels: ["like"]
+body:
+  - type: markdown
+    attributes:
+      value: Just like it please
+  - type: textarea
+    id: useless
+    attributes:
+      label: useless
+      description: useless
+      placeholder: 🐛
+    validations:
+      required: false
