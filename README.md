@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A programming systems product takes about nine times as much effort as the component programs written separately for private use.
-  - Fred Brooks
+If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+  - John von Neumann
 ```
