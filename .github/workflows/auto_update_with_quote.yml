@@ -1,8 +1,8 @@
 name: Auto Update With Quotes
 
-on: push
-  #schedule:
-    #- cron: "0 * * * *"
+on: #push # Used this while testing.
+  schedule:
+    - cron: "0 * * * *"
 
 
 permissions: write-all
