@@ -1,0 +1,21 @@
+name: Auto Update With Quotes
+
+on: push
+  #schedule:
+    #- cron: "0 * * * *"
+
+
+permissions: read-all|write-all
+
+
+jobs:
+  job:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+      - name: Run the quote fetcher
+        run: |
+          python3 auto_update.py
