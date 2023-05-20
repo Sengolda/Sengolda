@@ -33,3 +33,13 @@ class Sengolda:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sengolda)
 
 
+
+
+### Quotes
+- A random programming quote from the [hourly quote generator](auto_update.py) 
+- Quote for the hour is:
+
+```
+Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+  - Addy Osmani
+```
