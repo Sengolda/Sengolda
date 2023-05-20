@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer Science is no more about computers than astronomy is about telescopes.
-  - Edsger W. Dijkstra
+A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+  - Fred Brooks
 ```
