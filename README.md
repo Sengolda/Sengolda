@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
-  - Fred Brooks
+We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+  - Bill Gates
 ```
