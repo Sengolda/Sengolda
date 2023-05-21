@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
-  - Bjarne Stroustrup
+Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
+  - L. Peter Deutsch
 ```
