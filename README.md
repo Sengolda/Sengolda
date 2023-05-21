@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It’s all talk until the code runs.
-  - Ward Cunningham
+An evolving system increases its complexity unless work is done to reduce it.
+  - Manny Lehman (computer scientist)
 ```
