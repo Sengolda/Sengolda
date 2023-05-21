@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Code never lies, comments sometimes do.
-  - Ron Jeffries
+Unix is simple. It just takes a genius to understand its simplicity.
+  - Dennis Ritchie
 ```
