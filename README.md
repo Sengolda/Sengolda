@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
-  - Maurice Wilkes
+You should name a variable using the same care with which you name a first-born child.
+  - Jim Coplien
 ```
