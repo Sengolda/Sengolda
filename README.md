@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
-  - Fred Brooks
+I think you should always bear in mind that entropy is not on your side.
+  - Elon Musk
 ```
