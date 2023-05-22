@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
-  - Martin Fowler
+Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+  - Edsger W. Dijkstra
 ```
