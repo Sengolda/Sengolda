@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
-  - Philip Greenspun
+The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+  - Donald Knuth
 ```
