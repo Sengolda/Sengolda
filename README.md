@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The proper use of comments is to compensate for our failure to express ourself in code.
-  - Robert C. Martin
+What one programmer can do in one month, two programmers can do in two months.
+  - Fred Brooks
 ```
