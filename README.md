@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What one programmer can do in one month, two programmers can do in two months.
-  - Fred Brooks
+The difference between theory and practice is that in theory, there is no difference between theory and practice.
+  - Richard Moore (engineer)
 ```
