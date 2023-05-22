@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
-  - Harlan Mills
+A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+  - Alan Turing
 ```
