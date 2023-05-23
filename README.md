@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I don't comment on the code itself because I feel that properly written code is very much self-documented.
-  - Gary Kildall
+I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+  - Carl Friedrich Gauss
 ```
