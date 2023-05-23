@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
-  - Joseph Yoder (computer scientist)
+There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+  - Jeremy S. Anderson
 ```
