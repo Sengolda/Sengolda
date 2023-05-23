@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Machines as simple as thermostats can be said to have beliefs.
-  - John McCarthy (computer scientist)
+Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+  - Stewart Brand
 ```
