@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
-  - Linus Torvalds
+A language that doesn’t have everything is actually easier to program in than some that do.
+  - Dennis Ritchie
 ```
