@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
-  - Alan Perlis
+Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+  - Jamie Zawinski
 ```
