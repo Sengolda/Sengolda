@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
-  - Pete Cordell
+The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+  - Alan Perlis
 ```
