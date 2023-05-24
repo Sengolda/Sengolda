@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A good programmer is someone who looks both ways before crossing a one-way street.
-  - Doug Linder
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+  - Edsger W. Dijkstra
 ```
