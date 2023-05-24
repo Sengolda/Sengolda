@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
-  - Donald Knuth
+The manager's function is not to make people work, but to make it possible for people to work.
+  - Tom DeMarco
 ```
