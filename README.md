@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
-  - Richard Stallman
+I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+  - Poul Anderson
 ```
