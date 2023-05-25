@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
-  - Danny Hillis
+When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+  - L. Peter Deutsch
 ```
