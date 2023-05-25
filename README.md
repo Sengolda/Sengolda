@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A beautiful program is like a beautiful theorem: It does the job elegantly.
-  - Butler Lampson
+I'm interested in creating images that communicate with people.
+  - Toru Iwatani
 ```
