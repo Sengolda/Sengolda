@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A clever person solves a problem. A wise person avoids it.
-  - Albert Einstein
+Most errors are introduced during requirements specification!
+  - Daniel T. Barry
 ```
