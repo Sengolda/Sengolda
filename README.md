@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Really good programs live forever.
-  - Charles Simonyi
+A beautiful program is like a beautiful theorem: It does the job elegantly.
+  - Butler Lampson
 ```
