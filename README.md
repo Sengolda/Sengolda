@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Just because you've implemented something doesn't mean you understand it.
-  - Brian Cantwell Smith
+A program that produces incorrect results twice as fast is infinitely slower.
+  - John Ousterhout
 ```
