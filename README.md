@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A program that produces incorrect results twice as fast is infinitely slower.
-  - John Ousterhout
+A beautiful program is like a beautiful theorem: It does the job elegantly.
+  - Butler Lampson
 ```
