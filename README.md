@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-So much complexity in software comes from trying to make one thing do two things.
-  - Ryan Singer
+Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+  - Alan Perlis
 ```
