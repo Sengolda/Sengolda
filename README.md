@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
-  - Ada Lovelace
+A good programmer is someone who looks both ways before crossing a one-way street.
+  - Doug Linder
 ```
