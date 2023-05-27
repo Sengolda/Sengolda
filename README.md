@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think programming is very much a religious experience for a lot of people.
-  - Gary Kildall
+One accurate measurement is worth more than a thousand expert opinions.
+  - Grace Hopper
 ```
