@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+Much of the essence of building a program is in fact the debugging of the specification.
   - Fred Brooks
 ```
