@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
-  - Maurice Wilkes
+Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+  - George Boole
 ```
