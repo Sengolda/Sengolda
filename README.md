@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
-  - Fred Brooks
+The only way to learn a new programming language is by writing programs in it.
+  - Dennis Ritchie
 ```
