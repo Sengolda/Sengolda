@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I don't like using any tools or programs I didn't write myself or that I don't have some control over.
-  - Jonathan Sachs
+The next best thing to having good ideas is recognizing good ideas from your users.
+  - Eric S. Raymond
 ```
