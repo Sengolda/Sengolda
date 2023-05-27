@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Everybody should learn to program a computer, because it teaches you how to think.
-  - Steve Jobs
+All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+  - Fred Brooks
 ```
