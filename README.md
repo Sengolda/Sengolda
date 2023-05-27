@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The top 5% of programmers probably write 99% of the good software.
-  - Paul Graham (programmer)
+I think programming is very much a religious experience for a lot of people.
+  - Gary Kildall
 ```
