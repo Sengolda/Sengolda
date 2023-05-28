@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Science is what we understand well enough to explain to a computer. Art is everything else we do.
-  - Donald Knuth
+Any sufficiently advanced technology is indistinguishable from magic.
+  - Arthur C. Clarke
 ```
