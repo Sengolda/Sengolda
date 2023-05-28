@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
-  - Charles Babbage
+In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
+  - Ada Lovelace
 ```
