@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you have a procedure with 10 parameters, you probably missed some.
-  - Alan Perlis
+When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+  - Arthur C. Clarke
 ```
