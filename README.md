@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
-  - Edsger W. Dijkstra
+Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+  - Alan Perlis
 ```
