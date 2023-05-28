@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
-  - Joshua Bloch
+Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+  - P. J. Plauger
 ```
