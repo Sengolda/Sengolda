@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is the ultimate field for someone who likes to tinker.
-  - Ray Ozzie
+People under pressure don’t work better; they just work faster.
+  - Tom DeMarco
 ```
