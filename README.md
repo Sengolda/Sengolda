@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
-  - Arthur C. Clarke
+On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+  - Charles Babbage
 ```
