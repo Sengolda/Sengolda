@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
-  - Rick Osborne
+What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+  - Steve Jobs
 ```
