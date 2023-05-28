@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-People under pressure don’t work better; they just work faster.
-  - Tom DeMarco
+The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+  - Edsger W. Dijkstra
 ```
