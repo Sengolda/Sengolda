@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Humanity is acquiring all the right technology for all the wrong reasons.
-  - Buckminster Fuller
+People should be able to speak and breathe programs just like they talk now.
+  - Jaron Lanier
 ```
