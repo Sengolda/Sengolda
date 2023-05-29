@@ -40,7 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think there is a world market for maybe five
-computers.
-  - Thomas J. Watson
+If Microsoft ever does applications for Linux it means I've won.
+  - Linus Torvalds
 ```
