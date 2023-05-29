@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First, solve the problem. Then, write the code.
-  - John Johnson
+Humanity is acquiring all the right technology for all the wrong reasons.
+  - Buckminster Fuller
 ```
