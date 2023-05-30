@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cleaning code does NOT take time. NOT cleaning code does take time.
-  - Robert C. Martin
+I'm not a great programmer; I'm just a good programmer with great habits.
+  - Kent Beck
 ```
