@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It was a turning point in my programming career when I realized that I didn't have to win every argument.
-  - Ward Cunningham
+Cleaning code does NOT take time. NOT cleaning code does take time.
+  - Robert C. Martin
 ```
