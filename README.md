@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
-  - Bill Gates
+A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+  - Fred Brooks
 ```
