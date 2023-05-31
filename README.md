@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Typing is no substitute for thinking.
-  - Richard Hamming
+If you think it's simple, then you have misunderstood the problem.
+  - Bjarne Stroustrup
 ```
