@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
-  - Alan Perlis
+The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+  - Bill Gates
 ```
