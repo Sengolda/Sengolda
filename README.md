@@ -40,6 +40,7 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
-  - Bill Gates
+If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
+  - Bob Frankston
 ```
