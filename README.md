@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
-  - Gottfried Wilhelm Leibniz
+There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+  - Marijn Haverbeke
 ```
