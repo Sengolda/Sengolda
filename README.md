@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There is never enough time to do it right, but there is always enough time to fix it or to do it over.
-  - Daniel T. Barry
+Cleaning code does NOT take time. NOT cleaning code does take time.
+  - Robert C. Martin
 ```
