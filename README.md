@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Maintenance cost is strongly affected by the number of users. More users find more bugs.
-  - Fred Brooks
+Computer programs are the most complex things that humans make.
+  - Douglas Crockford
 ```
