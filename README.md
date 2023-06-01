@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
-  - Edsger W. Dijkstra
+Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+  - Danny Hillis
 ```
