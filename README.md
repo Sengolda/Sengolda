@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
-  - Marijn Haverbeke
+Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+  - David Gelernter
 ```
