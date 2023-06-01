@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cleaning code does NOT take time. NOT cleaning code does take time.
-  - Robert C. Martin
+The way to arrest entropy in software is to refactor it.
+  - Joseph Yoder (computer scientist)
 ```
