@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
-  - Richard Hamming
+The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+  - Joe Armstrong (programmer)
 ```
