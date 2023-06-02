@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Machines take me by surprise with great frequency.
-  - Alan Turing
+No code is faster than no code.
+  - Kevlin Henney
 ```
