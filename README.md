@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
-  - Fred Brooks
+Before software can be reusable it first has to be usable.
+  - Ralph Johnson (computer scientist)
 ```
