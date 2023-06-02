@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Simplicity is prerequisite for reliability.
-  - Edsger W. Dijkstra
+You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+  - Anonymous
 ```
