@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Within a computer, natural language is unnatural.
-  - Alan Perlis
+C is quirky, flawed, and an enormous success.
+  - Dennis Ritchie
 ```
