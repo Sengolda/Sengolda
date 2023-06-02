@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There is no reason anyone would want a computer in their home.
-  - Ken Olsen
+Within a computer, natural language is unnatural.
+  - Alan Perlis
 ```
