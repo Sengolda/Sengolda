@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It’s all talk until the code runs.
-  - Ward Cunningham
+The more code you have, the more places there are for bugs to hide.
+  - Rich Skrenta
 ```
