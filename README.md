@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The more code you have, the more places there are for bugs to hide.
-  - Rich Skrenta
+Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
+  - Douglas Crockford
 ```
