@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
-  - Elon Musk
+Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
+  - Fred Brooks
 ```
