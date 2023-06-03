@@ -40,6 +40,7 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I don't comment on the code itself because I feel that properly written code is very much self-documented.
-  - Gary Kildall
+I think there is a world market for maybe five
+computers.
+  - Thomas J. Watson
 ```
