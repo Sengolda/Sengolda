@@ -40,7 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think there is a world market for maybe five
-computers.
-  - Thomas J. Watson
+Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+  - Danny Hillis
 ```
