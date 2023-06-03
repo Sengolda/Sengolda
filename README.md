@@ -40,7 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think there is a world market for maybe five
-computers.
-  - Thomas J. Watson
+The only way to learn a new programming language is by writing programs in it.
+  - Dennis Ritchie
 ```
