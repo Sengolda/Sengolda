@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The entire history of software engineering is that of the rise in levels of abstraction.
-  - Grady Booch
+The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+  - Donald Knuth
 ```
