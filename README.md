@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
-  - Fred Brooks
+The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+  - Elon Musk
 ```
