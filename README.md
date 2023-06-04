@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
-  - David Leinweber
+Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
+  - Joseph Yoder (computer scientist)
 ```
