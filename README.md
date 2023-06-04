@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
-  - Richard Hamming
+I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
+  - Gary Kildall
 ```
