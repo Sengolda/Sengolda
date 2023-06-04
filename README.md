@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The act of describing a program in unambiguous detail and the act of programming are one and the same.
-  - Kevlin Henney
+I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+  - Tim Berners-Lee
 ```
