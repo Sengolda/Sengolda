@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Your most unhappy customers are your greatest source of learning.
-  - Bill Gates
+In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+  - Richard Hamming
 ```
