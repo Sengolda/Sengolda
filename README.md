@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
-  - Seymour Cray
+The difference between theory and practice is that in theory, there is no difference between theory and practice.
+  - Richard Moore (engineer)
 ```
