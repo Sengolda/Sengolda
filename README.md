@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
-  - Simon Peyton Jones
+Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+  - Linus Torvalds
 ```
