@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are few sources of energy so powerful as a procrastinating grad student.
-  - Paul Graham (programmer)
+It’s all talk until the code runs.
+  - Ward Cunningham
 ```
