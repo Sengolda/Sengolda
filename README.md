@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
-  - Alan Perlis
+JavaScript, purely by accident, has become the most popular programming language in the world.
+  - Douglas Crockford
 ```
