@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
-  - John McCarthy (computer scientist)
+Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+  - Ward Cunningham
 ```
