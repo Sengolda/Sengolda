@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It’s all talk until the code runs.
-  - Ward Cunningham
+C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+  - Bjarne Stroustrup
 ```
