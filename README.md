@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
-  - John Warnock
+Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+  - Alan Kay
 ```
