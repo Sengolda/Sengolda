@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
-  - Ward Cunningham
+Typing is no substitute for thinking.
+  - Richard Hamming
 ```
