@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
-  - Alan Perlis
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+  - Rick Osborne
 ```
