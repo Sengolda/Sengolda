@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-JavaScript, purely by accident, has become the most popular programming language in the world.
-  - Douglas Crockford
+A programming language is low level when its programs require attention to the irrelevant.
+  - Alan Perlis
 ```
