@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
-  - Bjarne Stroustrup
+Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+  - John McCarthy (computer scientist)
 ```
