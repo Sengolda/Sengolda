@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
   - Steve Jobs
 ```
