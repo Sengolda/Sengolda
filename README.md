@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
-  - Fred Brooks
+Walking on water and developing software from a specification are easy if both are frozen.
+  - Edward V. Berard
 ```
