@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
-  - Ted Nelson
+I'm not a great programmer; I'm just a good programmer with great habits.
+  - Kent Beck
 ```
