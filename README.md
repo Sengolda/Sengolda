@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
-  - Jamie Zawinski
+What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+  - Steve Jobs
 ```
