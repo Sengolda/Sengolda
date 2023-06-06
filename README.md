@@ -40,7 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
-  - Bob Frankston
+In man-machine symbiosis, it is man who must adjust: The machines can't.
+  - Alan Perlis
 ```
