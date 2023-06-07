@@ -25,4 +25,3 @@ with open("README.md", "w") as actual_readme:
         author, quote = get_random_quote()
         readme_with_new_quote = no_quote_readme.read() + "\n\n" + TO_APPEND.format(quote=quote, author=author)
         actual_readme.write(readme_with_new_quote)
-
