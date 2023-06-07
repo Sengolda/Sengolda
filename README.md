@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Most errors are introduced during requirements specification!
-  - Daniel T. Barry
+It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+  - Douglas Crockford
 ```
