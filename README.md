@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
-  - Douglas Crockford
+A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+  - Alan Turing
 ```
