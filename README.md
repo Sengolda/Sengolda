@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
-  - Gerald Weinberg
+The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+  - Elon Musk
 ```
