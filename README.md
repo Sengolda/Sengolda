@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
-  - Andy Hunt (author)
+Beware of bugs in the above code; I have only proved it correct, not tried it.
+  - Donald Knuth
 ```
