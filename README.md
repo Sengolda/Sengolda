@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
-  - Buckminster Fuller
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+  - Bill Gates
 ```
