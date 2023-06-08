@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In man-machine symbiosis, it is man who must adjust: The machines can't.
-  - Alan Perlis
+Documentation is a love letter that you write to your future self.
+  - Damian Conway
 ```
