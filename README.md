@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
   - Bill Gates
 ```
