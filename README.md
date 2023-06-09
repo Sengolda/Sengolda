@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cool URIs don't change.
-  - Tim Berners-Lee
+Cleaning code does NOT take time. NOT cleaning code does take time.
+  - Robert C. Martin
 ```
