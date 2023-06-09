@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Low-level programming is good for the programmer’s soul.
-  - John Carmack
+I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+  - Alan Perlis
 ```
