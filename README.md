@@ -34,12 +34,11 @@ class Sengolda:
 
 
 
-
 ### Quotes
 - A random programming quote from the [hourly quote generator](auto_update.py) 
 - Quote for the hour is:
 
 ```
-The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
-  - Bill Gates
+Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+  - P. J. Plauger
 ```
