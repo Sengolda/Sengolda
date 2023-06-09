@@ -27,11 +27,7 @@ class Sengolda:
 ```
 
 
-<details>
-  <summary><b>GitHub Stats</b></summary>
-  <br/>
-  <p align='center'>
+<p align='center'>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Sengolda&show_icons=true&count_private=true&theme=dark&line_height=31.5" width="355"></a>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sengolda&layout=compact&theme=dark&hide=HTML,CSS,Jupyter%20notebook" width="355"></a>
-   </p>  
-</details>
+</p>  
