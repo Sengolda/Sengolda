@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In order to understand recursion, one must first understand recursion.
-  - Anonymous
+Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+  - Richard Hamming
 ```
