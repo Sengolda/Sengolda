@@ -26,9 +26,16 @@ class Sengolda:
         self.fun_fact = "There are 2 main ways of writing code, however the way to write error-free code is the 3rd way"
 ```
 
-### Github stats
 
-![Sengolda's github stats](https://github-readme-stats.vercel.app/api?username=Sengolda&show_icons=True&theme=dark)
+<details>
+  <summary>:paw_prints:&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
+  <br/>
+  <p align='center'>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Sengolda&show_icons=true&count_private=true&theme=dark&line_height=31.5" width="355"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sengolda&layout=compact&theme=dark&hide=HTML,CSS,Jupyter%20notebook" width="355"></a>
+   </p>  
+</details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sengolda)
-
+<details>
+	<summary>:wrench:&nbsp;&nbsp;&nbsp;<b>My Stack</b></summary>
+	<br/>
