@@ -40,6 +40,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cleaning code does NOT take time. NOT cleaning code does take time.
-  - Robert C. Martin
+Making things easy is hard.
+  - Ted Nelson
 ```
