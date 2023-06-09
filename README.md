@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
-  - Ada Lovelace
+More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+  - William Wulf
 ```
