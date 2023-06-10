@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
-  - Fred Brooks
+I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+  - L. Peter Deutsch
 ```
