@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software gets slower faster than hardware gets faster.
-  - Niklaus Wirth
+What I cannot build, I do not understand.
+  - Richard Feynman
 ```
