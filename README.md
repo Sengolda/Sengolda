@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
-  - John Carmack
+What I cannot build, I do not understand.
+  - Richard Feynman
 ```
