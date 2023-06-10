@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is not the task of the University to offer what society asks for, but to give what society needs.
-  - Edsger W. Dijkstra
+A language that doesn’t have everything is actually easier to program in than some that do.
+  - Dennis Ritchie
 ```
