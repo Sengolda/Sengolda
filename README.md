@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
-  - Jeremy S. Anderson
+What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+  - Steve Jobs
 ```
