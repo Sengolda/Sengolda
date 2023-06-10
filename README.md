@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One man's constant is another man's variable.
-  - Alan Perlis
+Talk is cheap. Show me the code.
+  - Linus Torvalds
 ```
