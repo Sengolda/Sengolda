@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What I cannot build, I do not understand.
-  - Richard Feynman
+Never trust a computer you can’t throw out a window.
+  - Steve Wozniak
 ```
