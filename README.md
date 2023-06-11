@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Talk is cheap. Show me the code.
-  - Linus Torvalds
+That hardly ever happens is another way of saying 'it happens'.
+  - Douglas Crockford
 ```
