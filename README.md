@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A picture may be worth a thousand words, a formula is worth a thousand pictures.
+The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
   - Edsger W. Dijkstra
 ```
