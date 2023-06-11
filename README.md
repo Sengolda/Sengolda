@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
-  - Edsger W. Dijkstra
+The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+  - Robert C. Martin
 ```
