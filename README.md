@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
-  - Ted Nelson
+Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+  - Joseph Yoder (computer scientist)
 ```
