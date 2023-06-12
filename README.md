@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Much of the essence of building a program is in fact the debugging of the specification.
-  - Fred Brooks
+There's only one trick in software, and that is using a piece of software that's already been written.
+  - Bill Gates
 ```
