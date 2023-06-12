@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
-  - Martin Fowler
+Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
+  - Fred Brooks
 ```
