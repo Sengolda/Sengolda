@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There's only one trick in software, and that is using a piece of software that's already been written.
-  - Bill Gates
+I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+  - Tim Berners-Lee
 ```
