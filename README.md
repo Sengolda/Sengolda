@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
-  - Gottfried Wilhelm Leibniz
+Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+  - Danny Hillis
 ```
