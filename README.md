@@ -39,7 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think the best way to make JavaScript better would be to
-make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
-  - Douglas Crockford
+My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
+  - Donald Knuth
 ```
