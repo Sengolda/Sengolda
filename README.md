@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Humanity is acquiring all the right technology for all the wrong reasons.
-  - Buckminster Fuller
+As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+  - Gottfried Wilhelm Leibniz
 ```
