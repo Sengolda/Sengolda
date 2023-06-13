@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
-  - James Gleick
+A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+  - Ivan Sutherland
 ```
