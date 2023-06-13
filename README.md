@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
-  - Alan Kay
+It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+  - Alan Perlis
 ```
