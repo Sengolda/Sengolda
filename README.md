@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming increases goes as a power of program size.
-  - Fred Brooks
+Humanity is acquiring all the right technology for all the wrong reasons.
+  - Buckminster Fuller
 ```
