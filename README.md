@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any sufficiently advanced technology is indistinguishable from magic.
-  - Arthur C. Clarke
+Ideas don't disappear. They change form, they merge with other ideas.
+  - Bob Frankston
 ```
