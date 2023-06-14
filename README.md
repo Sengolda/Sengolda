@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
-  - Poul Anderson
+There are few sources of energy so powerful as a procrastinating grad student.
+  - Paul Graham (programmer)
 ```
