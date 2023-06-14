@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Even in the games of children there are things to interest the greatest mathematician.
-  - Gottfried Wilhelm Leibniz
+Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
+  - Fred Brooks
 ```
