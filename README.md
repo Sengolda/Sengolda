@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-C is quirky, flawed, and an enormous success.
-  - Dennis Ritchie
+I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+  - Poul Anderson
 ```
