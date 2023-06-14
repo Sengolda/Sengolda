@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are few sources of energy so powerful as a procrastinating grad student.
-  - Paul Graham (programmer)
+Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+  - Harlan Mills
 ```
