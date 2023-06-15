@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-For most software, efficiency just does not matter.
-  - Daniel T. Barry
+Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+  - Sean Parent
 ```
