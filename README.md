@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A year spent in artificial intelligence is enough to make one believe in God.
-  - Alan Perlis
+A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
+  - John von Neumann
 ```
