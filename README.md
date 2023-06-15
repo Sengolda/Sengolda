@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+Maintenance cost is strongly affected by the number of users. More users find more bugs.
   - Fred Brooks
 ```
