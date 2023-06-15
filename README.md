@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
-  - Linus Torvalds
+Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
+  - Dennis Ritchie
 ```
