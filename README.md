@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
-  - Rick Osborne
+If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+  - Wayne Ratliff
 ```
