@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good people with a good process will outperform good people with no process every time.
-  - Grady Booch
+If we’d asked the customers what they wanted, they would have said “faster horses”.
+  - Henry Ford
 ```
