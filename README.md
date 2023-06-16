@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
-  - Wayne Ratliff
+They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+  - Ted Nelson
 ```
