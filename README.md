@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What one programmer can do in one month, two programmers can do in two months.
-  - Fred Brooks
+When we don’t understand a process, we fall into magical thinking about results.
+  - Jef Raskin
 ```
