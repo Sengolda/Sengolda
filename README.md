@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
-  - Gary Kildall
+Never trust a computer you can’t throw out a window.
+  - Steve Wozniak
 ```
