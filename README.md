@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When we don’t understand a process, we fall into magical thinking about results.
-  - Jef Raskin
+More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+  - William Wulf
 ```
