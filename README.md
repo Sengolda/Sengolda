@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
-  - Alan Turing
+It’s all talk until the code runs.
+  - Ward Cunningham
 ```
