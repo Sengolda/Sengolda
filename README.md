@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
-  - Edsger W. Dijkstra
+By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+  - Maurice Wilkes
 ```
