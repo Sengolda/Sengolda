@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Once the computers got control, we might never get it back.
-  - Marvin Minsky
+The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+  - Edsger W. Dijkstra
 ```
