@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
-  - Marijn Haverbeke
+Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+  - Harlan Mills
 ```
