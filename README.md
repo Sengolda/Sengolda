@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
-  - Daniel T. Barry
+Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+  - Douglas Crockford
 ```
