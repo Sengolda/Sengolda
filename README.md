@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It’s all talk until the code runs.
-  - Ward Cunningham
+If we’d asked the customers what they wanted, they would have said “faster horses”.
+  - Henry Ford
 ```
