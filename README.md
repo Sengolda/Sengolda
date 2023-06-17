@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm interested in creating images that communicate with people.
-  - Toru Iwatani
+Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+  - Ted Nelson
 ```
