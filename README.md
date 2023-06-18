@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
-  - Bill Gates
+Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+  - James Gleick
 ```
