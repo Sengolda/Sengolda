@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best thing about a boolean is even if you are wrong, you are only off by a bit.
-  - Anonymous
+Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+  - Stewart Brand
 ```
