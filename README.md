@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes it’s just easier to throw a system away, and start over.
-  - Joseph Yoder (computer scientist)
+The top 5% of programmers probably write 99% of the good software.
+  - Paul Graham (programmer)
 ```
