@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I don't like using any tools or programs I didn't write myself or that I don't have some control over.
-  - Jonathan Sachs
+If you think it's simple, then you have misunderstood the problem.
+  - Bjarne Stroustrup
 ```
