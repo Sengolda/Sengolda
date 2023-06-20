@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
-  - Edsger W. Dijkstra
+The best way to know that you have found the last bug is never to find the first bug.
+  - Harlan Mills
 ```
