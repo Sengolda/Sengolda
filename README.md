@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
-  - Alan Turing
+The most important thing is to be able to think what you want, not to say what you want.
+  - Paul Graham (programmer)
 ```
