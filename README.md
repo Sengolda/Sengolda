@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+The most important thing is to be able to think what you want, not to say what you want.
   - Paul Graham (programmer)
 ```
