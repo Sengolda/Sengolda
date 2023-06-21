@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One accurate measurement is worth more than a thousand expert opinions.
-  - Grace Hopper
+When I invented the web, I didn't have to ask anyone's permission.
+  - Tim Berners-Lee
 ```
