@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When I invented the web, I didn't have to ask anyone's permission.
-  - Tim Berners-Lee
+The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+  - Paul Graham (programmer)
 ```
