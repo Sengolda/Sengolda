@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
-  - Harlan Mills
+Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+  - Stewart Brand
 ```
