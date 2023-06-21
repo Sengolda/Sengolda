@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best way to know that you have found the last bug is never to find the first bug.
-  - Harlan Mills
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+  - Seymour Cray
 ```
