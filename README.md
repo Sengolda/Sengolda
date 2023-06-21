@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
-  - John Gall (author)
+Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+  - Anders Hejlsberg
 ```
