@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
-  - Bjarne Stroustrup
+Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+  - Bill Gates
 ```
