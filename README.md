@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes it’s just easier to throw a system away, and start over.
-  - Joseph Yoder (computer scientist)
+There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+  - Marijn Haverbeke
 ```
