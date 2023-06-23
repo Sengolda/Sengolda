@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Imagination is more important than knowledge.
-  - Albert Einstein
+Cleaning code does NOT take time. NOT cleaning code does take time.
+  - Robert C. Martin
 ```
