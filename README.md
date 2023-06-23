@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
-  - Ken Thompson
+I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+  - Tim Berners-Lee
 ```
