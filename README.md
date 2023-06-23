@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-C is quirky, flawed, and an enormous success.
-  - Dennis Ritchie
+It is not the task of the University to offer what society asks for, but to give what society needs.
+  - Edsger W. Dijkstra
 ```
