@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
-  - Martin Fowler
+If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+  - Fred Brooks
 ```
