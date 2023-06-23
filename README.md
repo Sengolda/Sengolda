@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
-  - Ted Nelson
+With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+  - Martin Fowler
 ```
