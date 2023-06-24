@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The hardest part of design is keeping features out.
-  - Don Norman
+Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+  - John Carmack
 ```
