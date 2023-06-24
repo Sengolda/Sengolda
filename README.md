@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
-  - Andy Hunt (author)
+The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+  - Bill Gates
 ```
