@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First do it, then do it right, then do it better.
-  - Addy Osmani
+The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+  - Edsger W. Dijkstra
 ```
