@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Making things easy is hard.
-  - Ted Nelson
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+  - Edsger W. Dijkstra
 ```
