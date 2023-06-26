@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
-  - Danny Hillis
+There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+  - Martin Fowler
 ```
