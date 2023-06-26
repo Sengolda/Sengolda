@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
-  - Elon Musk
+Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+  - Harlan Mills
 ```
