@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No code is faster than no code.
-  - Kevlin Henney
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+  - Rick Osborne
 ```
