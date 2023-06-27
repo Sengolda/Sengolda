@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every good work of software starts by scratching a developer’s personal itch.
-  - Eric S. Raymond
+Really care about the tools you use because they are what make you your best.
+  - Addy Osmani
 ```
