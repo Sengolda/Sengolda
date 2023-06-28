@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
-  - Albert Einstein
+A language that doesn’t have everything is actually easier to program in than some that do.
+  - Dennis Ritchie
 ```
