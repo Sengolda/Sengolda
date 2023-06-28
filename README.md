@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cheapest, fastest, and most reliable components are those that aren’t there.
-  - Gordon Bell
+No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+  - Andy Hunt (author)
 ```
