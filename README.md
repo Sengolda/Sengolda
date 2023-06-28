@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First, solve the problem. Then, write the code.
-  - John Johnson
+False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+  - Fred Brooks
 ```
