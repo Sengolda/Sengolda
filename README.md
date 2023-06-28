@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When I invented the web, I didn't have to ask anyone's permission.
-  - Tim Berners-Lee
+It is easier to change the specification to fit the program than vice versa.
+  - Alan Perlis
 ```
