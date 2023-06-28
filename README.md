@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you think it's simple, then you have misunderstood the problem.
-  - Bjarne Stroustrup
+The cheapest, fastest, and most reliable components are those that aren’t there.
+  - Gordon Bell
 ```
