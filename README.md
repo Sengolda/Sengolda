@@ -39,8 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
-  - Michael A. Jackson
+If you think it's simple, then you have misunderstood the problem.
+  - Bjarne Stroustrup
 ```
