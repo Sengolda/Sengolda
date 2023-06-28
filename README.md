@@ -39,6 +39,8 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A number of studies have shown testing not very effective at finding bugs.
-  - Daniel T. Barry
+Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
+  - Michael A. Jackson
 ```
