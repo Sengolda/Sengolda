@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is easier to change the specification to fit the program than vice versa.
-  - Alan Perlis
+It's not so important what you work on, so long as you're not wasting your time.
+  - Paul Graham (programmer)
 ```
