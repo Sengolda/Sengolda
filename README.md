@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A language that doesn’t have everything is actually easier to program in than some that do.
-  - Dennis Ritchie
+When I invented the web, I didn't have to ask anyone's permission.
+  - Tim Berners-Lee
 ```
