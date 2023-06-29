@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
-  - Edsger W. Dijkstra
+Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
+  - Fred Brooks
 ```
