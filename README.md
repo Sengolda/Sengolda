@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The very best technology never has as much impact as girlfriend or boyfriend trouble.
-  - Tom DeMarco
+Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+  - Richard Hamming
 ```
