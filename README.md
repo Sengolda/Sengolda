@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
-  - Carl Friedrich Gauss
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+  - Brian Kernighan
 ```
