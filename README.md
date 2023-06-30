@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First, solve the problem. Then, write the code.
-  - John Johnson
+A computer shall not waste your time or require you to do more work than is strictly necessary.
+  - Jef Raskin
 ```
