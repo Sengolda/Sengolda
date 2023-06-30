@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There's only one trick in software, and that is using a piece of software that's already been written.
-  - Bill Gates
+No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+  - Andy Hunt (author)
 ```
