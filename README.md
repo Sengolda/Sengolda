@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
-  - Joseph Yoder (computer scientist)
+Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+  - Bjarne Stroustrup
 ```
