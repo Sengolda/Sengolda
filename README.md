@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
-  - Vannevar Bush
+When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+  - Gerald Weinberg
 ```
