@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Never memorize something that you can look up.
-  - Albert Einstein
+The most important part of writing a program is designing the data structures.
+  - Dan Bricklin
 ```
