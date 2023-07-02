@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The hardest part of design is keeping features out.
-  - Don Norman
+The limits of my language mean the limits of my world.
+  - Ludwig Wittgenstein
 ```
