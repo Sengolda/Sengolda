@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good people with a good process will outperform good people with no process every time.
-  - Grady Booch
+The most important thing is to be able to think what you want, not to say what you want.
+  - Paul Graham (programmer)
 ```
