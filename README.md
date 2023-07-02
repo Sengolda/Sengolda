@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In handling resources, strive to avoid disaster rather than to attain an optimum.
-  - Butler Lampson
+One accurate measurement is worth more than a thousand expert opinions.
+  - Grace Hopper
 ```
