@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The limits of my language mean the limits of my world.
-  - Ludwig Wittgenstein
+If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+  - Edsger W. Dijkstra
 ```
