@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
-  - Kent Beck
+Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+  - L. Peter Deutsch
 ```
