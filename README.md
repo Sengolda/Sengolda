@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
-  - Edsger W. Dijkstra
+It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+  - Steve Jobs
 ```
