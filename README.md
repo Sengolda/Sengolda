@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
-  - P. J. Plauger
+Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+  - Anders Hejlsberg
 ```
