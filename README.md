@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
-  - Paul Graham (programmer)
+A few months writing code can save you a few hours in design.
+  - Anonymous
 ```
