@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
-  - Alan Turing
+A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
+  - David Parnas
 ```
