@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
-  - Ted Nelson
+I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+  - Donald Knuth
 ```
