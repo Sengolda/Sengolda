@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
-  - Joseph Yoder (computer scientist)
+A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+  - Alan Turing
 ```
