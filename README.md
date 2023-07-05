@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When in doubt, leave it out.
-  - Joshua Bloch
+Good people with a good process will outperform good people with no process every time.
+  - Grady Booch
 ```
