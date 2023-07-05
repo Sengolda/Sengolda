@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
-  - Daniel T. Barry
+The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+  - Edsger W. Dijkstra
 ```
