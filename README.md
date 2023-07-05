@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
-  - John Carmack
+The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+  - Bill Gates
 ```
