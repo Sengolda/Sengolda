@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-With artificial intelligence we are summoning the demon.
-  - Elon Musk
+Your most unhappy customers are your greatest source of learning.
+  - Bill Gates
 ```
