@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Success is a lousy teacher. It seduces smart people into thinking they can't lose.
-  - Bill Gates
+Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+  - Sean Parent
 ```
