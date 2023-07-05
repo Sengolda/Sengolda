@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
-  - Bill Gates
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+  - Anonymous
 ```
