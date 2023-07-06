@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
-  - Daniel T. Barry
+There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+  - Lawrence Flon
 ```
