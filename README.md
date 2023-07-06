@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
-  - Edsger W. Dijkstra
+Whenever logical processes of thought are employed, there is an opportunity for the machine.
+  - Vannevar Bush
 ```
