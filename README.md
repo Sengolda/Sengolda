@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Science is what we understand well enough to explain to a computer. Art is everything else we do.
-  - Donald Knuth
+It is easier to change the specification to fit the program than vice versa.
+  - Alan Perlis
 ```
