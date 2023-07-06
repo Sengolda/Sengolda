@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer Science is no more about computers than astronomy is about telescopes.
-  - Edsger W. Dijkstra
+Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+  - Daniel T. Barry
 ```
