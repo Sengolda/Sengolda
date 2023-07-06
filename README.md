@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Object-oriented design is the roman numerals of computing.
-  - Rob Pike
+That hardly ever happens is another way of saying 'it happens'.
+  - Douglas Crockford
 ```
