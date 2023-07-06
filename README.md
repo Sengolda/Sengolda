@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
-  - James Gleick
+Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+  - Edsger W. Dijkstra
 ```
