@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We need to be super careful with AI. Potentially more dangerous than nukes.
-  - Elon Musk
+Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+  - James Gleick
 ```
