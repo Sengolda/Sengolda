@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Humanity is acquiring all the right technology for all the wrong reasons.
-  - Buckminster Fuller
+The cheapest, fastest, and most reliable components are those that aren’t there.
+  - Gordon Bell
 ```
