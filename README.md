@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
-  - Andy Hertzfeld
+Humanity is acquiring all the right technology for all the wrong reasons.
+  - Buckminster Fuller
 ```
