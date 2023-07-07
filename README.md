@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I don't like using any tools or programs I didn't write myself or that I don't have some control over.
-  - Jonathan Sachs
+What is simplicity? Simplicity is the shortest path to a solution.
+  - Ward Cunningham
 ```
