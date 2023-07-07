@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
   - Fred Brooks
 ```
