@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
-  - L. Peter Deutsch
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+  - Seymour Cray
 ```
