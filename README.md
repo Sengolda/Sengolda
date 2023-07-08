@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
-  - Anonymous
+Fancy algorithms are slow when n is small, and n is usually small.
+  - Rob Pike
 ```
