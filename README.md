@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Adding manpower to a late software project makes it later.
-  - Fred Brooks
+The purpose of computing is insight, not numbers.
+  - Richard Hamming
 ```
