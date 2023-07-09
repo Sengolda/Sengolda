@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
-  - Douglas Crockford
+The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+  - Bill Gates
 ```
