@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
-  - Marvin Minsky
+In order to understand recursion, one must first understand recursion.
+  - Anonymous
 ```
