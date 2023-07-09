@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
-  - Bill Gates
+One of the important implications of technical debt is that it must be serviced. If the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets.
+  - Steve McConnell
 ```
