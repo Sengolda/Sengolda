@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
-  - Bjarne Stroustrup
+I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
+  - Donald Knuth
 ```
