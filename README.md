@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It was a turning point in my programming career when I realized that I didn't have to win every argument.
-  - Ward Cunningham
+I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+  - Douglas Crockford
 ```
