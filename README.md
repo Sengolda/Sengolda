@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
-  - Albert Einstein
+A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+  - Ted Nelson
 ```
