@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
-  - Anders Hejlsberg
+I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+  - L. Peter Deutsch
 ```
