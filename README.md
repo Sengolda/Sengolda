@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
-  - Ted Nelson
+As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+  - Gottfried Wilhelm Leibniz
 ```
