@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Typing is no substitute for thinking.
-  - Richard Hamming
+Sometimes it’s just easier to throw a system away, and start over.
+  - Joseph Yoder (computer scientist)
 ```
