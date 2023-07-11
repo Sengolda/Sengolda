@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
-  - Douglas Crockford
+Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+  - Ray Ozzie
 ```
