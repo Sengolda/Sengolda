@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
-  - Danny Hillis
+People should be able to speak and breathe programs just like they talk now.
+  - Jaron Lanier
 ```
