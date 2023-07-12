@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
-  - Danny Hillis
+See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+  - Linus Torvalds
 ```
