@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
-  - Charles Babbage
+The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+  - Fred Brooks
 ```
