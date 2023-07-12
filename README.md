@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Whenever logical processes of thought are employed, there is an opportunity for the machine.
-  - Vannevar Bush
+You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+  - Anonymous
 ```
