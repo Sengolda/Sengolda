@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-People under pressure don’t work better; they just work faster.
-  - Tom DeMarco
+Everybody should learn to program a computer, because it teaches you how to think.
+  - Steve Jobs
 ```
