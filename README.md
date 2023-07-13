@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Everybody should learn to program a computer, because it teaches you how to think.
-  - Steve Jobs
+I think one of the most valuable rules is avoid duplication.
+  - Martin Fowler
 ```
