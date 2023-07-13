@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
-  - Philip Greenspun
+I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+  - Ken Thompson
 ```
