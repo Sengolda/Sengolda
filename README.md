@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Imagination is more important than knowledge.
-  - Albert Einstein
+People under pressure don’t work better; they just work faster.
+  - Tom DeMarco
 ```
