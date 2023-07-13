@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
-  - Anders Hejlsberg
+There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+  - Martin Fowler
 ```
