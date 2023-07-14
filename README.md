@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
-  - Donald Knuth
+Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+  - Richard P. Gabriel
 ```
