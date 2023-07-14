@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Within a computer, natural language is unnatural.
-  - Alan Perlis
+I'm not a great programmer; I'm just a good programmer with great habits.
+  - Kent Beck
 ```
