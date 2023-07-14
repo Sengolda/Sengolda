@@ -39,6 +39,8 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When in doubt, leave it out.
-  - Joshua Bloch
+Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
+  - Michael A. Jackson
 ```
