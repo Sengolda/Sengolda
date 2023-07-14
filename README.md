@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What one programmer can do in one month, two programmers can do in two months.
-  - Fred Brooks
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+  - Anonymous
 ```
