@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-JavaScript is the world's most misunderstood programming language.
-  - Douglas Crockford
+Software gets slower faster than hardware gets faster.
+  - Niklaus Wirth
 ```
