@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
-  - Martin Fowler
+I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+  - Richard Stallman
 ```
