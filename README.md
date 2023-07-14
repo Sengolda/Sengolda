@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
-  - Vannevar Bush
+With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+  - Martin Fowler
 ```
