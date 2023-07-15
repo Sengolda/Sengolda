@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
-  - Michael Stal
+A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
+  - Daniel T. Barry
 ```
