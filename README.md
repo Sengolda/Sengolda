@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
-  - Laurence J. Peter
+Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+  - Danny Hillis
 ```
