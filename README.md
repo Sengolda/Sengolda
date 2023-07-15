@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every good work of software starts by scratching a developer’s personal itch.
-  - Eric S. Raymond
+In man-machine symbiosis, it is man who must adjust: The machines can't.
+  - Alan Perlis
 ```
