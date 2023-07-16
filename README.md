@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
-  - Marijn Haverbeke
+Everything should be made as simple as possible. But to do that you have to master complexity.
+  - Butler Lampson
 ```
