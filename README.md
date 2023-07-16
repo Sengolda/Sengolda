@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
-  - Danny Hillis
+And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+  - Vint Cerf
 ```
