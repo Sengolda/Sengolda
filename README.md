@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
-  - Steve Jobs
+The only way to learn a new programming language is by writing programs in it.
+  - Dennis Ritchie
 ```
