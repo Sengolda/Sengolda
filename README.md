@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming can be addictive.
-  - Bob Carr
+In my second year in graduate school, I took a computer course and that was like lightening striking.
+  - Ted Nelson
 ```
