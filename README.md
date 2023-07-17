@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Compatibility means deliberately repeating other people’s mistakes.
-  - David Wheeler (computer scientist)
+Programming can be addictive.
+  - Bob Carr
 ```
