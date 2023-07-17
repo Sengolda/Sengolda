@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
-  - Albert Einstein
+Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+  - Bill Gates
 ```
