@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The top 5% of programmers probably write 99% of the good software.
-  - Paul Graham (programmer)
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+  - Anonymous
 ```
