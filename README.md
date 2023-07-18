@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As with most projects, the last two percent takes fifty percent of the time.
-  - John Warnock
+If Microsoft ever does applications for Linux it means I've won.
+  - Linus Torvalds
 ```
