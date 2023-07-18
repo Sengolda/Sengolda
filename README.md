@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Everything should be made as simple as possible. But to do that you have to master complexity.
-  - Butler Lampson
+The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+  - Donald Knuth
 ```
