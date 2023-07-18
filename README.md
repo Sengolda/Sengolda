@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
-  - Charles Babbage
+Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
+  - Douglas Crockford
 ```
