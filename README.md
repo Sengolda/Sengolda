@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Debugging is like being the detective in a crime movie where you are also the murderer.
-  - Filipe Fortes
+We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+  - Ada Lovelace
 ```
