@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
-  - Anders Hejlsberg
+Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
+  - Maurice Wilkes
 ```
