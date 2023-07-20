@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
-  - Albert Einstein
+Cleaning code does NOT take time. NOT cleaning code does take time.
+  - Robert C. Martin
 ```
