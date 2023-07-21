@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
-  - Butler Lampson
+When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+  - Arthur C. Clarke
 ```
