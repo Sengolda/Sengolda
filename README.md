@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
-  - John Carmack
+Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+  - Edsger W. Dijkstra
 ```
