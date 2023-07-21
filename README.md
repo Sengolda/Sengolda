@@ -39,8 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
-  - Michael A. Jackson
+First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
+  - Fred Brooks
 ```
