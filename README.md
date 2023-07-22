@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
-  - John Carmack
+The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
+  - Grady Booch
 ```
