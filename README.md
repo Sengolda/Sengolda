@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
-  - Ken Thompson
+Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+  - Ted Nelson
 ```
