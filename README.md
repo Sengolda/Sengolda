@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Never memorize something that you can look up.
-  - Albert Einstein
+If you have a procedure with 10 parameters, you probably missed some.
+  - Alan Perlis
 ```
