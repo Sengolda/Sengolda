@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The more code you have, the more places there are for bugs to hide.
-  - Rich Skrenta
+Codes are a puzzle. A game, just like any other game.
+  - Alan Turing
 ```
