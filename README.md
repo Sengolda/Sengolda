@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
-  - Alan Perlis
+There's only one trick in software, and that is using a piece of software that's already been written.
+  - Bill Gates
 ```
