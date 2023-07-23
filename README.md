@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you have a procedure with 10 parameters, you probably missed some.
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
   - Alan Perlis
 ```
