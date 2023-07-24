@@ -39,7 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think there is a world market for maybe five
-computers.
-  - Thomas J. Watson
+Programming increases goes as a power of program size.
+  - Fred Brooks
 ```
