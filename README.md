@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-JavaScript, purely by accident, has become the most popular programming language in the world.
-  - Douglas Crockford
+Whenever logical processes of thought are employed, there is an opportunity for the machine.
+  - Vannevar Bush
 ```
