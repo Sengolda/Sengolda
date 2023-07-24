@@ -39,6 +39,7 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When I invented the web, I didn't have to ask anyone's permission.
-  - Tim Berners-Lee
+I think there is a world market for maybe five
+computers.
+  - Thomas J. Watson
 ```
