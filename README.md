@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
-  - Douglas Crockford
+There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+  - Martin Fowler
 ```
