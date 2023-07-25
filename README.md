@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
-  - Ellen Ullman
+A language that doesn’t have everything is actually easier to program in than some that do.
+  - Dennis Ritchie
 ```
