@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Life is too short to run proprietary software.
-  - Bdale Garbee
+You should name a variable using the same care with which you name a first-born child.
+  - Jim Coplien
 ```
