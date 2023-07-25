@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
-  - Bjarne Stroustrup
+The hardest part of design is keeping features out.
+  - Don Norman
 ```
