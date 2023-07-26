@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
-  - Harlan Mills
+The more code you have, the more places there are for bugs to hide.
+  - Rich Skrenta
 ```
