@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Ideas don't disappear. They change form, they merge with other ideas.
-  - Bob Frankston
+JavaScript is the world's most misunderstood programming language.
+  - Douglas Crockford
 ```
