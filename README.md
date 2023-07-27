@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
-  - Bill Gates
+Don't worry about anything. Just do what you can and be the best you can be.
+  - Douglas Crockford
 ```
