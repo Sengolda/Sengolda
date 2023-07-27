@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Don't worry about anything. Just do what you can and be the best you can be.
+JavaScript is the world's most misunderstood programming language.
   - Douglas Crockford
 ```
