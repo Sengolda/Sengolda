@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Once you stop learning you start dying.
-  - Albert Einstein
+Any product that needs a manual to work is broken.
+  - Elon Musk
 ```
