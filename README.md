@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you think it's simple, then you have misunderstood the problem.
-  - Bjarne Stroustrup
+Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
+  - Douglas Crockford
 ```
