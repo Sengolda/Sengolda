@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any product that needs a manual to work is broken.
-  - Elon Musk
+The act of describing a program in unambiguous detail and the act of programming are one and the same.
+  - Kevlin Henney
 ```
