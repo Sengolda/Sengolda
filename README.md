@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
-  - Martin Fowler
+Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+  - Edsger W. Dijkstra
 ```
