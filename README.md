@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
-  - Albert Einstein
+I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+  - Jonathan Sachs
 ```
