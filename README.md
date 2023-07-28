@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I don't like using any tools or programs I didn't write myself or that I don't have some control over.
-  - Jonathan Sachs
+The manager's function is not to make people work, but to make it possible for people to work.
+  - Tom DeMarco
 ```
