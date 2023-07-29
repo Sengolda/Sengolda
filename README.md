@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
-  - Jeremy S. Anderson
+First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
+  - Fred Brooks
 ```
