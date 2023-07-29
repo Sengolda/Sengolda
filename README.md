@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
-  - Steve Jobs
+An evolving system increases its complexity unless work is done to reduce it.
+  - Manny Lehman (computer scientist)
 ```
