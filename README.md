@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
-  - Pete Cordell
+In handling resources, strive to avoid disaster rather than to attain an optimum.
+  - Butler Lampson
 ```
