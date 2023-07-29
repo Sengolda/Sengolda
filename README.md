@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When I invented the web, I didn't have to ask anyone's permission.
-  - Tim Berners-Lee
+Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+  - Pete Cordell
 ```
