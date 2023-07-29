@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Never memorize something that you can look up.
-  - Albert Einstein
+Every time you improve process, work becomes harder.
+  - Daniel T. Barry
 ```
