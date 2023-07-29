@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Object-oriented design is the roman numerals of computing.
-  - Rob Pike
+What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+  - Michael Hawley
 ```
