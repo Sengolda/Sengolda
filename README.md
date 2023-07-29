@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
-  - Michael Hawley
+Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+  - Richard P. Gabriel
 ```
