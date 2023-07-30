@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First do it, then do it right, then do it better.
-  - Addy Osmani
+A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+  - Danny Hillis
 ```
