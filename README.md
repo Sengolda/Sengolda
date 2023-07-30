@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A beautiful program is like a beautiful theorem: It does the job elegantly.
-  - Butler Lampson
+First do it, then do it right, then do it better.
+  - Addy Osmani
 ```
