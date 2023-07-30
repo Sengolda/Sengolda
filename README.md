@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Don't worry about anything. Just do what you can and be the best you can be.
-  - Douglas Crockford
+So much complexity in software comes from trying to make one thing do two things.
+  - Ryan Singer
 ```
