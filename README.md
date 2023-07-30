@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
-  - Danny Hillis
+The best minds of my generation are thinking about how to make people click ads.
+  - Jeff Hammerbacher
 ```
