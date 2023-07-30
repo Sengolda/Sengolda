@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
-  - Ted Nelson
+Don't worry about anything. Just do what you can and be the best you can be.
+  - Douglas Crockford
 ```
