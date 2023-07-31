@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Simplicity is prerequisite for reliability.
-  - Edsger W. Dijkstra
+Simplicity does not precede complexity, but follows it.
+  - Alan Perlis
 ```
