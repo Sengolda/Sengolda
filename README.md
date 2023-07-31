@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software gets slower faster than hardware gets faster.
-  - Niklaus Wirth
+Simplicity is prerequisite for reliability.
+  - Edsger W. Dijkstra
 ```
