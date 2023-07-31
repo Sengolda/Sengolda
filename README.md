@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
-  - George Boole
+I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
+  - Richard Stallman
 ```
