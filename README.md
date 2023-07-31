@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It's not so important what you work on, so long as you're not wasting your time.
-  - Paul Graham (programmer)
+The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+  - Randall E. Stross
 ```
