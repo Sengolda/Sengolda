@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-That hardly ever happens is another way of saying 'it happens'.
-  - Douglas Crockford
+A programming language is low level when its programs require attention to the irrelevant.
+  - Alan Perlis
 ```
