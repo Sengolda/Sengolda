@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You should name a variable using the same care with which you name a first-born child.
-  - Jim Coplien
+Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+  - Linus Torvalds
 ```
