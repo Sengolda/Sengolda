@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
-  - Bill Gates
+If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+  - Gerald Weinberg
 ```
