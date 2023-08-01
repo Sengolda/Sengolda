@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are few sources of energy so powerful as a procrastinating grad student.
-  - Paul Graham (programmer)
+That hardly ever happens is another way of saying 'it happens'.
+  - Douglas Crockford
 ```
