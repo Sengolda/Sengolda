@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A programming language is low level when its programs require attention to the irrelevant.
-  - Alan Perlis
+Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+  - Jim Horning
 ```
