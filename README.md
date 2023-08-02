@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers.
-  - Fred Brooks
+In theory, there is no difference between theory and practice. But, in practice, there is.
+  - Jan L. A. van de Snepscheut
 ```
