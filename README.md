@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A good programmer is someone who looks both ways before crossing a one-way street.
-  - Doug Linder
+Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+  - Edsger W. Dijkstra
 ```
