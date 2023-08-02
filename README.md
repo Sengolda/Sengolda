@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
-  - Stan Kelly-Bootle
+I think the best way to supervise is by personal example and by frequent code reviews.
+  - Charles Simonyi
 ```
