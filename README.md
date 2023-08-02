@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In theory, there is no difference between theory and practice. But, in practice, there is.
-  - Jan L. A. van de Snepscheut
+A number of studies have shown testing not very effective at finding bugs.
+  - Daniel T. Barry
 ```
