@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think the best way to supervise is by personal example and by frequent code reviews.
-  - Charles Simonyi
+I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
+  - L. Peter Deutsch
 ```
