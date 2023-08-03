@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Just because you've implemented something doesn't mean you understand it.
-  - Brian Cantwell Smith
+To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+  - John Warnock
 ```
