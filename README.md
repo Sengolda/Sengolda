@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
-  - Tim Berners-Lee
+Every good work of software starts by scratching a developer’s personal itch.
+  - Eric S. Raymond
 ```
