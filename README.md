@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Documentation is a love letter that you write to your future self.
-  - Damian Conway
+I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+  - Alan Kay
 ```
