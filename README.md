@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
-  - Ellen Ullman
+If we’d asked the customers what they wanted, they would have said “faster horses”.
+  - Henry Ford
 ```
