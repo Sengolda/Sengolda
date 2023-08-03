@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
-  - Charles Simonyi
+JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+  - Douglas Crockford
 ```
