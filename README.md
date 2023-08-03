@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
   - Fred Brooks
 ```
