@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-AI is a fundamental risk to the existence of human civilization.
-  - Elon Musk
+I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+  - Simon Peyton Jones
 ```
