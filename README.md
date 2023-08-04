@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What one programmer can do in one month, two programmers can do in two months.
+The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
   - Fred Brooks
 ```
