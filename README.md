@@ -39,6 +39,7 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Typing is no substitute for thinking.
-  - Richard Hamming
+If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
+  - Bob Frankston
 ```
