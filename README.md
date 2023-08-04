@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No code is faster than no code.
-  - Kevlin Henney
+What one programmer can do in one month, two programmers can do in two months.
+  - Fred Brooks
 ```
