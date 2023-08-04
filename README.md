@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cleaning code does NOT take time. NOT cleaning code does take time.
-  - Robert C. Martin
+An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+  - Harlan Mills
 ```
