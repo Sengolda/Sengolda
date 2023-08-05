@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
-  - Daniel T. Barry
+When debugging, novices insert corrective code; experts remove defective code.
+  - Richard E. Pattis
 ```
