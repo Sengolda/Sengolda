@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-JavaScript is the world's most misunderstood programming language.
-  - Douglas Crockford
+A beautiful program is like a beautiful theorem: It does the job elegantly.
+  - Butler Lampson
 ```
