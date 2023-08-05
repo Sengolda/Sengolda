@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When debugging, novices insert corrective code; experts remove defective code.
-  - Richard E. Pattis
+I think one of the most valuable rules is avoid duplication.
+  - Martin Fowler
 ```
