@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A beautiful program is like a beautiful theorem: It does the job elegantly.
-  - Butler Lampson
+Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+  - James Gleick
 ```
