@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Really good programs live forever.
-  - Charles Simonyi
+JavaScript is the world's most misunderstood programming language.
+  - Douglas Crockford
 ```
