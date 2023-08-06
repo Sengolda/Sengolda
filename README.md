@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What is simplicity? Simplicity is the shortest path to a solution.
-  - Ward Cunningham
+One man's constant is another man's variable.
+  - Alan Perlis
 ```
