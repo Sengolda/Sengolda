@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
-  - Donald Knuth
+JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+  - Douglas Crockford
 ```
