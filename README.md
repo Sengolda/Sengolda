@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
-  - Maurice Wilkes
+What is simplicity? Simplicity is the shortest path to a solution.
+  - Ward Cunningham
 ```
