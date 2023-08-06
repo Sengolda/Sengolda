@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
-  - Douglas Crockford
+In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
+  - Richard Stallman
 ```
