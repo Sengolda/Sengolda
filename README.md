@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
-  - Alan Perlis
+Codes are a puzzle. A game, just like any other game.
+  - Alan Turing
 ```
