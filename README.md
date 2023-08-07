@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The computing scientist’s main challenge is not to get confused by the complexities of his own making.
-  - Edsger W. Dijkstra
+A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+  - Fred Brooks
 ```
