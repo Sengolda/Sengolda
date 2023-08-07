@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cool URIs don't change.
-  - Tim Berners-Lee
+Object-oriented design is the roman numerals of computing.
+  - Rob Pike
 ```
