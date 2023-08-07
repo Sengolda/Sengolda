@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
-  - Charles Babbage
+The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+  - Bill Gates
 ```
