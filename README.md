@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Object-oriented design is the roman numerals of computing.
-  - Rob Pike
+C is quirky, flawed, and an enormous success.
+  - Dennis Ritchie
 ```
