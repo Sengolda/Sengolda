@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Low-level programming is good for the programmer’s soul.
-  - John Carmack
+Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+  - Fred Brooks
 ```
