@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
-  - Lawrence Flon
+The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
+  - Manuel Blum
 ```
