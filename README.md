@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
-  - Richard Hamming
+A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
+  - John von Neumann
 ```
