@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
-  - Charles Babbage
+In man-machine symbiosis, it is man who must adjust: The machines can't.
+  - Alan Perlis
 ```
