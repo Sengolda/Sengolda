@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In man-machine symbiosis, it is man who must adjust: The machines can't.
+The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
   - Alan Perlis
 ```
