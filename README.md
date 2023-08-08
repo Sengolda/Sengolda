@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When we don’t understand a process, we fall into magical thinking about results.
-  - Jef Raskin
+The Domain Name Server (DNS) is the Achilles heel of the Web.
+  - Tim Berners-Lee
 ```
