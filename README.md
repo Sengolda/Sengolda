@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
-  - Edsger W. Dijkstra
+The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+  - Charles Babbage
 ```
