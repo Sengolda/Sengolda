@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
-  - L. Peter Deutsch
+Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+  - Richard P. Gabriel
 ```
