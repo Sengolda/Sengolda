@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Just because you've implemented something doesn't mean you understand it.
-  - Brian Cantwell Smith
+If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+  - Bill Gates
 ```
