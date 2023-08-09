@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Simplicity is prerequisite for reliability.
-  - Edsger W. Dijkstra
+What one programmer can do in one month, two programmers can do in two months.
+  - Fred Brooks
 ```
