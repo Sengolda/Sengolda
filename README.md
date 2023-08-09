@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It’s all talk until the code runs.
-  - Ward Cunningham
+In handling resources, strive to avoid disaster rather than to attain an optimum.
+  - Butler Lampson
 ```
