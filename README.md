@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
-  - Fred Brooks
+Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+  - Richard P. Gabriel
 ```
