@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
-  - Richard P. Gabriel
+No matter how slow you are writing clean code, you will always be slower if you make a mess.
+  - Robert C. Martin
 ```
