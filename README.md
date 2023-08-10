@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
-  - John von Neumann
+You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
+  - John Romero
 ```
