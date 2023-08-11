@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-AI is a fundamental risk to the existence of human civilization.
-  - Elon Musk
+Unix is simple. It just takes a genius to understand its simplicity.
+  - Dennis Ritchie
 ```
