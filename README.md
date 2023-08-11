@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To iterate is human, to recurse divine.
-  - L. Peter Deutsch
+The purpose of computing is insight, not numbers.
+  - Richard Hamming
 ```
