@@ -39,6 +39,8 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In theory, there is no difference between theory and practice. But, in practice, there is.
-  - Jan L. A. van de Snepscheut
+Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
+  - Michael A. Jackson
 ```
