@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The purpose of computing is insight, not numbers.
-  - Richard Hamming
+With artificial intelligence we are summoning the demon.
+  - Elon Musk
 ```
