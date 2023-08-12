@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
-  - Simon Peyton Jones
+One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+  - Fred Brooks
 ```
