@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
-  - Joseph Yoder (computer scientist)
+It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+  - Steve Jobs
 ```
