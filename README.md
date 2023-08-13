@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Everything should be made as simple as possible. But to do that you have to master complexity.
-  - Butler Lampson
+A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+  - Albert Einstein
 ```
