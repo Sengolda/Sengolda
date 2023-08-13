@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
-  - Ellen Ullman
+I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
+  - Gary Kildall
 ```
