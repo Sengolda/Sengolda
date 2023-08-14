@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Within a computer, natural language is unnatural.
-  - Alan Perlis
+Any sufficiently advanced technology is indistinguishable from magic.
+  - Arthur C. Clarke
 ```
