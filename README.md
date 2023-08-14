@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Low-level programming is good for the programmer’s soul.
-  - John Carmack
+If you think your users are idiots, only idiots will use it.
+  - Linus Torvalds
 ```
