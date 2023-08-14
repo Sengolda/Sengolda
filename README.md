@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
-  - Alan Perlis
+C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+  - Bjarne Stroustrup
 ```
