@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Debugging time increases as a square of the program’s size.
-  - Chris Wenham
+Never trust a computer you can’t throw out a window.
+  - Steve Wozniak
 ```
