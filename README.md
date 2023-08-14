@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Controlling complexity is the essence of computer programming.
-  - Brian Kernighan
+The very best technology never has as much impact as girlfriend or boyfriend trouble.
+  - Tom DeMarco
 ```
