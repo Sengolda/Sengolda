@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
-  - Alan Kay
+If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+  - Joe Armstrong (programmer)
 ```
