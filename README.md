@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Life is too short to run proprietary software.
-  - Bdale Garbee
+The purpose of software engineering is to control complexity, not to create it.
+  - Pamela Zave
 ```
