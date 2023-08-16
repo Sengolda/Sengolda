@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
-  - Albert Einstein
+The only way to learn a new programming language is by writing programs in it.
+  - Dennis Ritchie
 ```
