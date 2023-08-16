@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you learn how to solve problems, you can go through life and do pretty well.
-  - Gary Kildall
+We need to be super careful with AI. Potentially more dangerous than nukes.
+  - Elon Musk
 ```
