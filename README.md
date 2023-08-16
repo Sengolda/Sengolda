@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We need to be super careful with AI. Potentially more dangerous than nukes.
-  - Elon Musk
+Within a computer, natural language is unnatural.
+  - Alan Perlis
 ```
