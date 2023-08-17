@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In my second year in graduate school, I took a computer course and that was like lightening striking.
-  - Ted Nelson
+Compatibility means deliberately repeating other people’s mistakes.
+  - David Wheeler (computer scientist)
 ```
