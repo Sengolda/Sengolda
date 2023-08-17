@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you learn how to solve problems, you can go through life and do pretty well.
-  - Gary Kildall
+A clever person solves a problem. A wise person avoids it.
+  - Albert Einstein
 ```
