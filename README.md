@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-With artificial intelligence we are summoning the demon.
-  - Elon Musk
+In my second year in graduate school, I took a computer course and that was like lightening striking.
+  - Ted Nelson
 ```
