@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
-  - Joseph Yoder (computer scientist)
+It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+  - Steve Jobs
 ```
