@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Once you stop learning you start dying.
-  - Albert Einstein
+Young man, in mathematics you don't understand things. You just get used to them.
+  - John von Neumann
 ```
