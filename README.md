@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
-  - Steve Jobs
+Debugging time increases as a square of the program’s size.
+  - Chris Wenham
 ```
