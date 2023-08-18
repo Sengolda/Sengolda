@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There is never enough time to do it right, but there is always enough time to fix it or to do it over.
-  - Daniel T. Barry
+I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+  - Tim Berners-Lee
 ```
