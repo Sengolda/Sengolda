@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
-  - Joe Armstrong (programmer)
+There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+  - Daniel T. Barry
 ```
