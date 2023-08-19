@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Most errors are introduced during requirements specification!
-  - Daniel T. Barry
+AI is a fundamental risk to the existence of human civilization.
+  - Elon Musk
 ```
