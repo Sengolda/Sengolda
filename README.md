@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any product that needs a manual to work is broken.
-  - Elon Musk
+If you think your users are idiots, only idiots will use it.
+  - Linus Torvalds
 ```
