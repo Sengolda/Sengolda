@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In handling resources, strive to avoid disaster rather than to attain an optimum.
-  - Butler Lampson
+It is easier to change the specification to fit the program than vice versa.
+  - Alan Perlis
 ```
