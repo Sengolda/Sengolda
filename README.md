@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It's not so important what you work on, so long as you're not wasting your time.
-  - Paul Graham (programmer)
+I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+  - David Parnas
 ```
