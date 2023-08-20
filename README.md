@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Talk is cheap. Show me the code.
-  - Linus Torvalds
+We who cut mere stones must always be envisioning cathedrals.
+  - Quarry worker's creed
 ```
