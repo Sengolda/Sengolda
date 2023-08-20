@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Typing is no substitute for thinking.
+The purpose of computing is insight, not numbers.
   - Richard Hamming
 ```
