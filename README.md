@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
-  - Steve Jobs
+As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+  - Gottfried Wilhelm Leibniz
 ```
