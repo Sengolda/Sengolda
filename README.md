@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A computer shall not waste your time or require you to do more work than is strictly necessary.
-  - Jef Raskin
+What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+  - Tim Berners-Lee
 ```
