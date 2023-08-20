@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To iterate is human, to recurse divine.
-  - L. Peter Deutsch
+In my second year in graduate school, I took a computer course and that was like lightening striking.
+  - Ted Nelson
 ```
