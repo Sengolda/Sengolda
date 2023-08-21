@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
-  - David Gelernter
+Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
+  - Stan Kelly-Bootle
 ```
