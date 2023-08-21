@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Young man, in mathematics you don't understand things. You just get used to them.
-  - John von Neumann
+A beautiful program is like a beautiful theorem: It does the job elegantly.
+  - Butler Lampson
 ```
