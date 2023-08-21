@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
-  - Richard Hamming
+The next best thing to having good ideas is recognizing good ideas from your users.
+  - Eric S. Raymond
 ```
