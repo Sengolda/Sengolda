@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One accurate measurement is worth more than a thousand expert opinions.
-  - Grace Hopper
+First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+  - George Carrette
 ```
