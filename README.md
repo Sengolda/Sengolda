@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
-  - Fred Brooks
+Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+  - Wayne Ratliff
 ```
