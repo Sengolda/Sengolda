@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-People should be able to speak and breathe programs just like they talk now.
-  - Jaron Lanier
+The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+  - Danny Hillis
 ```
