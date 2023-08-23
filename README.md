@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Dealing with failure is easy: Work hard to improve.
-  - Alan Perlis
+I think you should always bear in mind that entropy is not on your side.
+  - Elon Musk
 ```
