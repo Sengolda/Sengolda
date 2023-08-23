@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
-  - L. Peter Deutsch
+The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+  - Joshua Bloch
 ```
