@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
-  - Leslie Lamport
+The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+  - Charles Simonyi
 ```
