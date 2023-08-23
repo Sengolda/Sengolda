@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you think it's simple, then you have misunderstood the problem.
-  - Bjarne Stroustrup
+What I cannot build, I do not understand.
+  - Richard Feynman
 ```
