@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What I cannot build, I do not understand.
-  - Richard Feynman
+Most errors are introduced during requirements specification!
+  - Daniel T. Barry
 ```
