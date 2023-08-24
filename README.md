@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Within a computer, natural language is unnatural.
-  - Alan Perlis
+The more code you have, the more places there are for bugs to hide.
+  - Rich Skrenta
 ```
