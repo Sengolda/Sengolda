@@ -39,6 +39,8 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
-  - Edsger W. Dijkstra
+Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
+  - Michael A. Jackson
 ```
