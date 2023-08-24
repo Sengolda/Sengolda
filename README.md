@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
-  - Brian Kernighan
+No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+  - Andy Hunt (author)
 ```
