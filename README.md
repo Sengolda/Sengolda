@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
-  - George Boole
+Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+  - Pete Cordell
 ```
