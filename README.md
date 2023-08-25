@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To iterate is human, to recurse divine.
-  - L. Peter Deutsch
+The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+  - Fred Brooks
 ```
