@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
-  - Richard P. Gabriel
+Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.
+  - Martin Fowler
 ```
