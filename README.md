@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Your most unhappy customers are your greatest source of learning.
-  - Bill Gates
+Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+  - Sean Parent
 ```
