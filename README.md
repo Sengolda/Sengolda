@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
-  - Gerald Weinberg
+I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+  - Douglas Crockford
 ```
