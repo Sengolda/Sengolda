@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
-  - Douglas Crockford
+The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+  - Terry Winograd
 ```
