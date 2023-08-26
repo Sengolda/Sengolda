@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
-  - Harlan Mills
+It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+  - Douglas Crockford
 ```
