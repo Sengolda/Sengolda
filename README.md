@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
-  - Terry Winograd
+Walking on water and developing software from a specification are easy if both are frozen.
+  - Edward V. Berard
 ```
