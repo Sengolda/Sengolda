@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
-  - Linus Torvalds
+If you learn how to solve problems, you can go through life and do pretty well.
+  - Gary Kildall
 ```
