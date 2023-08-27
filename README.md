@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
-  - Addy Osmani
+A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+  - Ivan Sutherland
 ```
