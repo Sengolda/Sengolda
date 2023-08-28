@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A language that doesn’t have everything is actually easier to program in than some that do.
-  - Dennis Ritchie
+I think programming is very much a religious experience for a lot of people.
+  - Gary Kildall
 ```
