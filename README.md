@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
-  - Bill Gates
+Science is what we understand well enough to explain to a computer. Art is everything else we do.
+  - Donald Knuth
 ```
