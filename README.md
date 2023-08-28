@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
-  - Daniel T. Barry
+Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+  - Marvin Minsky
 ```
