@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most important part of writing a program is designing the data structures.
-  - Dan Bricklin
+Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+  - Daniel T. Barry
 ```
