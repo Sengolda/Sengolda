@@ -39,8 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
-  - Michael A. Jackson
+Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+  - Addy Osmani
 ```
