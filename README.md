@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think one of the most valuable rules is avoid duplication.
-  - Martin Fowler
+One accurate measurement is worth more than a thousand expert opinions.
+  - Grace Hopper
 ```
