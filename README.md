@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
-  - Alan Perlis
+Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+  - David Gelernter
 ```
