@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
-  - Anders Hejlsberg
+Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
+  - Douglas Crockford
 ```
