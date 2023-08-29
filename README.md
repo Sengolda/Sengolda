@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
-  - Linus Torvalds
+It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+  - Alan Perlis
 ```
