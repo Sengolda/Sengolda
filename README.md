@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
-  - Ada Lovelace
+Sometimes it’s just easier to throw a system away, and start over.
+  - Joseph Yoder (computer scientist)
 ```
