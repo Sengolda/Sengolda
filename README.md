@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First, solve the problem. Then, write the code.
-  - John Johnson
+The purpose of software engineering is to control complexity, not to create it.
+  - Pamela Zave
 ```
