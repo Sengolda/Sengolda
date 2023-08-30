@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cool URIs don't change.
-  - Tim Berners-Lee
+A good programmer is someone who looks both ways before crossing a one-way street.
+  - Doug Linder
 ```
