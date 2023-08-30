@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
-  - Bjarne Stroustrup
+We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+  - Ada Lovelace
 ```
