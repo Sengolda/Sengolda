@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
-  - Marijn Haverbeke
+The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+  - Danny Hillis
 ```
