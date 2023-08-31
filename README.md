@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
-  - Richard Stallman
+The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+  - Tom DeMarco
 ```
