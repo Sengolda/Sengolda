@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In handling resources, strive to avoid disaster rather than to attain an optimum.
-  - Butler Lampson
+Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+  - Daniel T. Barry
 ```
