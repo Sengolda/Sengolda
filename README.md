@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
-  - Jamie Zawinski
+I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
+  - Charles Simonyi
 ```
