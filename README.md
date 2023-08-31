@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-JavaScript, purely by accident, has become the most popular programming language in the world.
-  - Douglas Crockford
+Every good work of software starts by scratching a developer’s personal itch.
+  - Eric S. Raymond
 ```
