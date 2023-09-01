@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer programs are the most complex things that humans make.
-  - Douglas Crockford
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
+  - Linus Torvalds
 ```
