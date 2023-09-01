@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
+The real problem with throwaway code comes when it isn't thrown away.
   - Joseph Yoder (computer scientist)
 ```
