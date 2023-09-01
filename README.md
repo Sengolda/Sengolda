@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
-  - David Parnas
+You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+  - Steve Jobs
 ```
