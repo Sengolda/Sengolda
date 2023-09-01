@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any product that needs a manual to work is broken.
-  - Elon Musk
+A language that doesn’t have everything is actually easier to program in than some that do.
+  - Dennis Ritchie
 ```
