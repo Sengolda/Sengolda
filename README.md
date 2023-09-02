@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Documentation is a love letter that you write to your future self.
-  - Damian Conway
+Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+  - Edsger W. Dijkstra
 ```
