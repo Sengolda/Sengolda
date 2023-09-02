@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The Domain Name Server (DNS) is the Achilles heel of the Web.
-  - Tim Berners-Lee
+What one programmer can do in one month, two programmers can do in two months.
+  - Fred Brooks
 ```
