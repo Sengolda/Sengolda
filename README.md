@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
-  - Ted Nelson
+The Domain Name Server (DNS) is the Achilles heel of the Web.
+  - Tim Berners-Lee
 ```
