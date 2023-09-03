@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer Science is no more about computers than astronomy is about telescopes.
-  - Edsger W. Dijkstra
+I think programming is very much a religious experience for a lot of people.
+  - Gary Kildall
 ```
