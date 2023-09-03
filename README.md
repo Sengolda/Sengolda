@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think programming is very much a religious experience for a lot of people.
-  - Gary Kildall
+The only way to learn a new programming language is by writing programs in it.
+  - Dennis Ritchie
 ```
