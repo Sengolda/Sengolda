@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
-  - L. Peter Deutsch
+What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+  - Charles Simonyi
 ```
