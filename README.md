@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good people with a good process will outperform good people with no process every time.
-  - Grady Booch
+As with most projects, the last two percent takes fifty percent of the time.
+  - John Warnock
 ```
