@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
-  - Chris Sacca
+Typing is no substitute for thinking.
+  - Richard Hamming
 ```
