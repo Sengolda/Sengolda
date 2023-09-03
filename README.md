@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
-  - Vannevar Bush
+Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+  - Richard Hamming
 ```
