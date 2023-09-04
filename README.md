@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
-  - John Romero
+The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+  - Harlan Mills
 ```
