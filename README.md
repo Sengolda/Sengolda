@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
-  - Joshua Bloch
+What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+  - Tim Berners-Lee
 ```
