@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm interested in creating images that communicate with people.
-  - Toru Iwatani
+Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+  - Daniel T. Barry
 ```
