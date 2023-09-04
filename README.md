@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
-  - Ward Cunningham
+The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+  - Joshua Bloch
 ```
