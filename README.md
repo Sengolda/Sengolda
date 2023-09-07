@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
-  - Danny Hillis
+Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+  - Richard P. Gabriel
 ```
