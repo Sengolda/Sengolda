@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
-  - Linus Torvalds
+The most important single aspect of software development is to be clear about what you are trying to build.
+  - Bjarne Stroustrup
 ```
