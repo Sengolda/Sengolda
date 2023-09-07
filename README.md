@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Less code equals less bugs.
-  - Kevlin Henney
+LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+  - Edsger W. Dijkstra
 ```
