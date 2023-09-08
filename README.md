@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
-  - Eric S. Raymond
+The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
+  - Richard Stallman
 ```
