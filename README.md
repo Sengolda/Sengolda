@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
-  - Andy Hunt (author)
+The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+  - Charles Babbage
 ```
