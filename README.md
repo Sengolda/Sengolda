@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
-  - Leslie Lamport
+I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+  - Simon Peyton Jones
 ```
