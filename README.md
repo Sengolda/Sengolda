@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What is simplicity? Simplicity is the shortest path to a solution.
-  - Ward Cunningham
+Dealing with failure is easy: Work hard to improve.
+  - Alan Perlis
 ```
