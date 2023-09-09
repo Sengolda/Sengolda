@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
-  - Marvin Minsky
+Simplicity does not precede complexity, but follows it.
+  - Alan Perlis
 ```
