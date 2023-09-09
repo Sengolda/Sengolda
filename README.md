@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
-  - Fred Brooks
+The best minds of my generation are thinking about how to make people click ads.
+  - Jeff Hammerbacher
 ```
