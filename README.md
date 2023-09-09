@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The real problem with throwaway code comes when it isn't thrown away.
-  - Joseph Yoder (computer scientist)
+When debugging, novices insert corrective code; experts remove defective code.
+  - Richard E. Pattis
 ```
