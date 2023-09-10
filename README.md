@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Science is what we understand well enough to explain to a computer. Art is everything else we do.
-  - Donald Knuth
+Programs must be written for people to read, and only incidentally for machines to execute.
+  - Hal Abelson
 ```
