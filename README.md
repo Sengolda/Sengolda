@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When we don’t understand a process, we fall into magical thinking about results.
-  - Jef Raskin
+So much complexity in software comes from trying to make one thing do two things.
+  - Ryan Singer
 ```
