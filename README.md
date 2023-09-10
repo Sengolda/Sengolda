@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best way to know that you have found the last bug is never to find the first bug.
-  - Harlan Mills
+Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+  - Fred Brooks
 ```
