@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The very best technology never has as much impact as girlfriend or boyfriend trouble.
-  - Tom DeMarco
+The best way to know that you have found the last bug is never to find the first bug.
+  - Harlan Mills
 ```
