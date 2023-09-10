@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-So much complexity in software comes from trying to make one thing do two things.
-  - Ryan Singer
+Ideas don't disappear. They change form, they merge with other ideas.
+  - Bob Frankston
 ```
