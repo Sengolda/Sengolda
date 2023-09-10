@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Success is a lousy teacher. It seduces smart people into thinking they can't lose.
-  - Bill Gates
+Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+  - P. J. Plauger
 ```
