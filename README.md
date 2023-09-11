@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming increases goes as a power of program size.
-  - Fred Brooks
+Fancy algorithms are slow when n is small, and n is usually small.
+  - Rob Pike
 ```
