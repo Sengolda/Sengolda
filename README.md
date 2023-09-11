@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The purpose of computing is insight, not numbers.
-  - Richard Hamming
+Debugging time increases as a square of the program’s size.
+  - Chris Wenham
 ```
