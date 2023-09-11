@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
-  - Ted Nelson
+Software engineering is the part of computer science which is too difficult for the computer scientist.
+  - Friedrich Bauer
 ```
