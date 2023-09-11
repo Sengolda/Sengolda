@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-With artificial intelligence we are summoning the demon.
-  - Elon Musk
+Humanity is acquiring all the right technology for all the wrong reasons.
+  - Buckminster Fuller
 ```
