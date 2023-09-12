@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-JavaScript, purely by accident, has become the most popular programming language in the world.
-  - Douglas Crockford
+If Microsoft ever does applications for Linux it means I've won.
+  - Linus Torvalds
 ```
