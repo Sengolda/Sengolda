@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
-  - Edsger W. Dijkstra
+The best way to know that you have found the last bug is never to find the first bug.
+  - Harlan Mills
 ```
