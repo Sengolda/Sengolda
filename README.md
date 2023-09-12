@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Debugging time increases as a square of the program’s size.
-  - Chris Wenham
+The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+  - Michael A. Jackson
 ```
