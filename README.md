@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Dealing with failure is easy: Work hard to improve.
-  - Alan Perlis
+In handling resources, strive to avoid disaster rather than to attain an optimum.
+  - Butler Lampson
 ```
