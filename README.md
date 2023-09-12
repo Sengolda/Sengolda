@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
-  - Fred Brooks
+A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+  - Danny Hillis
 ```
