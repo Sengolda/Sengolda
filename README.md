@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good software, like good wine, takes time.
-  - Joel Spolsky
+Programming is the ultimate field for someone who likes to tinker.
+  - Ray Ozzie
 ```
