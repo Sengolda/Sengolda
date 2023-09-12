@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
-  - Danny Hillis
+JavaScript, purely by accident, has become the most popular programming language in the world.
+  - Douglas Crockford
 ```
