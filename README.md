@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
-  - Charles Babbage
+False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+  - Fred Brooks
 ```
