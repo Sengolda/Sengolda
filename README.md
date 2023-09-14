@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
-  - Albert Einstein
+It's not so important what you work on, so long as you're not wasting your time.
+  - Paul Graham (programmer)
 ```
