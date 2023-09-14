@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
-  - Daniel T. Barry
+One of my most productive days was throwing away 1,000 lines of code.
+  - Ken Thompson
 ```
