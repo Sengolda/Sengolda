@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
-  - Gerald Weinberg
+I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
+  - Richard Hamming
 ```
