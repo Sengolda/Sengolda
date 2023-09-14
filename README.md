@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
-  - Alan Perlis
+When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+  - Kent Beck
 ```
