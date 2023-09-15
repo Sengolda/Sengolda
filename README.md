@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Life is too short to run proprietary software.
-  - Bdale Garbee
+It’s all talk until the code runs.
+  - Ward Cunningham
 ```
