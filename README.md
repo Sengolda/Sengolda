@@ -39,6 +39,7 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
-  - Rick Osborne
+If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
+  - Bob Frankston
 ```
