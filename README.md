@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on, and the dedication to go through with it.
-  - John Carmack
+Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+  - Laurence J. Peter
 ```
