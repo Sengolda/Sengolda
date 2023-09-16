@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In order to understand recursion, one must first understand recursion.
-  - Anonymous
+Talk is cheap. Show me the code.
+  - Linus Torvalds
 ```
