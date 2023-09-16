@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First do it, then do it right, then do it better.
-  - Addy Osmani
+Programming is at least as difficult as developing a mathematical theory.
+  - Daniel T. Barry
 ```
