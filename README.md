@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
-  - Laurence J. Peter
+Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+  - Stewart Brand
 ```
