@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-JavaScript, purely by accident, has become the most popular programming language in the world.
-  - Douglas Crockford
+A picture may be worth a thousand words, a formula is worth a thousand pictures.
+  - Edsger W. Dijkstra
 ```
