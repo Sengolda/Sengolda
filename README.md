@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The real problem with throwaway code comes when it isn't thrown away.
-  - Joseph Yoder (computer scientist)
+Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+  - James Gleick
 ```
