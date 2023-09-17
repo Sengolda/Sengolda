@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A clever person solves a problem. A wise person avoids it.
-  - Albert Einstein
+JavaScript, purely by accident, has become the most popular programming language in the world.
+  - Douglas Crockford
 ```
