@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
-  - Rick Osborne
+A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+  - Albert Einstein
 ```
