@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
-  - Bill Gates
+Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
+  - Eric S. Raymond
 ```
