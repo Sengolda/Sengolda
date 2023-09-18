@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When in doubt, leave it out.
-  - Joshua Bloch
+The top 5% of programmers probably write 99% of the good software.
+  - Paul Graham (programmer)
 ```
