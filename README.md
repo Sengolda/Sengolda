@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The top 5% of programmers probably write 99% of the good software.
-  - Paul Graham (programmer)
+The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+  - Edsger W. Dijkstra
 ```
