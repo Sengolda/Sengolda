@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You should name a variable using the same care with which you name a first-born child.
-  - Jim Coplien
+Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+  - Daniel T. Barry
 ```
