@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Before software can be reusable it first has to be usable.
-  - Ralph Johnson (computer scientist)
+You should name a variable using the same care with which you name a first-born child.
+  - Jim Coplien
 ```
