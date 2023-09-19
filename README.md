@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Premature abstraction is as bad as premature optimization.
-  - Luciano Ramalho
+A computer shall not waste your time or require you to do more work than is strictly necessary.
+  - Jef Raskin
 ```
