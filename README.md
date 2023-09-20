@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The entire history of software engineering is that of the rise in levels of abstraction.
-  - Grady Booch
+If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+  - John von Neumann
 ```
