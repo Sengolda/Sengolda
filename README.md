@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
-  - Donald Knuth
+The best way to predict the future is to invent it.
+  - Alan Kay
 ```
