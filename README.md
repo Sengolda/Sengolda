@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
-  - Robert C. Martin
+Young man, in mathematics you don't understand things. You just get used to them.
+  - John von Neumann
 ```
