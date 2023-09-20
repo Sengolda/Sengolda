@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
-  - Edsger W. Dijkstra
+By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+  - Donald Knuth
 ```
