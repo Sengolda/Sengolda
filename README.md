@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In man-machine symbiosis, it is man who must adjust: The machines can't.
-  - Alan Perlis
+The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+  - Ada Lovelace
 ```
