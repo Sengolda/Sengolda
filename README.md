@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Young man, in mathematics you don't understand things. You just get used to them.
-  - John von Neumann
+Sometimes it’s just easier to throw a system away, and start over.
+  - Joseph Yoder (computer scientist)
 ```
