@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
-  - Brian Kernighan
+The entire history of software engineering is that of the rise in levels of abstraction.
+  - Grady Booch
 ```
