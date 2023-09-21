@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-For most software, efficiency just does not matter.
-  - Daniel T. Barry
+The very best technology never has as much impact as girlfriend or boyfriend trouble.
+  - Tom DeMarco
 ```
