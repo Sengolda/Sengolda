@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
-  - Terry Winograd
+Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
+  - Douglas Crockford
 ```
