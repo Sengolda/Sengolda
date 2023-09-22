@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most important part of writing a program is designing the data structures.
-  - Dan Bricklin
+Unix is simple. It just takes a genius to understand its simplicity.
+  - Dennis Ritchie
 ```
