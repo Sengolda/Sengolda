@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Unix is simple. It just takes a genius to understand its simplicity.
-  - Dennis Ritchie
+As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+  - Gottfried Wilhelm Leibniz
 ```
