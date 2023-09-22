@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Nine women can't make a baby in one month.
-  - Fred Brooks
+The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+  - Terry Winograd
 ```
