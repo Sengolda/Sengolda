@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In handling resources, strive to avoid disaster rather than to attain an optimum.
-  - Butler Lampson
+See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+  - Linus Torvalds
 ```
