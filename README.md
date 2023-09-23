@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-AI is a fundamental risk to the existence of human civilization.
-  - Elon Musk
+A beautiful program is like a beautiful theorem: It does the job elegantly.
+  - Butler Lampson
 ```
