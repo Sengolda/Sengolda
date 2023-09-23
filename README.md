@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
-  - Andy Hunt (author)
+Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+  - George Boole
 ```
