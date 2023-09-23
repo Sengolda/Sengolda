@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
-  - Joseph Yoder (computer scientist)
+The most important thing is to be able to think what you want, not to say what you want.
+  - Paul Graham (programmer)
 ```
