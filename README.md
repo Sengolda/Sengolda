@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
-  - Dennis Ritchie
+Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
+  - Eric S. Raymond
 ```
