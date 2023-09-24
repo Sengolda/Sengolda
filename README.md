@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
-  - Alan Perlis
+I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+  - Douglas Crockford
 ```
