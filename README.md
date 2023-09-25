@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The manager's function is not to make people work, but to make it possible for people to work.
-  - Tom DeMarco
+Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+  - L. Peter Deutsch
 ```
