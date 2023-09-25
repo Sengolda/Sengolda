@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Unix is simple. It just takes a genius to understand its simplicity.
+The only way to learn a new programming language is by writing programs in it.
   - Dennis Ritchie
 ```
