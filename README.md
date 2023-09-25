@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming can be addictive.
-  - Bob Carr
+Really good programs live forever.
+  - Charles Simonyi
 ```
