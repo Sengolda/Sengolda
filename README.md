@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
-  - Fred Brooks
+The manager's function is not to make people work, but to make it possible for people to work.
+  - Tom DeMarco
 ```
