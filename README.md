@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There is never enough time to do it right, but there is always enough time to fix it or to do it over.
-  - Daniel T. Barry
+I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+  - Ken Thompson
 ```
