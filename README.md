@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If we’d asked the customers what they wanted, they would have said “faster horses”.
-  - Henry Ford
+Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+  - John von Neumann
 ```
