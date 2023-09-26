@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The proper use of comments is to compensate for our failure to express ourself in code.
-  - Robert C. Martin
+There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+  - Daniel T. Barry
 ```
