@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Unix is simple. It just takes a genius to understand its simplicity.
-  - Dennis Ritchie
+Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+  - Bill Gates
 ```
