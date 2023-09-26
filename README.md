@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-AI is a fundamental risk to the existence of human civilization.
-  - Elon Musk
+If we’d asked the customers what they wanted, they would have said “faster horses”.
+  - Henry Ford
 ```
