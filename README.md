@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good judgement comes from experience. Experience comes from bad judgement.
-  - Jim Horning
+The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+  - Terry Winograd
 ```
