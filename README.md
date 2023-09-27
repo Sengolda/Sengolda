@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software gets slower faster than hardware gets faster.
-  - Niklaus Wirth
+Good judgement comes from experience. Experience comes from bad judgement.
+  - Jim Horning
 ```
