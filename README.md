@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Never trust a computer you can’t throw out a window.
-  - Steve Wozniak
+JavaScript, purely by accident, has become the most popular programming language in the world.
+  - Douglas Crockford
 ```
