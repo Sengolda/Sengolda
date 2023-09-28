@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
-  - Fred Brooks
+The way to arrest entropy in software is to refactor it.
+  - Joseph Yoder (computer scientist)
 ```
