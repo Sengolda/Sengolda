@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most important part of writing a program is designing the data structures.
-  - Dan Bricklin
+All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+  - Albert Einstein
 ```
