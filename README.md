@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
-  - Bill Gates
+The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+  - Fred Brooks
 ```
