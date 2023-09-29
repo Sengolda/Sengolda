@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cheapest, fastest, and most reliable components are those that aren’t there.
-  - Gordon Bell
+The most important thing is to be able to think what you want, not to say what you want.
+  - Paul Graham (programmer)
 ```
