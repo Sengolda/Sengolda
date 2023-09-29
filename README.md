@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
-  - Ward Cunningham
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+  - Bill Gates
 ```
