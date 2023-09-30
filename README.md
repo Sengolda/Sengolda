@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
-  - Terry Winograd
+Science is what we understand well enough to explain to a computer. Art is everything else we do.
+  - Donald Knuth
 ```
