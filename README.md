@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The next best thing to having good ideas is recognizing good ideas from your users.
-  - Eric S. Raymond
+Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+  - Fred Brooks
 ```
