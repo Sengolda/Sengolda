@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
-  - William Wulf
+It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
+  - Gary Kildall
 ```
