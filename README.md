@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
-  - Gary Kildall
+Don't worry about anything. Just do what you can and be the best you can be.
+  - Douglas Crockford
 ```
