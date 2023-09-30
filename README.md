@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
-  - John McCarthy (computer scientist)
+What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+  - Michael Hawley
 ```
