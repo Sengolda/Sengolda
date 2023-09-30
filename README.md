@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A few months writing code can save you a few hours in design.
-  - Anonymous
+Computer programs are the most complex things that humans make.
+  - Douglas Crockford
 ```
