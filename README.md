@@ -39,8 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
-  - Michael A. Jackson
+JavaScript, purely by accident, has become the most popular programming language in the world.
+  - Douglas Crockford
 ```
