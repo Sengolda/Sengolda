@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
-  - Ken Thompson
+Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+  - Ray Ozzie
 ```
