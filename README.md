@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When we don’t understand a process, we fall into magical thinking about results.
-  - Jef Raskin
+You can’t trust code that you did not totally create yourself.
+  - Ken Thompson
 ```
