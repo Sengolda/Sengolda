@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
-  - Ellen Ullman
+The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+  - Harlan Mills
 ```
