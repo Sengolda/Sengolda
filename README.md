@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Ideas don't disappear. They change form, they merge with other ideas.
-  - Bob Frankston
+Everything should be made as simple as possible. But to do that you have to master complexity.
+  - Butler Lampson
 ```
