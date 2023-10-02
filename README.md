@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any sufficiently advanced technology is indistinguishable from magic.
-  - Arthur C. Clarke
+The act of describing a program in unambiguous detail and the act of programming are one and the same.
+  - Kevlin Henney
 ```
