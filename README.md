@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Before software can be reusable it first has to be usable.
-  - Ralph Johnson (computer scientist)
+Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+  - Ward Cunningham
 ```
