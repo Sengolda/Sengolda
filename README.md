@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
-  - Joe Armstrong (programmer)
+The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+  - Edsger W. Dijkstra
 ```
