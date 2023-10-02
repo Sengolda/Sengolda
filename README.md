@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think you should always bear in mind that entropy is not on your side.
-  - Elon Musk
+To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+  - Tim Berners-Lee
 ```
