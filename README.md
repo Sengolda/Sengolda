@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
-  - Eric S. Raymond
+Maintenance cost is strongly affected by the number of users. More users find more bugs.
+  - Fred Brooks
 ```
