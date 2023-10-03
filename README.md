@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Maintenance cost is strongly affected by the number of users. More users find more bugs.
-  - Fred Brooks
+Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+  - Douglas Crockford
 ```
