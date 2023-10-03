@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
-  - Lawrence Flon
+Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+  - Edsger W. Dijkstra
 ```
