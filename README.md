@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Nine women can't make a baby in one month.
-  - Fred Brooks
+Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+  - Addy Osmani
 ```
