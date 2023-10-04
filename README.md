@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It was a turning point in my programming career when I realized that I didn't have to win every argument.
-  - Ward Cunningham
+An evolving system increases its complexity unless work is done to reduce it.
+  - Manny Lehman (computer scientist)
 ```
