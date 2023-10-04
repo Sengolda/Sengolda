@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
-  - Addy Osmani
+Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+  - Wayne Ratliff
 ```
