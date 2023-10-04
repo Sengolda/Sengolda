@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The difference between theory and practice is that in theory, there is no difference between theory and practice.
-  - Richard Moore (engineer)
+False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+  - Fred Brooks
 ```
