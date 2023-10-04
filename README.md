@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
-  - Bjarne Stroustrup
+Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+  - Fred Brooks
 ```
