@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
-  - John McCarthy (computer scientist)
+Debugging is like being the detective in a crime movie where you are also the murderer.
+  - Filipe Fortes
 ```
