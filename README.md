@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Life is too short to run proprietary software.
-  - Bdale Garbee
+You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+  - Anonymous
 ```
