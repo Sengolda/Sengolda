@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Debugging time increases as a square of the program’s size.
-  - Chris Wenham
+Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+  - Richard Hamming
 ```
