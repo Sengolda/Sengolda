@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
-  - Anonymous
+Low-level programming is good for the programmer’s soul.
+  - John Carmack
 ```
