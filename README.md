@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every good work of software starts by scratching a developer’s personal itch.
-  - Eric S. Raymond
+A language that doesn't affect the way you think about programming, is not worth knowing.
+  - Alan Perlis
 ```
