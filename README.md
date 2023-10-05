@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
-  - Alan Perlis
+LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+  - Edsger W. Dijkstra
 ```
