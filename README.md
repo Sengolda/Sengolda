@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Whenever logical processes of thought are employed, there is an opportunity for the machine.
-  - Vannevar Bush
+Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
+  - Bill Gates
 ```
