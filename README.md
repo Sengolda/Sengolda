@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
-  - George Boole
+Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+  - Fred Brooks
 ```
