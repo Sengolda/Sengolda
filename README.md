@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A clever person solves a problem. A wise person avoids it.
-  - Albert Einstein
+Computer Science is no more about computers than astronomy is about telescopes.
+  - Edsger W. Dijkstra
 ```
