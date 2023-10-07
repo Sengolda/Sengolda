@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
-  - Fred Brooks
+Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
+  - Daniel T. Barry
 ```
