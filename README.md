@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Most errors are introduced during requirements specification!
-  - Daniel T. Barry
+Really care about the tools you use because they are what make you your best.
+  - Addy Osmani
 ```
