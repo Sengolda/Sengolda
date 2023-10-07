@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
-  - Tom DeMarco
+The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+  - Fred Brooks
 ```
