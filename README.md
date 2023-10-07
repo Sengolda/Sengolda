@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
-  - Kent Beck
+An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+  - Bjarne Stroustrup
 ```
