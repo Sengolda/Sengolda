@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When in doubt, use brute force.
-  - Ken Thompson
+We need to be super careful with AI. Potentially more dangerous than nukes.
+  - Elon Musk
 ```
