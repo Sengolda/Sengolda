@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
-  - Mario Fusco
+When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+  - Kent Beck
 ```
