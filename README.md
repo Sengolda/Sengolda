@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
-  - Poul Anderson
+A year spent in artificial intelligence is enough to make one believe in God.
+  - Alan Perlis
 ```
