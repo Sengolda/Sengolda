@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
-  - Donald Knuth
+Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+  - Douglas Crockford
 ```
