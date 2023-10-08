@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are few sources of energy so powerful as a procrastinating grad student.
-  - Paul Graham (programmer)
+Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+  - Bill Gates
 ```
