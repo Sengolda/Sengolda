@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Success is a lousy teacher. It seduces smart people into thinking they can't lose.
-  - Bill Gates
+To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+  - Tim Berners-Lee
 ```
