@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
-  - Alan Turing
+Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+  - John von Neumann
 ```
