@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
-  - Fred Brooks
+We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+  - Ellen Ullman
 ```
