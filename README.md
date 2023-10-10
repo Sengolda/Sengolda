@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
-  - Linus Torvalds
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+  - Martin Fowler
 ```
