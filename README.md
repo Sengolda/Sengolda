@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Most errors are introduced during requirements specification!
-  - Daniel T. Barry
+In theory, there is no difference between theory and practice. But, in practice, there is.
+  - Jan L. A. van de Snepscheut
 ```
