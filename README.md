@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
-  - Albert Einstein
+There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+  - Elon Musk
 ```
