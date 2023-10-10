@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
-  - George Carrette
+Unix is simple. It just takes a genius to understand its simplicity.
+  - Dennis Ritchie
 ```
