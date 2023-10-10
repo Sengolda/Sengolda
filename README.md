@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The hardest part of design is keeping features out.
-  - Don Norman
+The best way to know that you have found the last bug is never to find the first bug.
+  - Harlan Mills
 ```
