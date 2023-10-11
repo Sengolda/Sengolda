@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programs must be written for people to read, and only incidentally for machines to execute.
-  - Hal Abelson
+From an artistic standpoint, the best software comes from the realm of intuition.
+  - Bob Carr
 ```
