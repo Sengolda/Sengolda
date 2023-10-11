@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Less code equals less bugs.
-  - Kevlin Henney
+Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+  - Daniel T. Barry
 ```
