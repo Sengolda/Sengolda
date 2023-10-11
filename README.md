@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you think it's simple, then you have misunderstood the problem.
-  - Bjarne Stroustrup
+A number of studies have shown testing not very effective at finding bugs.
+  - Daniel T. Barry
 ```
