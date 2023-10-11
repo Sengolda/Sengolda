@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is easier to change the specification to fit the program than vice versa.
-  - Alan Perlis
+Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+  - Douglas Crockford
 ```
