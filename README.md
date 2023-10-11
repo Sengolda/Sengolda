@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First do it, then do it right, then do it better.
-  - Addy Osmani
+The most important single aspect of software development is to be clear about what you are trying to build.
+  - Bjarne Stroustrup
 ```
