@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-From an artistic standpoint, the best software comes from the realm of intuition.
-  - Bob Carr
+Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+  - Linus Torvalds
 ```
