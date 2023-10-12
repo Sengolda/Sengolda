@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Once you stop learning you start dying.
-  - Albert Einstein
+C is quirky, flawed, and an enormous success.
+  - Dennis Ritchie
 ```
