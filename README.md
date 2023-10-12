@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When there is no type hierarchy you don’t have to manage the type hierarchy.
-  - Rob Pike
+You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
+  - John Romero
 ```
