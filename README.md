@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
-  - Tim Berners-Lee
+They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+  - Ted Nelson
 ```
