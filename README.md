@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm not a great programmer; I'm just a good programmer with great habits.
-  - Kent Beck
+When there is no type hierarchy you don’t have to manage the type hierarchy.
+  - Rob Pike
 ```
