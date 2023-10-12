@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
-  - Simon Peyton Jones
+There are few sources of energy so powerful as a procrastinating grad student.
+  - Paul Graham (programmer)
 ```
