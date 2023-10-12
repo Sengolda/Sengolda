@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
-  - Vint Cerf
+A year spent in artificial intelligence is enough to make one believe in God.
+  - Alan Perlis
 ```
