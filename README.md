@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are few sources of energy so powerful as a procrastinating grad student.
-  - Paul Graham (programmer)
+Good software, like good wine, takes time.
+  - Joel Spolsky
 ```
