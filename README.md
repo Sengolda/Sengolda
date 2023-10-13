@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-With artificial intelligence we are summoning the demon.
-  - Elon Musk
+A program that produces incorrect results twice as fast is infinitely slower.
+  - John Ousterhout
 ```
