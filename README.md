@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
-  - Bill Gates
+What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+  - Tim Berners-Lee
 ```
