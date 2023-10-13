@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
-  - Wayne Ratliff
+Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+  - Linus Torvalds
 ```
