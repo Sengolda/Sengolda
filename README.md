@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm interested in creating images that communicate with people.
-  - Toru Iwatani
+Programming increases goes as a power of program size.
+  - Fred Brooks
 ```
