@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
-  - Danny Hillis
+Before software can be reusable it first has to be usable.
+  - Ralph Johnson (computer scientist)
 ```
