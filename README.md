@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When debugging, novices insert corrective code; experts remove defective code.
-  - Richard E. Pattis
+Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
+  - Bill Gates
 ```
