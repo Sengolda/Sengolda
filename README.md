@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
-  - Ted Nelson
+There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+  - Daniel T. Barry
 ```
