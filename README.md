@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Before software can be reusable it first has to be usable.
-  - Ralph Johnson (computer scientist)
+Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+  - John McCarthy (computer scientist)
 ```
