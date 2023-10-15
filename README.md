@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
-  - Alan Turing
+The manager's function is not to make people work, but to make it possible for people to work.
+  - Tom DeMarco
 ```
