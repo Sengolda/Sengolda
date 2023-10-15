@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One of my most productive days was throwing away 1,000 lines of code.
-  - Ken Thompson
+Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+  - Ward Cunningham
 ```
