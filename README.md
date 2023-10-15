@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The next best thing to having good ideas is recognizing good ideas from your users.
-  - Eric S. Raymond
+As with most projects, the last two percent takes fifty percent of the time.
+  - John Warnock
 ```
