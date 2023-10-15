@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Humanity is acquiring all the right technology for all the wrong reasons.
-  - Buckminster Fuller
+Before software can be reusable it first has to be usable.
+  - Ralph Johnson (computer scientist)
 ```
