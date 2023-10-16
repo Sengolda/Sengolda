@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When I invented the web, I didn't have to ask anyone's permission.
-  - Tim Berners-Lee
+A programming language is low level when its programs require attention to the irrelevant.
+  - Alan Perlis
 ```
