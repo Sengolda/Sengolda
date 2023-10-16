@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you think it's simple, then you have misunderstood the problem.
-  - Bjarne Stroustrup
+Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+  - Butler Lampson
 ```
