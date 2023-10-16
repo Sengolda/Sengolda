@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
-  - Tim Berners-Lee
+I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+  - Ken Thompson
 ```
