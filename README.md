@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
-  - Sean Parent
+The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+  - Mario Fusco
 ```
