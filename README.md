@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
-  - Terry Winograd
+The top 5% of programmers probably write 99% of the good software.
+  - Paul Graham (programmer)
 ```
