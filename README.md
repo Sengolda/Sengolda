@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The next best thing to having good ideas is recognizing good ideas from your users.
-  - Eric S. Raymond
+A picture may be worth a thousand words, a formula is worth a thousand pictures.
+  - Edsger W. Dijkstra
 ```
