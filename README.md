@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
-  - Michael Stal
+What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+  - Steve Jobs
 ```
