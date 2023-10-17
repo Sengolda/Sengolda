@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
-  - Gerald Weinberg
+The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+  - Harlan Mills
 ```
