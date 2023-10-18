@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
   - Daniel T. Barry
 ```
