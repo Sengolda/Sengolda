@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Success is a lousy teacher. It seduces smart people into thinking they can't lose.
-  - Bill Gates
+The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+  - Edsger W. Dijkstra
 ```
