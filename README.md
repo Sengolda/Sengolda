@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First do it, then do it right, then do it better.
-  - Addy Osmani
+Simplicity does not precede complexity, but follows it.
+  - Alan Perlis
 ```
