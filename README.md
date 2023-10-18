@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
-  - Fred Brooks
+When there is no type hierarchy you don’t have to manage the type hierarchy.
+  - Rob Pike
 ```
