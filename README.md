@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You should name a variable using the same care with which you name a first-born child.
-  - Jim Coplien
+I think the best way to supervise is by personal example and by frequent code reviews.
+  - Charles Simonyi
 ```
