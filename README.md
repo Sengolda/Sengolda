@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Adding manpower to a late software project makes it later.
-  - Fred Brooks
+Young man, in mathematics you don't understand things. You just get used to them.
+  - John von Neumann
 ```
