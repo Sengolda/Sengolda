@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
-  - William Wulf
+It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+  - Alan Perlis
 ```
