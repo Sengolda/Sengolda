@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
-  - Bjarne Stroustrup
+It's not so important what you work on, so long as you're not wasting your time.
+  - Paul Graham (programmer)
 ```
