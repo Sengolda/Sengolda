@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is not the task of the University to offer what society asks for, but to give what society needs.
-  - Edsger W. Dijkstra
+Everybody should learn to program a computer, because it teaches you how to think.
+  - Steve Jobs
 ```
