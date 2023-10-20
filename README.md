@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Low-level programming is good for the programmer’s soul.
-  - John Carmack
+Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
+  - Douglas Crockford
 ```
