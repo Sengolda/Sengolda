@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First, solve the problem. Then, write the code.
-  - John Johnson
+If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+  - Linus Torvalds
 ```
