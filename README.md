@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If we’d asked the customers what they wanted, they would have said “faster horses”.
-  - Henry Ford
+Good judgement comes from experience. Experience comes from bad judgement.
+  - Jim Horning
 ```
