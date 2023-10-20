@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In order to understand recursion, one must first understand recursion.
-  - Anonymous
+If we’d asked the customers what they wanted, they would have said “faster horses”.
+  - Henry Ford
 ```
