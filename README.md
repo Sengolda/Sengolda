@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
-  - Douglas Crockford
+A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
+  - Marijn Haverbeke
 ```
