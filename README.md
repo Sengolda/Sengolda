@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
-  - Ray Ozzie
+Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+  - Bjarne Stroustrup
 ```
