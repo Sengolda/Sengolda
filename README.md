@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
-  - Bjarne Stroustrup
+Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+  - P. J. Plauger
 ```
