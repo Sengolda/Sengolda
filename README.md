@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
-  - Jamie Zawinski
+Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+  - Richard Hamming
 ```
