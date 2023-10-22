@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you learn how to solve problems, you can go through life and do pretty well.
-  - Gary Kildall
+As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+  - Charles Babbage
 ```
