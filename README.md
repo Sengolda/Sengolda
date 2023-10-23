@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First, solve the problem. Then, write the code.
-  - John Johnson
+Simplicity does not precede complexity, but follows it.
+  - Alan Perlis
 ```
