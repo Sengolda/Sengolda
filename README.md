@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think one of the most valuable rules is avoid duplication.
-  - Martin Fowler
+What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+  - Dennis Ritchie
 ```
