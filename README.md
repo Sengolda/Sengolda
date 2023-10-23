@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I care not only what the code says but how it looks.
-  - Peter Roizen
+See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+  - Linus Torvalds
 ```
