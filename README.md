@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
-  - Richard Hamming
+The manager's function is not to make people work, but to make it possible for people to work.
+  - Tom DeMarco
 ```
