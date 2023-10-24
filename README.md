@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The manager's function is not to make people work, but to make it possible for people to work.
-  - Tom DeMarco
+The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+  - Charles Simonyi
 ```
