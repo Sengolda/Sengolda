@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
-  - Richard Hamming
+A language that doesn’t have everything is actually easier to program in than some that do.
+  - Dennis Ritchie
 ```
