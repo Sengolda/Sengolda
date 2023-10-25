@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-C is quirky, flawed, and an enormous success.
-  - Dennis Ritchie
+In my second year in graduate school, I took a computer course and that was like lightening striking.
+  - Ted Nelson
 ```
