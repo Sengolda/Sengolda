@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In my second year in graduate school, I took a computer course and that was like lightening striking.
-  - Ted Nelson
+In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
+  - Ada Lovelace
 ```
