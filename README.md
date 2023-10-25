@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
-  - Elon Musk
+The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+  - Fred Brooks
 ```
