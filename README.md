@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One man's constant is another man's variable.
-  - Alan Perlis
+If you think it's simple, then you have misunderstood the problem.
+  - Bjarne Stroustrup
 ```
