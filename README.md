@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think programming is very much a religious experience for a lot of people.
-  - Gary Kildall
+There's only one trick in software, and that is using a piece of software that's already been written.
+  - Bill Gates
 ```
