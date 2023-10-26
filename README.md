@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There's only one trick in software, and that is using a piece of software that's already been written.
-  - Bill Gates
+Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+  - Richard Hamming
 ```
