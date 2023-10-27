@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You should name a variable using the same care with which you name a first-born child.
-  - Jim Coplien
+AI is a fundamental risk to the existence of human civilization.
+  - Elon Musk
 ```
