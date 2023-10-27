@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
-  - Charles Babbage
+The best way to know that you have found the last bug is never to find the first bug.
+  - Harlan Mills
 ```
