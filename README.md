@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best way to predict the future is to invent it.
-  - Alan Kay
+The most important part of writing a program is designing the data structures.
+  - Dan Bricklin
 ```
