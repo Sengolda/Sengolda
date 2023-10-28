@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
-  - Fred Brooks
+The key to keeping software costs down is to write code that is easily modified.
+  - Daniel T. Barry
 ```
