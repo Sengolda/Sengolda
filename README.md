@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First, solve the problem. Then, write the code.
-  - John Johnson
+The difference between theory and practice is that in theory, there is no difference between theory and practice.
+  - Richard Moore (engineer)
 ```
