@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One man's constant is another man's variable.
-  - Alan Perlis
+A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+  - Bill Gates
 ```
