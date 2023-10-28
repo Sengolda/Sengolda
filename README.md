@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
-  - Bill Gates
+The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+  - Tom Cargill
 ```
