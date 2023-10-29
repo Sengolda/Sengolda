@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
-  - Edsger W. Dijkstra
+So much complexity in software comes from trying to make one thing do two things.
+  - Ryan Singer
 ```
