@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-People under pressure don’t work better; they just work faster.
-  - Tom DeMarco
+Walking on water and developing software from a specification are easy if both are frozen.
+  - Edward V. Berard
 ```
