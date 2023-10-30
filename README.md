@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
-  - Alan Turing
+A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+  - Albert Einstein
 ```
