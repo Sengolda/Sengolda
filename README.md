@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What is simplicity? Simplicity is the shortest path to a solution.
-  - Ward Cunningham
+The key to keeping software costs down is to write code that is easily modified.
+  - Daniel T. Barry
 ```
