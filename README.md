@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In programming the hard part isn’t solving problems, but deciding what problems to solve.
-  - Paul Graham (programmer)
+If you learn how to solve problems, you can go through life and do pretty well.
+  - Gary Kildall
 ```
