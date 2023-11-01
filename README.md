@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Science is what we understand well enough to explain to a computer. Art is everything else we do.
-  - Donald Knuth
+The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+  - Terry Winograd
 ```
