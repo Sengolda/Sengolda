@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you learn how to solve problems, you can go through life and do pretty well.
-  - Gary Kildall
+Even in the games of children there are things to interest the greatest mathematician.
+  - Gottfried Wilhelm Leibniz
 ```
