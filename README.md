@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
-  - Anonymous
+Every good work of software starts by scratching a developer’s personal itch.
+  - Eric S. Raymond
 ```
