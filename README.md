@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
-  - Charles Simonyi
+Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+  - John Carmack
 ```
