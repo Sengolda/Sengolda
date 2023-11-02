@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
-  - Douglas Crockford
+No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
+  - George Boole
 ```
