@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There is no reason anyone would want a computer in their home.
-  - Ken Olsen
+Fancy algorithms are slow when n is small, and n is usually small.
+  - Rob Pike
 ```
