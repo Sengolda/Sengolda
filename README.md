@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The real problem with throwaway code comes when it isn't thrown away.
-  - Joseph Yoder (computer scientist)
+People under pressure don’t work better; they just work faster.
+  - Tom DeMarco
 ```
