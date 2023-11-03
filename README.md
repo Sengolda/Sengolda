@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Maintenance cost is strongly affected by the number of users. More users find more bugs.
-  - Fred Brooks
+People should be able to speak and breathe programs just like they talk now.
+  - Jaron Lanier
 ```
