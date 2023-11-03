@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
-  - Lawrence Flon
+The real problem with throwaway code comes when it isn't thrown away.
+  - Joseph Yoder (computer scientist)
 ```
