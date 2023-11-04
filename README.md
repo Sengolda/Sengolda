@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Less code equals less bugs.
-  - Kevlin Henney
+It's not so important what you work on, so long as you're not wasting your time.
+  - Paul Graham (programmer)
 ```
