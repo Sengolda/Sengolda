@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The top 5% of programmers probably write 99% of the good software.
+There are few sources of energy so powerful as a procrastinating grad student.
   - Paul Graham (programmer)
 ```
