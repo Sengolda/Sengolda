@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
-  - Martin Fowler
+Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+  - Alan Perlis
 ```
