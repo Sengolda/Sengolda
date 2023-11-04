@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
-  - Simon Peyton Jones
+I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+  - Douglas Crockford
 ```
