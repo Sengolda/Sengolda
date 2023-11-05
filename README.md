@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
-  - Robert C. Martin
+People should be able to speak and breathe programs just like they talk now.
+  - Jaron Lanier
 ```
