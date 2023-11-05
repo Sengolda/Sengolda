@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-People should be able to speak and breathe programs just like they talk now.
-  - Jaron Lanier
+One of my most productive days was throwing away 1,000 lines of code.
+  - Ken Thompson
 ```
