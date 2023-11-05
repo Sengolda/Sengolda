@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
-  - Dennis Ritchie
+More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+  - William Wulf
 ```
