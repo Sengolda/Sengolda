@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
-  - Fred Brooks
+The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+  - Tom DeMarco
 ```
