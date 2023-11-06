@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
-  - Marijn Haverbeke
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
+  - Linus Torvalds
 ```
