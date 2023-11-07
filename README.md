@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If we’d asked the customers what they wanted, they would have said “faster horses”.
-  - Henry Ford
+We who cut mere stones must always be envisioning cathedrals.
+  - Quarry worker's creed
 ```
