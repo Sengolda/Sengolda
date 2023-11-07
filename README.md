@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There's nothing more permanent than a temporary hack.
-  - Kyle Simpson
+A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+  - Steve Jobs
 ```
