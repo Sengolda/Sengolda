@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The real problem with throwaway code comes when it isn't thrown away.
-  - Joseph Yoder (computer scientist)
+Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+  - Roy Fielding
 ```
