@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
   - Fred Brooks
 ```
