@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The proper use of comments is to compensate for our failure to express ourself in code.
-  - Robert C. Martin
+There's only one trick in software, and that is using a piece of software that's already been written.
+  - Bill Gates
 ```
