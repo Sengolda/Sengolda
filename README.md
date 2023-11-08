@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What is simplicity? Simplicity is the shortest path to a solution.
-  - Ward Cunningham
+Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+  - Douglas Crockford
 ```
