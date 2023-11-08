@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
-  - Danny Hillis
+If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+  - Edsger W. Dijkstra
 ```
