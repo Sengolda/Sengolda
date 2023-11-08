@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming increases goes as a power of program size.
-  - Fred Brooks
+Good judgement comes from experience. Experience comes from bad judgement.
+  - Jim Horning
 ```
