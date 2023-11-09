@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any sufficiently advanced technology is indistinguishable from magic.
-  - Arthur C. Clarke
+In handling resources, strive to avoid disaster rather than to attain an optimum.
+  - Butler Lampson
 ```
