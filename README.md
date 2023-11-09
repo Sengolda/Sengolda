@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
-  - Fred Brooks
+Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+  - Marvin Minsky
 ```
