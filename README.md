@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
-  - James Gleick
+There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+  - Elon Musk
 ```
