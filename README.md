@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
-  - Alan Perlis
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+  - Rick Osborne
 ```
