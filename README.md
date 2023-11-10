@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
-  - Stan Kelly-Bootle
+Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+  - Marvin Minsky
 ```
