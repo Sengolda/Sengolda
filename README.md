@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
-  - Douglas Crockford
+No matter how slow you are writing clean code, you will always be slower if you make a mess.
+  - Robert C. Martin
 ```
