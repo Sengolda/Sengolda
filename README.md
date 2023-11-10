@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cool URIs don't change.
-  - Tim Berners-Lee
+As with most projects, the last two percent takes fifty percent of the time.
+  - John Warnock
 ```
