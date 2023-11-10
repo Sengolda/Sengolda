@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-People under pressure don’t work better; they just work faster.
-  - Tom DeMarco
+It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+  - Steve Jobs
 ```
