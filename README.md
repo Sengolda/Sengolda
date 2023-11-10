@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
-  - Bjarne Stroustrup
+If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+  - Martin Fowler
 ```
