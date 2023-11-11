@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
-  - Danny Hillis
+When I invented the web, I didn't have to ask anyone's permission.
+  - Tim Berners-Lee
 ```
