@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Fancy algorithms are slow when n is small, and n is usually small.
-  - Rob Pike
+The Domain Name Server (DNS) is the Achilles heel of the Web.
+  - Tim Berners-Lee
 ```
