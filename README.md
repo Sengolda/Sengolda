@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
-  - Daniel T. Barry
+Fancy algorithms are slow when n is small, and n is usually small.
+  - Rob Pike
 ```
