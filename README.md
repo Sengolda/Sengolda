@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Fancy algorithms are slow when n is small, and n is usually small.
-  - Rob Pike
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+  - Edsger W. Dijkstra
 ```
