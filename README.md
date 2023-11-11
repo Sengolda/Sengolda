@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
-  - Tim Berners-Lee
+Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
+  - Ken Thompson
 ```
