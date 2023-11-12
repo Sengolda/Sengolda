@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-So much complexity in software comes from trying to make one thing do two things.
-  - Ryan Singer
+Everything should be made as simple as possible. But to do that you have to master complexity.
+  - Butler Lampson
 ```
