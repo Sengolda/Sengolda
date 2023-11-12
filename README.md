@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
-  - Fred Brooks
+Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+  - Andy Hertzfeld
 ```
