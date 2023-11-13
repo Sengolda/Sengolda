@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
-  - Fred Brooks
+I'm not a great programmer; I'm just a good programmer with great habits.
+  - Kent Beck
 ```
