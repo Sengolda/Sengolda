@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A language that doesn’t have everything is actually easier to program in than some that do.
-  - Dennis Ritchie
+A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
+  - Daniel T. Barry
 ```
