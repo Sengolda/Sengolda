@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
   - Edsger W. Dijkstra
 ```
