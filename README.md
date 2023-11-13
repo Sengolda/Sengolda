@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Compatibility means deliberately repeating other people’s mistakes.
-  - David Wheeler (computer scientist)
+A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
+  - John Gall (author)
 ```
