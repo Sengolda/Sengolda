@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cool URIs don't change.
-  - Tim Berners-Lee
+Compatibility means deliberately repeating other people’s mistakes.
+  - David Wheeler (computer scientist)
 ```
