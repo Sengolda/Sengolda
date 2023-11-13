@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
-  - Martin Fowler
+By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+  - Maurice Wilkes
 ```
