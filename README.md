@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
-  - John Warnock
+The only sin is to make a choice without knowing you are making one.
+  - Jonathan Shewchuk
 ```
