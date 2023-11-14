@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
-  - Joe Armstrong (programmer)
+To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+  - John Warnock
 ```
