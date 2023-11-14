@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
-  - Alan Kay
+If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+  - Joe Armstrong (programmer)
 ```
