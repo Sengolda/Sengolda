@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
-  - Edsger W. Dijkstra
+What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+  - Steve Jobs
 ```
