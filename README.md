@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
-  - Simon Peyton Jones
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+  - Anonymous
 ```
