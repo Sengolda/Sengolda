@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cheapest, fastest, and most reliable components are those that aren’t there.
-  - Gordon Bell
+The entire history of software engineering is that of the rise in levels of abstraction.
+  - Grady Booch
 ```
