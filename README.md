@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
-  - Danny Hillis
+I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+  - Simon Peyton Jones
 ```
