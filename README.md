@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is easier to change the specification to fit the program than vice versa.
-  - Alan Perlis
+First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+  - George Carrette
 ```
