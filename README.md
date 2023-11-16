@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Life is too short to run proprietary software.
-  - Bdale Garbee
+It is easier to change the specification to fit the program than vice versa.
+  - Alan Perlis
 ```
