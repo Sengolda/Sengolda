@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
-  - Daniel T. Barry
+Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+  - Albert Einstein
 ```
