@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
   - Edsger W. Dijkstra
 ```
