@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One accurate measurement is worth more than a thousand expert opinions.
-  - Grace Hopper
+Code never lies, comments sometimes do.
+  - Ron Jeffries
 ```
