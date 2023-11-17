@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
-  - Charles Babbage
+One accurate measurement is worth more than a thousand expert opinions.
+  - Grace Hopper
 ```
