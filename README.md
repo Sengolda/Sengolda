@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Whenever logical processes of thought are employed, there is an opportunity for the machine.
-  - Vannevar Bush
+A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
+  - Tony Parisi (software developer)
 ```
