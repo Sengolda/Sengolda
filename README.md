@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
-  - Danny Hillis
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+  - Anonymous
 ```
