@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In man-machine symbiosis, it is man who must adjust: The machines can't.
-  - Alan Perlis
+If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+  - Gerald Weinberg
 ```
