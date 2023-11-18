@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Unix is simple. It just takes a genius to understand its simplicity.
-  - Dennis Ritchie
+A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+  - Danny Hillis
 ```
