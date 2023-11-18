@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A programming systems product takes about nine times as much effort as the component programs written separately for private use.
-  - Fred Brooks
+Unix is simple. It just takes a genius to understand its simplicity.
+  - Dennis Ritchie
 ```
