@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
-  - Fred Brooks
+When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+  - Gary Kildall
 ```
