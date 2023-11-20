@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
-  - Butler Lampson
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+  - Alan Turing
 ```
