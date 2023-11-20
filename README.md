@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Your most unhappy customers are your greatest source of learning.
-  - Bill Gates
+All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+  - Fred Brooks
 ```
