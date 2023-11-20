@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
-  - Alan Perlis
+The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+  - Charles Babbage
 ```
