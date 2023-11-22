@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In handling resources, strive to avoid disaster rather than to attain an optimum.
-  - Butler Lampson
+Every good work of software starts by scratching a developer’s personal itch.
+  - Eric S. Raymond
 ```
