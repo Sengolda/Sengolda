@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
-  - Alan Turing
+The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+  - Ted Nelson
 ```
