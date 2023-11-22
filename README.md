@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
-  - Alan Turing
+A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+  - Leslie Lamport
 ```
