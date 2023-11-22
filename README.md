@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Much of the essence of building a program is in fact the debugging of the specification.
-  - Fred Brooks
+More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+  - William Wulf
 ```
