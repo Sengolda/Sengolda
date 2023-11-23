@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One accurate measurement is worth more than a thousand expert opinions.
-  - Grace Hopper
+AI is a fundamental risk to the existence of human civilization.
+  - Elon Musk
 ```
