@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A clever person solves a problem. A wise person avoids it.
-  - Albert Einstein
+There's only one trick in software, and that is using a piece of software that's already been written.
+  - Bill Gates
 ```
