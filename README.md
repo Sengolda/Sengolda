@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
-  - Linus Torvalds
+In programming the hard part isn’t solving problems, but deciding what problems to solve.
+  - Paul Graham (programmer)
 ```
