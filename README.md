@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In order to understand recursion, one must first understand recursion.
-  - Anonymous
+I think you should always bear in mind that entropy is not on your side.
+  - Elon Musk
 ```
