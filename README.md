@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When in doubt, use brute force.
-  - Ken Thompson
+It’s all talk until the code runs.
+  - Ward Cunningham
 ```
