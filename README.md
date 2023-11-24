@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First do it, then do it right, then do it better.
-  - Addy Osmani
+Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+  - Linus Torvalds
 ```
