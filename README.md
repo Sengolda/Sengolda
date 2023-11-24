@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
-  - Alan Perlis
+I'm interested in creating images that communicate with people.
+  - Toru Iwatani
 ```
