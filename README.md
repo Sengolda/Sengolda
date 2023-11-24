@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think you should always bear in mind that entropy is not on your side.
-  - Elon Musk
+One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+  - Fred Brooks
 ```
