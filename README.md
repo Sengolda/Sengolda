@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any product that needs a manual to work is broken.
-  - Elon Musk
+In man-machine symbiosis, it is man who must adjust: The machines can't.
+  - Alan Perlis
 ```
