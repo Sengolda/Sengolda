@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
-  - Edsger W. Dijkstra
+Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+  - Albert Einstein
 ```
