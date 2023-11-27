@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Science is what we understand well enough to explain to a computer. Art is everything else we do.
-  - Donald Knuth
+A year spent in artificial intelligence is enough to make one believe in God.
+  - Alan Perlis
 ```
