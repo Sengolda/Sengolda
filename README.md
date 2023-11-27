@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-People under pressure don’t work better; they just work faster.
-  - Tom DeMarco
+A language that doesn't affect the way you think about programming, is not worth knowing.
+  - Alan Perlis
 ```
