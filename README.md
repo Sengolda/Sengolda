@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
-  - David Parnas
+If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+  - Joe Armstrong (programmer)
 ```
