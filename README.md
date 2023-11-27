@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When in doubt, use brute force.
-  - Ken Thompson
+If you think your users are idiots, only idiots will use it.
+  - Linus Torvalds
 ```
