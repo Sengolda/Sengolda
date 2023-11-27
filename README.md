@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Everything should be made as simple as possible. But to do that you have to master complexity.
-  - Butler Lampson
+Before software can be reusable it first has to be usable.
+  - Ralph Johnson (computer scientist)
 ```
