@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Before software can be reusable it first has to be usable.
-  - Ralph Johnson (computer scientist)
+One of my most productive days was throwing away 1,000 lines of code.
+  - Ken Thompson
 ```
