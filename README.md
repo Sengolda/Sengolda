@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
-  - Douglas Crockford
+I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+  - Carl Friedrich Gauss
 ```
