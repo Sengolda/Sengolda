@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The next best thing to having good ideas is recognizing good ideas from your users.
-  - Eric S. Raymond
+Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+  - Richard P. Gabriel
 ```
