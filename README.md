@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I have no special talent. I am only passionately curious.
-  - Albert Einstein
+The next best thing to having good ideas is recognizing good ideas from your users.
+  - Eric S. Raymond
 ```
