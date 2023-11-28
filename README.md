@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
-  - Carl Friedrich Gauss
+The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+  - Michael A. Jackson
 ```
