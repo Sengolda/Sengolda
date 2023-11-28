@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
-  - Fred Brooks
+A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
+  - Daniel T. Barry
 ```
