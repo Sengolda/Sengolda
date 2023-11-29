@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
-  - John von Neumann
+And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+  - Vint Cerf
 ```
