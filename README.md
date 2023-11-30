@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
-  - Ward Cunningham
+No matter how slow you are writing clean code, you will always be slower if you make a mess.
+  - Robert C. Martin
 ```
