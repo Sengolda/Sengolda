@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The only sin is to make a choice without knowing you are making one.
-  - Jonathan Shewchuk
+The entire history of software engineering is that of the rise in levels of abstraction.
+  - Grady Booch
 ```
