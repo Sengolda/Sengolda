@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
-  - Mario Fusco
+Debugging is like being the detective in a crime movie where you are also the murderer.
+  - Filipe Fortes
 ```
