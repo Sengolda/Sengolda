@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
-  - Brian Kernighan
+When there is no type hierarchy you don’t have to manage the type hierarchy.
+  - Rob Pike
 ```
