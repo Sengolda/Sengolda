@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Less code equals less bugs.
-  - Kevlin Henney
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+  - Brian Kernighan
 ```
