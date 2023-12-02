@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
-  - Bill Gates
+I don't comment on the code itself because I feel that properly written code is very much self-documented.
+  - Gary Kildall
 ```
