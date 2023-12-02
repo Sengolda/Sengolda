@@ -39,6 +39,8 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
-  - Pete Cordell
+Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
+  - Michael A. Jackson
 ```
