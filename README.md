@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every good work of software starts by scratching a developer’s personal itch.
-  - Eric S. Raymond
+I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+  - Simon Peyton Jones
 ```
