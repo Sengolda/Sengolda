@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
-  - Ken Thompson
+Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+  - Marvin Minsky
 ```
