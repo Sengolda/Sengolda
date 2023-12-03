@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm not a great programmer; I'm just a good programmer with great habits.
-  - Kent Beck
+You can’t trust code that you did not totally create yourself.
+  - Ken Thompson
 ```
