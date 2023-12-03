@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You can’t trust code that you did not totally create yourself.
-  - Ken Thompson
+The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+  - Ted Nelson
 ```
