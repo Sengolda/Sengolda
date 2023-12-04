@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every good work of software starts by scratching a developer’s personal itch.
-  - Eric S. Raymond
+Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+  - Daniel T. Barry
 ```
