@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Never memorize something that you can look up.
-  - Albert Einstein
+Good judgement comes from experience. Experience comes from bad judgement.
+  - Jim Horning
 ```
