@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Imagination is more important than knowledge.
-  - Albert Einstein
+SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+  - Philip Greenspun
 ```
