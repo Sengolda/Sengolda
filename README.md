@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One man's constant is another man's variable.
-  - Alan Perlis
+Really care about the tools you use because they are what make you your best.
+  - Addy Osmani
 ```
