@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
-  - Joseph Yoder (computer scientist)
+Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+  - Michael Stal
 ```
