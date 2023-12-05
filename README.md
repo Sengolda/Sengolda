@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
-  - Michael Stal
+There's only one trick in software, and that is using a piece of software that's already been written.
+  - Bill Gates
 ```
