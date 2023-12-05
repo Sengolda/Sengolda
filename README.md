@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-An evolving system increases its complexity unless work is done to reduce it.
-  - Manny Lehman (computer scientist)
+We who cut mere stones must always be envisioning cathedrals.
+  - Quarry worker's creed
 ```
