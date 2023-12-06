@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
-  - Linus Torvalds
+It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+  - Douglas Crockford
 ```
