@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
   - Fred Brooks
 ```
