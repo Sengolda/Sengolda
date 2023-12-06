@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As with most projects, the last two percent takes fifty percent of the time.
-  - John Warnock
+The hardest part of design is keeping features out.
+  - Don Norman
 ```
