@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
-  - Michael A. Jackson
+No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+  - Andy Hunt (author)
 ```
