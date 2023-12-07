@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
-  - Ted Nelson
+A number of studies have shown testing not very effective at finding bugs.
+  - Daniel T. Barry
 ```
