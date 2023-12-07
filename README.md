@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
-  - Kent Beck
+Cleaning code does NOT take time. NOT cleaning code does take time.
+  - Robert C. Martin
 ```
