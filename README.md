@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
-  - Marijn Haverbeke
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+  - Martin Fowler
 ```
