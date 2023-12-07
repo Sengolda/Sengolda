@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Dealing with failure is easy: Work hard to improve.
-  - Alan Perlis
+If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+  - Linus Torvalds
 ```
