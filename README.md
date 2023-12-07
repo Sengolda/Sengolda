@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We who cut mere stones must always be envisioning cathedrals.
-  - Quarry worker's creed
+Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+  - Marijn Haverbeke
 ```
