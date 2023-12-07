@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
-  - Martin Fowler
+When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+  - Kent Beck
 ```
