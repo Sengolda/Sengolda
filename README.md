@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any product that needs a manual to work is broken.
-  - Elon Musk
+What is simplicity? Simplicity is the shortest path to a solution.
+  - Ward Cunningham
 ```
