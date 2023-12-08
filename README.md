@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-So much complexity in software comes from trying to make one thing do two things.
-  - Ryan Singer
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+  - Martin Fowler
 ```
