@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I have no special talent. I am only passionately curious.
-  - Albert Einstein
+It was a turning point in my programming career when I realized that I didn't have to win every argument.
+  - Ward Cunningham
 ```
