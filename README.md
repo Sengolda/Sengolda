@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
-  - Philip Greenspun
+The best way to know that you have found the last bug is never to find the first bug.
+  - Harlan Mills
 ```
