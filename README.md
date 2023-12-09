@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Most errors are introduced during requirements specification!
-  - Daniel T. Barry
+Debugging time increases as a square of the program’s size.
+  - Chris Wenham
 ```
