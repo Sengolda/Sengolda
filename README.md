@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
-  - Ted Nelson
+I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
+  - L. Peter Deutsch
 ```
