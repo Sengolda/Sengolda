@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When we don’t understand a process, we fall into magical thinking about results.
-  - Jef Raskin
+In programming the hard part isn’t solving problems, but deciding what problems to solve.
+  - Paul Graham (programmer)
 ```
