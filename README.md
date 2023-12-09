@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If Microsoft ever does applications for Linux it means I've won.
-  - Linus Torvalds
+The entire history of software engineering is that of the rise in levels of abstraction.
+  - Grady Booch
 ```
