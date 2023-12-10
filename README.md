@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
-  - Bjarne Stroustrup
+It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+  - Douglas Crockford
 ```
