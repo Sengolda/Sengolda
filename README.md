@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Science is what we understand well enough to explain to a computer. Art is everything else we do.
-  - Donald Knuth
+The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+  - Edsger W. Dijkstra
 ```
