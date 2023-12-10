@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The limits of my language mean the limits of my world.
-  - Ludwig Wittgenstein
+Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+  - Bjarne Stroustrup
 ```
