@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Life is too short to run proprietary software.
-  - Bdale Garbee
+The most important thing is to be able to think what you want, not to say what you want.
+  - Paul Graham (programmer)
 ```
