@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If we’d asked the customers what they wanted, they would have said “faster horses”.
-  - Henry Ford
+They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+  - Ted Nelson
 ```
