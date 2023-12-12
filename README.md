@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
-  - Ted Nelson
+I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
+  - Charles Simonyi
 ```
