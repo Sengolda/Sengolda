@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Young man, in mathematics you don't understand things. You just get used to them.
-  - John von Neumann
+Beware of bugs in the above code; I have only proved it correct, not tried it.
+  - Donald Knuth
 ```
