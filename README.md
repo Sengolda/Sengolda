@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Typing is no substitute for thinking.
-  - Richard Hamming
+A programming language is low level when its programs require attention to the irrelevant.
+  - Alan Perlis
 ```
