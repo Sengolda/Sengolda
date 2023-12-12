@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Whenever logical processes of thought are employed, there is an opportunity for the machine.
-  - Vannevar Bush
+Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+  - Eric S. Raymond
 ```
