@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
-  - Butler Lampson
+If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+  - John von Neumann
 ```
