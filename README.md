@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The next best thing to having good ideas is recognizing good ideas from your users.
-  - Eric S. Raymond
+All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+  - Fred Brooks
 ```
