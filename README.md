@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Walking on water and developing software from a specification are easy if both are frozen.
-  - Edward V. Berard
+Any sufficiently advanced technology is indistinguishable from magic.
+  - Arthur C. Clarke
 ```
