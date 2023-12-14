@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
-  - Mark Gibbs
+Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
+  - Donald Knuth
 ```
