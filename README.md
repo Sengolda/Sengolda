@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What one programmer can do in one month, two programmers can do in two months.
-  - Fred Brooks
+First do it, then do it right, then do it better.
+  - Addy Osmani
 ```
