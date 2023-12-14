@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer Science is no more about computers than astronomy is about telescopes.
-  - Edsger W. Dijkstra
+Machines as simple as thermostats can be said to have beliefs.
+  - John McCarthy (computer scientist)
 ```
