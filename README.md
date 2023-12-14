@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
-  - Anonymous
+Unix is simple. It just takes a genius to understand its simplicity.
+  - Dennis Ritchie
 ```
