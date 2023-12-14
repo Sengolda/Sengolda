@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
-  - Jim Horning
+Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+  - Fred Brooks
 ```
