@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
-  - Terry Winograd
+I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+  - David Parnas
 ```
