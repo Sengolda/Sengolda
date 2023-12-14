@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Unix is simple. It just takes a genius to understand its simplicity.
-  - Dennis Ritchie
+Never trust a computer you can’t throw out a window.
+  - Steve Wozniak
 ```
