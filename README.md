@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Machines as simple as thermostats can be said to have beliefs.
-  - John McCarthy (computer scientist)
+Low-level programming is good for the programmer’s soul.
+  - John Carmack
 ```
