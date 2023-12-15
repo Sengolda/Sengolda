@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-C is quirky, flawed, and an enormous success.
-  - Dennis Ritchie
+Less code equals less bugs.
+  - Kevlin Henney
 ```
