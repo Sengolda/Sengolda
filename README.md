@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is not the task of the University to offer what society asks for, but to give what society needs.
-  - Edsger W. Dijkstra
+I'm interested in creating images that communicate with people.
+  - Toru Iwatani
 ```
