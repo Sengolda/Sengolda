@@ -39,6 +39,7 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
-  - Edsger W. Dijkstra
+I think the best way to make JavaScript better would be to
+make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
+  - Douglas Crockford
 ```
