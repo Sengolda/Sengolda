@@ -39,6 +39,8 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
-  - Alan Turing
+Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
+  - Michael A. Jackson
 ```
