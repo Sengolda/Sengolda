@@ -39,8 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
-  - Michael A. Jackson
+The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+  - Edsger W. Dijkstra
 ```
