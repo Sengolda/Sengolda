@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In order to understand recursion, one must first understand recursion.
-  - Anonymous
+One of my most productive days was throwing away 1,000 lines of code.
+  - Ken Thompson
 ```
