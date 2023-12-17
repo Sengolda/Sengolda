@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Really good programs live forever.
-  - Charles Simonyi
+You should name a variable using the same care with which you name a first-born child.
+  - Jim Coplien
 ```
