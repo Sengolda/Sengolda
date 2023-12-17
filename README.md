@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
-  - Marijn Haverbeke
+I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+  - Alan Perlis
 ```
