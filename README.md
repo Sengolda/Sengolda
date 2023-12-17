@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Really care about the tools you use because they are what make you your best.
-  - Addy Osmani
+Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+  - Fred Brooks
 ```
