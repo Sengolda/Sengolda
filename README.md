@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think you should always bear in mind that entropy is not on your side.
-  - Elon Musk
+A beautiful program is like a beautiful theorem: It does the job elegantly.
+  - Butler Lampson
 ```
