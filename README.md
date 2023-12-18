@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is not the task of the University to offer what society asks for, but to give what society needs.
-  - Edsger W. Dijkstra
+The best minds of my generation are thinking about how to make people click ads.
+  - Jeff Hammerbacher
 ```
