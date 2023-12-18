@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
-  - Butler Lampson
+That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+  - George Boole
 ```
