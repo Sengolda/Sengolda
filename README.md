@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Never trust a computer you can’t throw out a window.
-  - Steve Wozniak
+In handling resources, strive to avoid disaster rather than to attain an optimum.
+  - Butler Lampson
 ```
