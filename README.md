@@ -39,6 +39,7 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Never trust a computer you can’t throw out a window.
-  - Steve Wozniak
+I think there is a world market for maybe five
+computers.
+  - Thomas J. Watson
 ```
