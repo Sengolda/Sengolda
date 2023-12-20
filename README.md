@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
-  - Fred Brooks
+Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+  - Edsger W. Dijkstra
 ```
