@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
-  - Anonymous
+A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
+  - Daniel T. Barry
 ```
