@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
-  - Gottfried Wilhelm Leibniz
+Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+  - Fred Brooks
 ```
