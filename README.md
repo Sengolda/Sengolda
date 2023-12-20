@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The only way to learn a new programming language is by writing programs in it.
-  - Dennis Ritchie
+There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+  - Elon Musk
 ```
