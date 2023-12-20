@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
-  - Fred Brooks
+The only way to learn a new programming language is by writing programs in it.
+  - Dennis Ritchie
 ```
