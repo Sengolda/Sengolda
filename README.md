@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The purpose of software engineering is to control complexity, not to create it.
-  - Pamela Zave
+All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+  - Fred Brooks
 ```
