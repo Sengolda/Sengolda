@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
-  - Martin Fowler
+The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+  - Harlan Mills
 ```
