@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Simplicity is prerequisite for reliability.
-  - Edsger W. Dijkstra
+A number of studies have shown testing not very effective at finding bugs.
+  - Daniel T. Barry
 ```
