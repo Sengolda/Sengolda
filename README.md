@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Much of the essence of building a program is in fact the debugging of the specification.
-  - Fred Brooks
+Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+  - Ted Nelson
 ```
