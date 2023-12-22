@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Success is a lousy teacher. It seduces smart people into thinking they can't lose.
-  - Bill Gates
+There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+  - Marijn Haverbeke
 ```
