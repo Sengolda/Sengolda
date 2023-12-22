@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Humanity is acquiring all the right technology for all the wrong reasons.
-  - Buckminster Fuller
+Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+  - Bill Gates
 ```
