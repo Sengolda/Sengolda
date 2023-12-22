@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First do it, then do it right, then do it better.
-  - Addy Osmani
+So much complexity in software comes from trying to make one thing do two things.
+  - Ryan Singer
 ```
