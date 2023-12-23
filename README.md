@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
-  - John von Neumann
+The only way to learn a new programming language is by writing programs in it.
+  - Dennis Ritchie
 ```
