@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
-  - Joseph Yoder (computer scientist)
+The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+  - Paul Graham (programmer)
 ```
