@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
-  - Danny Hillis
+If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+  - John von Neumann
 ```
