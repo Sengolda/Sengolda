@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
-  - Carl Friedrich Gauss
+If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+  - Wayne Ratliff
 ```
