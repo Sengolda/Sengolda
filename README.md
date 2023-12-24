@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In theory, there is no difference between theory and practice. But, in practice, there is.
-  - Jan L. A. van de Snepscheut
+The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+  - Ada Lovelace
 ```
