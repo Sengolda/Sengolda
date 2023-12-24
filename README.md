@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
-  - George Carrette
+The most important thing is to be able to think what you want, not to say what you want.
+  - Paul Graham (programmer)
 ```
