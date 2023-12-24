@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
-  - Fred Brooks
+The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+  - Danny Hillis
 ```
