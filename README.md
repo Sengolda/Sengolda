@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I care not only what the code says but how it looks.
-  - Peter Roizen
+If you think it's simple, then you have misunderstood the problem.
+  - Bjarne Stroustrup
 ```
