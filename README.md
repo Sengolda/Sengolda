@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Deleted code is debugged code.
-  - Jeff Sickel
+Science is what we understand well enough to explain to a computer. Art is everything else we do.
+  - Donald Knuth
 ```
