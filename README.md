@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-With artificial intelligence we are summoning the demon.
-  - Elon Musk
+It is easier to change the specification to fit the program than vice versa.
+  - Alan Perlis
 ```
