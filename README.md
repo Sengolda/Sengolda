@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Science is what we understand well enough to explain to a computer. Art is everything else we do.
-  - Donald Knuth
+Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
+  - Stan Kelly-Bootle
 ```
