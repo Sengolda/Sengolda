@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Debugging time increases as a square of the program’s size.
-  - Chris Wenham
+No matter how slow you are writing clean code, you will always be slower if you make a mess.
+  - Robert C. Martin
 ```
