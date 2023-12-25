@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
-  - Daniel T. Barry
+If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+  - Linus Torvalds
 ```
