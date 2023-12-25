@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best thing about a boolean is even if you are wrong, you are only off by a bit.
-  - Anonymous
+I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+  - Douglas Crockford
 ```
