@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are only two kinds of languages: the ones people complain about and the ones nobody uses.
-  - Bjarne Stroustrup
+Cleaning code does NOT take time. NOT cleaning code does take time.
+  - Robert C. Martin
 ```
