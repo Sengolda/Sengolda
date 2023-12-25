@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Young man, in mathematics you don't understand things. You just get used to them.
-  - John von Neumann
+Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+  - John Carmack
 ```
