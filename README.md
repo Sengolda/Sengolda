@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
-  - Fred Brooks
+Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+  - Joseph Yoder (computer scientist)
 ```
