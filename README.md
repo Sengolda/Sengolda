@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A computer shall not waste your time or require you to do more work than is strictly necessary.
-  - Jef Raskin
+Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+  - Fred Brooks
 ```
