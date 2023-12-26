@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good people with a good process will outperform good people with no process every time.
-  - Grady Booch
+When I invented the web, I didn't have to ask anyone's permission.
+  - Tim Berners-Lee
 ```
