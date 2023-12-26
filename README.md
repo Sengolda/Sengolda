@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most important part of writing a program is designing the data structures.
-  - Dan Bricklin
+Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+  - Marvin Minsky
 ```
