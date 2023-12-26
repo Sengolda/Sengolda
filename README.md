@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
-  - Douglas Crockford
+A computer shall not waste your time or require you to do more work than is strictly necessary.
+  - Jef Raskin
 ```
