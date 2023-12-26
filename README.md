@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cheapest, fastest, and most reliable components are those that aren’t there.
-  - Gordon Bell
+The most important part of writing a program is designing the data structures.
+  - Dan Bricklin
 ```
