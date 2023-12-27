@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
-  - John Carmack
+They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+  - Ted Nelson
 ```
