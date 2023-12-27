@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
-  - Fred Brooks
+I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+  - Carl Friedrich Gauss
 ```
