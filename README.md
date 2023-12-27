@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
-  - Edsger W. Dijkstra
+First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
+  - Fred Brooks
 ```
