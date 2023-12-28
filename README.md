@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
-  - Bill Gates
+The most important part of writing a program is designing the data structures.
+  - Dan Bricklin
 ```
