@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Within C++, there is a much smaller and cleaner language struggling to get out.
-  - Bjarne Stroustrup
+There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+  - Bill Gates
 ```
