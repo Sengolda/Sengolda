@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most important part of writing a program is designing the data structures.
-  - Dan Bricklin
+I think you should always bear in mind that entropy is not on your side.
+  - Elon Musk
 ```
