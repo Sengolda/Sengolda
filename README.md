@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A number of studies have shown testing not very effective at finding bugs.
-  - Daniel T. Barry
+Within C++, there is a much smaller and cleaner language struggling to get out.
+  - Bjarne Stroustrup
 ```
