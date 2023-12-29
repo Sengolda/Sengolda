@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
-  - Donald Knuth
+I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+  - Edsger W. Dijkstra
 ```
