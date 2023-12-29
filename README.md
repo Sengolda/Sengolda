@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
-  - Addy Osmani
+The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+  - Tom DeMarco
 ```
