@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
-  - Tom DeMarco
+The most important single aspect of software development is to be clear about what you are trying to build.
+  - Bjarne Stroustrup
 ```
