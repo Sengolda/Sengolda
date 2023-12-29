@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Once the computers got control, we might never get it back.
-  - Marvin Minsky
+You can’t trust code that you did not totally create yourself.
+  - Ken Thompson
 ```
