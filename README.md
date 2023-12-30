@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No matter how slow you are writing clean code, you will always be slower if you make a mess.
-  - Robert C. Martin
+A number of studies have shown testing not very effective at finding bugs.
+  - Daniel T. Barry
 ```
