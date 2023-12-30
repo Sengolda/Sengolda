@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
-  - Joseph Yoder (computer scientist)
+We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
+  - Donald Knuth
 ```
