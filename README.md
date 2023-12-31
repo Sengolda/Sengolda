@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
+I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
   - Douglas Crockford
 ```
