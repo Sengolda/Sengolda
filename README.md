@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
-  - Fred Brooks
+A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+  - Donald Knuth
 ```
