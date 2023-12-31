@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
-  - Elon Musk
+Debugging is like being the detective in a crime movie where you are also the murderer.
+  - Filipe Fortes
 ```
