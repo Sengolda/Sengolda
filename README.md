@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
-  - Gary Kildall
+The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+  - Alan Perlis
 ```
