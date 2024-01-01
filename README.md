@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Ideas don't disappear. They change form, they merge with other ideas.
-  - Bob Frankston
+Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+  - Ward Cunningham
 ```
