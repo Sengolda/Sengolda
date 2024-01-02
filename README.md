@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
-  - Edsger W. Dijkstra
+A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+  - Albert Einstein
 ```
