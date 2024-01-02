@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When there is no type hierarchy you don’t have to manage the type hierarchy.
-  - Rob Pike
+No matter how slow you are writing clean code, you will always be slower if you make a mess.
+  - Robert C. Martin
 ```
