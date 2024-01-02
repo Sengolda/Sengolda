@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-C is quirky, flawed, and an enormous success.
-  - Dennis Ritchie
+LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+  - Edsger W. Dijkstra
 ```
