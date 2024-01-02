@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There is no reason anyone would want a computer in their home.
-  - Ken Olsen
+Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+  - Addy Osmani
 ```
