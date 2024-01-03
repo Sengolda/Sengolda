@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If Microsoft ever does applications for Linux it means I've won.
-  - Linus Torvalds
+Machines take me by surprise with great frequency.
+  - Alan Turing
 ```
