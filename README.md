@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Compatibility means deliberately repeating other people’s mistakes.
-  - David Wheeler (computer scientist)
+What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+  - Tim Berners-Lee
 ```
