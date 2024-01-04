@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A year spent in artificial intelligence is enough to make one believe in God.
-  - Alan Perlis
+The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+  - Robert C. Martin
 ```
