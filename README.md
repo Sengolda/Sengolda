@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When we don’t understand a process, we fall into magical thinking about results.
-  - Jef Raskin
+A program that produces incorrect results twice as fast is infinitely slower.
+  - John Ousterhout
 ```
