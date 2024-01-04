@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
-  - Daniel T. Barry
+I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+  - Donald Knuth
 ```
