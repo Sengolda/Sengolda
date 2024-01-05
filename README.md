@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
-  - L. Peter Deutsch
+A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+  - Steve Jobs
 ```
