@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Adding manpower to a late software project makes it later.
-  - Fred Brooks
+A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+  - Steve Jobs
 ```
