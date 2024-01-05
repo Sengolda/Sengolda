@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When I invented the web, I didn't have to ask anyone's permission.
-  - Tim Berners-Lee
+Don't worry about anything. Just do what you can and be the best you can be.
+  - Douglas Crockford
 ```
