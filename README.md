@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A beautiful program is like a beautiful theorem: It does the job elegantly.
-  - Butler Lampson
+Adding manpower to a late software project makes it later.
+  - Fred Brooks
 ```
