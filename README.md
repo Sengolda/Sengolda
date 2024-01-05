@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
-  - Tim Berners-Lee
+I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
+  - Richard Hamming
 ```
