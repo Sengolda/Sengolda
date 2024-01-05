@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
-  - Brian Kernighan
+A beautiful program is like a beautiful theorem: It does the job elegantly.
+  - Butler Lampson
 ```
