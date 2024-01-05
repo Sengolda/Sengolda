@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Typing is no substitute for thinking.
-  - Richard Hamming
+Code never lies, comments sometimes do.
+  - Ron Jeffries
 ```
