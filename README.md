@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cleaning code does NOT take time. NOT cleaning code does take time.
-  - Robert C. Martin
+When I invented the web, I didn't have to ask anyone's permission.
+  - Tim Berners-Lee
 ```
