@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The proper use of comments is to compensate for our failure to express ourself in code.
-  - Robert C. Martin
+I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+  - Poul Anderson
 ```
