@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-AI is a fundamental risk to the existence of human civilization.
-  - Elon Musk
+Whenever logical processes of thought are employed, there is an opportunity for the machine.
+  - Vannevar Bush
 ```
