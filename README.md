@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First do it, then do it right, then do it better.
-  - Addy Osmani
+A good programmer is someone who looks both ways before crossing a one-way street.
+  - Doug Linder
 ```
