@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I have no special talent. I am only passionately curious.
-  - Albert Einstein
+The proper use of comments is to compensate for our failure to express ourself in code.
+  - Robert C. Martin
 ```
