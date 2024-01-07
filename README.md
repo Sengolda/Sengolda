@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The difference between theory and practice is that in theory, there is no difference between theory and practice.
-  - Richard Moore (engineer)
+The real problem with throwaway code comes when it isn't thrown away.
+  - Joseph Yoder (computer scientist)
 ```
