@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In order to understand recursion, one must first understand recursion.
-  - Anonymous
+The difference between theory and practice is that in theory, there is no difference between theory and practice.
+  - Richard Moore (engineer)
 ```
