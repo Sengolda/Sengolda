@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
-  - Addy Osmani
+Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+  - Alan Perlis
 ```
