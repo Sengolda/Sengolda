@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In man-machine symbiosis, it is man who must adjust: The machines can't.
-  - Alan Perlis
+Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
+  - Bill Gates
 ```
