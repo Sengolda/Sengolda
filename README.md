@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
-  - Bill Gates
+The most important single aspect of software development is to be clear about what you are trying to build.
+  - Bjarne Stroustrup
 ```
