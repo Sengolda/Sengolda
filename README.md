@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A number of studies have shown testing not very effective at finding bugs.
-  - Daniel T. Barry
+All too many of our software systems are, architecturally, little more than shantytowns.
+  - Joseph Yoder (computer scientist)
 ```
