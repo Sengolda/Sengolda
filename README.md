@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
-  - Alan Perlis
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+  - Alan Turing
 ```
