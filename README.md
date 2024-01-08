@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
-  - Robert L. Glass
+Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+  - Fred Brooks
 ```
