@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When I invented the web, I didn't have to ask anyone's permission.
-  - Tim Berners-Lee
+In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+  - Richard Hamming
 ```
