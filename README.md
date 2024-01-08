@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There's nothing more permanent than a temporary hack.
-  - Kyle Simpson
+Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+  - Daniel T. Barry
 ```
