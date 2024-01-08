@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We need to be super careful with AI. Potentially more dangerous than nukes.
-  - Elon Musk
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+  - Brian Kernighan
 ```
