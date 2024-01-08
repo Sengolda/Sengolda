@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When debugging, novices insert corrective code; experts remove defective code.
-  - Richard E. Pattis
+Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+  - Wayne Ratliff
 ```
