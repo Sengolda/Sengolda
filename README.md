@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
-  - Wayne Ratliff
+It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+  - Alan Perlis
 ```
