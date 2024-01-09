@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
-  - Fred Brooks
+See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+  - Linus Torvalds
 ```
