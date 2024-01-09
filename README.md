@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
-  - Fred Brooks
+A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
+  - David Parnas
 ```
