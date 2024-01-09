@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
-  - Richard Stallman
+On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+  - Charles Babbage
 ```
