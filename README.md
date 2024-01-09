@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
-  - Donald Knuth
+The way to arrest entropy in software is to refactor it.
+  - Joseph Yoder (computer scientist)
 ```
