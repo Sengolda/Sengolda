@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Making things easy is hard.
-  - Ted Nelson
+Even in the games of children there are things to interest the greatest mathematician.
+  - Gottfried Wilhelm Leibniz
 ```
