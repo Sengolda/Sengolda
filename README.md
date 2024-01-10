@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is at least as difficult as developing a mathematical theory.
-  - Daniel T. Barry
+The top 5% of programmers probably write 99% of the good software.
+  - Paul Graham (programmer)
 ```
