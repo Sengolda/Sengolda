@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Imagination is more important than knowledge.
-  - Albert Einstein
+Ideas don't disappear. They change form, they merge with other ideas.
+  - Bob Frankston
 ```
