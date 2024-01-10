@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
-  - Fred Brooks
+A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+  - Donald Knuth
 ```
