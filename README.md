@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
-  - Elon Musk
+If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+  - John von Neumann
 ```
