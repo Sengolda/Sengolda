@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes it’s just easier to throw a system away, and start over.
-  - Joseph Yoder (computer scientist)
+There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+  - Martin Fowler
 ```
