@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
-  - Donald Knuth
+Imagination is more important than knowledge.
+  - Albert Einstein
 ```
