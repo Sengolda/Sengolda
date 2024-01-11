@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
-  - Richard Hamming
+Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.
+  - Martin Fowler
 ```
