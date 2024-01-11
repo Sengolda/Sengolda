@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.
-  - Martin Fowler
+We who cut mere stones must always be envisioning cathedrals.
+  - Quarry worker's creed
 ```
