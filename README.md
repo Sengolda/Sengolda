@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Imagination is more important than knowledge.
-  - Albert Einstein
+The only sin is to make a choice without knowing you are making one.
+  - Jonathan Shewchuk
 ```
