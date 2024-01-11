@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We who cut mere stones must always be envisioning cathedrals.
-  - Quarry worker's creed
+The limits of my language mean the limits of my world.
+  - Ludwig Wittgenstein
 ```
