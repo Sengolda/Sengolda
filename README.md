@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cost to repair an error goes up dramatically as project moves towards completion and beyond.
-  - Daniel T. Barry
+When we don’t understand a process, we fall into magical thinking about results.
+  - Jef Raskin
 ```
