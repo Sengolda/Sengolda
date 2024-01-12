@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
-  - Martin Fowler
+The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+  - Danny Hillis
 ```
