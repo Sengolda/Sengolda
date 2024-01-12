@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
-  - David Parnas
+The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+  - Daniel T. Barry
 ```
