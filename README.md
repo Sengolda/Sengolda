@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cleaning code does NOT take time. NOT cleaning code does take time.
-  - Robert C. Martin
+A program that produces incorrect results twice as fast is infinitely slower.
+  - John Ousterhout
 ```
