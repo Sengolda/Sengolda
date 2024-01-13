@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
-  - Ted Nelson
+The best minds of my generation are thinking about how to make people click ads.
+  - Jeff Hammerbacher
 ```
