@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Code never lies, comments sometimes do.
-  - Ron Jeffries
+The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+  - Danny Hillis
 ```
