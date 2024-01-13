@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
-  - L. Peter Deutsch
+A good programmer is someone who looks both ways before crossing a one-way street.
+  - Doug Linder
 ```
