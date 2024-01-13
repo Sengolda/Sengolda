@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any product that needs a manual to work is broken.
-  - Elon Musk
+Code never lies, comments sometimes do.
+  - Ron Jeffries
 ```
