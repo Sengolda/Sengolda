@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
-  - Alan Turing
+If you have a procedure with 10 parameters, you probably missed some.
+  - Alan Perlis
 ```
