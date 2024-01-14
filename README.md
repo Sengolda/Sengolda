@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If we’d asked the customers what they wanted, they would have said “faster horses”.
-  - Henry Ford
+Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
+  - Donald Knuth
 ```
