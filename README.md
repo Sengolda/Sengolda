@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In man-machine symbiosis, it is man who must adjust: The machines can't.
-  - Alan Perlis
+To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+  - John Warnock
 ```
