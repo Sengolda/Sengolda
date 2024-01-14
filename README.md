@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Life is too short to run proprietary software.
-  - Bdale Garbee
+If we’d asked the customers what they wanted, they would have said “faster horses”.
+  - Henry Ford
 ```
