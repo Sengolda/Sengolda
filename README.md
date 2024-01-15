@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
-  - L. Peter Deutsch
+The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+  - Mario Fusco
 ```
