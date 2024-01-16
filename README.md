@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
-  - Jeremy S. Anderson
+Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+  - Andy Hertzfeld
 ```
