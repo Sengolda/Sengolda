@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is easier to change the specification to fit the program than vice versa.
-  - Alan Perlis
+A beautiful program is like a beautiful theorem: It does the job elegantly.
+  - Butler Lampson
 ```
