@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Simplicity is prerequisite for reliability.
-  - Edsger W. Dijkstra
+There's only one trick in software, and that is using a piece of software that's already been written.
+  - Bill Gates
 ```
