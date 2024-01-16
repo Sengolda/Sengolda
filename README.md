@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
-  - Linus Torvalds
+I think the best way to supervise is by personal example and by frequent code reviews.
+  - Charles Simonyi
 ```
