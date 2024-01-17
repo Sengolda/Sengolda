@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think programming is very much a religious experience for a lot of people.
-  - Gary Kildall
+When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+  - Arthur C. Clarke
 ```
