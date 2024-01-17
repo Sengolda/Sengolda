@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
-  - Alan Turing
+There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+  - Marijn Haverbeke
 ```
