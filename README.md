@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Simplicity does not precede complexity, but follows it.
-  - Alan Perlis
+I think programming is very much a religious experience for a lot of people.
+  - Gary Kildall
 ```
