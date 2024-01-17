@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
-  - Arthur C. Clarke
+Everything should be made as simple as possible. But to do that you have to master complexity.
+  - Butler Lampson
 ```
