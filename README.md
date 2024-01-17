@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think one of the most valuable rules is avoid duplication.
-  - Martin Fowler
+A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+  - Alan Turing
 ```
