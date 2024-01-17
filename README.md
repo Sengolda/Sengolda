@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
-  - Buckminster Fuller
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+  - Anonymous
 ```
