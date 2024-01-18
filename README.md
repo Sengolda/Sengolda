@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
-  - Ray Ozzie
+The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+  - Joshua Bloch
 ```
