@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Premature abstraction is as bad as premature optimization.
-  - Luciano Ramalho
+If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+  - David Leinweber
 ```
