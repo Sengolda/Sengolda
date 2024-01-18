@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
-  - Donald Knuth
+Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+  - Wayne Ratliff
 ```
