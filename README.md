@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any product that needs a manual to work is broken.
-  - Elon Musk
+For most software, efficiency just does not matter.
+  - Daniel T. Barry
 ```
