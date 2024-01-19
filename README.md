@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
-  - Edsger W. Dijkstra
+Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+  - Butler Lampson
 ```
