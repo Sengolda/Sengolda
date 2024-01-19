@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
-  - John McCarthy (computer scientist)
+The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+  - Charles Babbage
 ```
