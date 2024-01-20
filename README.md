@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
-  - Charles Simonyi
+Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+  - Fred Brooks
 ```
