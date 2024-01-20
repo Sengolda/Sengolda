@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
-  - Douglas Crockford
+Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
+  - Fred Brooks
 ```
