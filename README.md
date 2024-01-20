@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
-  - Bill Gates
+What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+  - Charles Simonyi
 ```
