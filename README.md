@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
-  - Rick Osborne
+Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+  - Michael Stal
 ```
