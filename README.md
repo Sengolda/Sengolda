@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The way to arrest entropy in software is to refactor it.
-  - Joseph Yoder (computer scientist)
+One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+  - Fred Brooks
 ```
