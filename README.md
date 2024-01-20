@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
-  - Charles Simonyi
+There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+  - Jeremy S. Anderson
 ```
