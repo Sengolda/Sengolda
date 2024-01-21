@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
-  - Jeremy S. Anderson
+The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+  - Paul Graham (programmer)
 ```
