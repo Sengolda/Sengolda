@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you have a procedure with 10 parameters, you probably missed some.
-  - Alan Perlis
+The most important part of writing a program is designing the data structures.
+  - Dan Bricklin
 ```
