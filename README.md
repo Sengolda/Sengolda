@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
-  - Fred Brooks
+There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+  - Lawrence Flon
 ```
