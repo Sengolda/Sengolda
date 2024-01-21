@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most important part of writing a program is designing the data structures.
-  - Dan Bricklin
+In my second year in graduate school, I took a computer course and that was like lightening striking.
+  - Ted Nelson
 ```
