@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The proper use of comments is to compensate for our failure to express ourself in code.
-  - Robert C. Martin
+It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+  - Steve Jobs
 ```
