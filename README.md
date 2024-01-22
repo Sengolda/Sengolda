@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Much of the essence of building a program is in fact the debugging of the specification.
-  - Fred Brooks
+The proper use of comments is to compensate for our failure to express ourself in code.
+  - Robert C. Martin
 ```
