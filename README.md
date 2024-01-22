@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
-  - Douglas Crockford
+Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+  - Bjarne Stroustrup
 ```
