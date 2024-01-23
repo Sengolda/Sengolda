@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
-  - Douglas Crockford
+Debugging is like being the detective in a crime movie where you are also the murderer.
+  - Filipe Fortes
 ```
