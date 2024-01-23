@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
-  - Fred Brooks
+Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
+  - Stan Kelly-Bootle
 ```
