@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To iterate is human, to recurse divine.
-  - L. Peter Deutsch
+It's not so important what you work on, so long as you're not wasting your time.
+  - Paul Graham (programmer)
 ```
