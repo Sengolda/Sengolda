@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It's not so important what you work on, so long as you're not wasting your time.
-  - Paul Graham (programmer)
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+  - Alan Turing
 ```
