@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
-  - Marijn Haverbeke
+I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+  - Alan Kay
 ```
