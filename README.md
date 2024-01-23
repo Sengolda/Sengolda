@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In man-machine symbiosis, it is man who must adjust: The machines can't.
-  - Alan Perlis
+To iterate is human, to recurse divine.
+  - L. Peter Deutsch
 ```
