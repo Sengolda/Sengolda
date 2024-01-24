@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cool URIs don't change.
-  - Tim Berners-Lee
+In handling resources, strive to avoid disaster rather than to attain an optimum.
+  - Butler Lampson
 ```
