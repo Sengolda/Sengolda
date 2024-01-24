@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In handling resources, strive to avoid disaster rather than to attain an optimum.
-  - Butler Lampson
+Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+  - Richard Hamming
 ```
