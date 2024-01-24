@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
-  - Terry Winograd
+In theory, there is no difference between theory and practice. But, in practice, there is.
+  - Jan L. A. van de Snepscheut
 ```
