@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
-  - John Warnock
+The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+  - Terry Winograd
 ```
