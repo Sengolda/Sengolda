@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
-  - Eric S. Raymond
+The best way to know that you have found the last bug is never to find the first bug.
+  - Harlan Mills
 ```
