@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
-  - Buckminster Fuller
+Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+  - Eric S. Raymond
 ```
