@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
-  - Charles Simonyi
+The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+  - Henry Petroski
 ```
