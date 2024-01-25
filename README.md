@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
-  - Marvin Minsky
+The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+  - Joshua Bloch
 ```
