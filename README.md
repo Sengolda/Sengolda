@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One of my most productive days was throwing away 1,000 lines of code.
-  - Ken Thompson
+Software engineering is the part of computer science which is too difficult for the computer scientist.
+  - Friedrich Bauer
 ```
