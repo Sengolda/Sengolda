@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There is never enough time to do it right, but there is always enough time to fix it or to do it over.
-  - Daniel T. Barry
+One of my most productive days was throwing away 1,000 lines of code.
+  - Ken Thompson
 ```
