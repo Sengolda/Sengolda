@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You can’t trust code that you did not totally create yourself.
-  - Ken Thompson
+Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+  - Michael Stal
 ```
