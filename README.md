@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
-  - Henry Petroski
+I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+  - Poul Anderson
 ```
