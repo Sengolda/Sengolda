@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
-  - Sean Parent
+The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+  - Henry Petroski
 ```
