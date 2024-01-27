@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
-  - Ted Nelson
+The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+  - Randall E. Stross
 ```
