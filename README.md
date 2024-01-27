@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
-  - Daniel T. Barry
+In theory, there is no difference between theory and practice. But, in practice, there is.
+  - Jan L. A. van de Snepscheut
 ```
