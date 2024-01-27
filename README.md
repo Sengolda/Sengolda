@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
-  - Richard P. Gabriel
+The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+  - Ted Nelson
 ```
