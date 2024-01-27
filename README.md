@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
-  - Randall E. Stross
+A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+  - Steve Jobs
 ```
