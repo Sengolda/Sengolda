@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+Controlling complexity is the essence of computer programming.
   - Brian Kernighan
 ```
