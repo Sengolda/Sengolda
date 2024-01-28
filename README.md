@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is the ultimate field for someone who likes to tinker.
-  - Ray Ozzie
+The entire history of software engineering is that of the rise in levels of abstraction.
+  - Grady Booch
 ```
