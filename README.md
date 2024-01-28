@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
-  - Andy Hertzfeld
+A good programmer is someone who looks both ways before crossing a one-way street.
+  - Doug Linder
 ```
