@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
-  - Danny Hillis
+Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+  - Marvin Minsky
 ```
