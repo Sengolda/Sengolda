@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A language that doesn't affect the way you think about programming, is not worth knowing.
-  - Alan Perlis
+Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+  - Douglas Crockford
 ```
