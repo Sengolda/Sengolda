@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
-  - Sean Parent
+Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+  - Daniel T. Barry
 ```
