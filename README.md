@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is at least as difficult as developing a mathematical theory.
-  - Daniel T. Barry
+An evolving system increases its complexity unless work is done to reduce it.
+  - Manny Lehman (computer scientist)
 ```
