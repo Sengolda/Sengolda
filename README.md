@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A number of studies have shown testing not very effective at finding bugs.
-  - Daniel T. Barry
+You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
+  - John Romero
 ```
