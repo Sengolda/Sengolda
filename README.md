@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There's nothing more permanent than a temporary hack.
-  - Kyle Simpson
+When we don’t understand a process, we fall into magical thinking about results.
+  - Jef Raskin
 ```
