@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
-  - Elon Musk
+Everybody should learn to program a computer, because it teaches you how to think.
+  - Steve Jobs
 ```
