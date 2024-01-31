@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
-  - Laurence J. Peter
+The cheapest, fastest, and most reliable components are those that aren’t there.
+  - Gordon Bell
 ```
