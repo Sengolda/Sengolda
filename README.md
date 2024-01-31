@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A programming language is low level when its programs require attention to the irrelevant.
-  - Alan Perlis
+Debugging is like being the detective in a crime movie where you are also the murderer.
+  - Filipe Fortes
 ```
