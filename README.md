@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
-  - Steve Jobs
+If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+  - Edsger W. Dijkstra
 ```
