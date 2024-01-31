@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Debugging is like being the detective in a crime movie where you are also the murderer.
-  - Filipe Fortes
+Everything should be made as simple as possible. But to do that you have to master complexity.
+  - Butler Lampson
 ```
