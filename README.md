@@ -39,8 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
-  - Michael A. Jackson
+Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+  - Fred Brooks
 ```
