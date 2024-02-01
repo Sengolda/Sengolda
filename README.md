@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
-  - Alan Kay
+A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+  - Alan Turing
 ```
