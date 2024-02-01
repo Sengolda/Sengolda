@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
-  - Linus Torvalds
+Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+  - Richard Hamming
 ```
