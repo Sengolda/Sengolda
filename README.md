@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
-  - Bill Gates
+So much complexity in software comes from trying to make one thing do two things.
+  - Ryan Singer
 ```
