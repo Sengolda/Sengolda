@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Object-oriented design is the roman numerals of computing.
-  - Rob Pike
+Whenever logical processes of thought are employed, there is an opportunity for the machine.
+  - Vannevar Bush
 ```
