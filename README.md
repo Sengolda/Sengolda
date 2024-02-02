@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A computer shall not waste your time or require you to do more work than is strictly necessary.
-  - Jef Raskin
+Even in the games of children there are things to interest the greatest mathematician.
+  - Gottfried Wilhelm Leibniz
 ```
