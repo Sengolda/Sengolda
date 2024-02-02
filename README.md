@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very suspicious that actually Archimedes had been thinking about that problem for a long time.
-  - Tim Berners-Lee
+I think the best way to supervise is by personal example and by frequent code reviews.
+  - Charles Simonyi
 ```
