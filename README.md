@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
-  - Andy Hunt (author)
+A computer shall not waste your time or require you to do more work than is strictly necessary.
+  - Jef Raskin
 ```
