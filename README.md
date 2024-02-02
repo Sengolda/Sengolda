@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
-  - Fred Brooks
+In handling resources, strive to avoid disaster rather than to attain an optimum.
+  - Butler Lampson
 ```
