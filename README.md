@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is at least as difficult as developing a mathematical theory.
-  - Daniel T. Barry
+From an artistic standpoint, the best software comes from the realm of intuition.
+  - Bob Carr
 ```
