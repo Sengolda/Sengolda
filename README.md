@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Within C++, there is a much smaller and cleaner language struggling to get out.
-  - Bjarne Stroustrup
+A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+  - Ted Nelson
 ```
