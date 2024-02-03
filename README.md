@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A beautiful program is like a beautiful theorem: It does the job elegantly.
-  - Butler Lampson
+The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+  - Ted Nelson
 ```
