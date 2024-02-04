@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-From an artistic standpoint, the best software comes from the realm of intuition.
-  - Bob Carr
+To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+  - Fred Brooks
 ```
