@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Less code equals less bugs.
-  - Kevlin Henney
+That hardly ever happens is another way of saying 'it happens'.
+  - Douglas Crockford
 ```
