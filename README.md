@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Talk is cheap. Show me the code.
-  - Linus Torvalds
+Less code equals less bugs.
+  - Kevlin Henney
 ```
