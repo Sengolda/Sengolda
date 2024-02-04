@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think one of the most valuable rules is avoid duplication.
-  - Martin Fowler
+That hardly ever happens is another way of saying 'it happens'.
+  - Douglas Crockford
 ```
