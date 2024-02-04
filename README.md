@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The purpose of computing is insight, not numbers.
-  - Richard Hamming
+From an artistic standpoint, the best software comes from the realm of intuition.
+  - Bob Carr
 ```
