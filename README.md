@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There's nothing more permanent than a temporary hack.
-  - Kyle Simpson
+People under pressure don’t work better; they just work faster.
+  - Tom DeMarco
 ```
