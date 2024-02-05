@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-That hardly ever happens is another way of saying 'it happens'.
-  - Douglas Crockford
+Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
+  - Richard Hamming
 ```
