@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
-  - Daniel T. Barry
+If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+  - David Leinweber
 ```
