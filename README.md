@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
-  - Wayne Ratliff
+For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
+  - Alan Perlis
 ```
