@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-People should be able to speak and breathe programs just like they talk now.
-  - Jaron Lanier
+The only way to learn a new programming language is by writing programs in it.
+  - Dennis Ritchie
 ```
