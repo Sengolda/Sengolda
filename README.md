@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
-  - Alan Perlis
+Humanity is acquiring all the right technology for all the wrong reasons.
+  - Buckminster Fuller
 ```
