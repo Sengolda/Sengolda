@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The entire history of software engineering is that of the rise in levels of abstraction.
-  - Grady Booch
+What one programmer can do in one month, two programmers can do in two months.
+  - Fred Brooks
 ```
