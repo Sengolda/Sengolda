@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What one programmer can do in one month, two programmers can do in two months.
-  - Fred Brooks
+With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+  - Martin Fowler
 ```
