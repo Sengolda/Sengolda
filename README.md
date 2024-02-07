@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
-  - John Carmack
+The most important thing is to be able to think what you want, not to say what you want.
+  - Paul Graham (programmer)
 ```
