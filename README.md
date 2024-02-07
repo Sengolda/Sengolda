@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
-  - Martin Fowler
+A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+  - Albert Einstein
 ```
