@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
-  - Richard Hamming
+I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+  - Linus Torvalds
 ```
