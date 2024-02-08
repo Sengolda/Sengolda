@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A few months writing code can save you a few hours in design.
-  - Anonymous
+A language that doesn't affect the way you think about programming, is not worth knowing.
+  - Alan Perlis
 ```
