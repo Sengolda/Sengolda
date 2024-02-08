@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The purpose of computing is insight, not numbers.
-  - Richard Hamming
+Your most unhappy customers are your greatest source of learning.
+  - Bill Gates
 ```
