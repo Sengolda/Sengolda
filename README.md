@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Your most unhappy customers are your greatest source of learning.
-  - Bill Gates
+Walking on water and developing software from a specification are easy if both are frozen.
+  - Edward V. Berard
 ```
