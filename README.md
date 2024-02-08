@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I have no special talent. I am only passionately curious.
-  - Albert Einstein
+Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
+  - Chris Sacca
 ```
