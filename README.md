@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A few months writing code can save you a few hours in design.
-  - Anonymous
+In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+  - Richard Hamming
 ```
