@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
-  - Martin Fowler
+The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+  - Charles Simonyi
 ```
