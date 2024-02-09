@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
-  - René Descartes
+Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+  - Laurence J. Peter
 ```
