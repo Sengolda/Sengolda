@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
-  - Fred Brooks
+Walking on water and developing software from a specification are easy if both are frozen.
+  - Edward V. Berard
 ```
