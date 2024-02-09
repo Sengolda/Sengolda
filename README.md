@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
-  - Philip Greenspun
+A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+  - Leslie Lamport
 ```
