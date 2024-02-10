@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
-  - Fred Brooks
+The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+  - Mario Fusco
 ```
