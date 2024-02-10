@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In programming the hard part isn’t solving problems, but deciding what problems to solve.
-  - Paul Graham (programmer)
+The manager's function is not to make people work, but to make it possible for people to work.
+  - Tom DeMarco
 ```
