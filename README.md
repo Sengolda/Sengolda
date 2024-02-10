@@ -39,6 +39,8 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
-  - Danny Hillis
+Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
+  - Michael A. Jackson
 ```
