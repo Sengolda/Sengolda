@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
-  - Donald Knuth
+The best minds of my generation are thinking about how to make people click ads.
+  - Jeff Hammerbacher
 ```
