@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A few months writing code can save you a few hours in design.
-  - Anonymous
+The more code you have, the more places there are for bugs to hide.
+  - Rich Skrenta
 ```
