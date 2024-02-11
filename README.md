@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
-  - Gerald Weinberg
+The act of describing a program in unambiguous detail and the act of programming are one and the same.
+  - Kevlin Henney
 ```
