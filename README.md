@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Imagination is more important than knowledge.
-  - Albert Einstein
+AI is a fundamental risk to the existence of human civilization.
+  - Elon Musk
 ```
