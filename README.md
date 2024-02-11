@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
-  - Bill Gates
+The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+  - Fred Brooks
 ```
