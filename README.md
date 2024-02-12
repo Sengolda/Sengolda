@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The hardest part of design is keeping features out.
-  - Don Norman
+In handling resources, strive to avoid disaster rather than to attain an optimum.
+  - Butler Lampson
 ```
