@@ -39,7 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think the best way to make JavaScript better would be to
-make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
-  - Douglas Crockford
+Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
+  - Richard Stallman
 ```
