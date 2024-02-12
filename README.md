@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Machines take me by surprise with great frequency.
-  - Alan Turing
+The way to arrest entropy in software is to refactor it.
+  - Joseph Yoder (computer scientist)
 ```
