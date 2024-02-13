@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
-  - Stewart Brand
+Before software can be reusable it first has to be usable.
+  - Ralph Johnson (computer scientist)
 ```
