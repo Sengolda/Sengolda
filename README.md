@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Once the computers got control, we might never get it back.
-  - Marvin Minsky
+Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+  - Stewart Brand
 ```
