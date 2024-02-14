@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In handling resources, strive to avoid disaster rather than to attain an optimum.
-  - Butler Lampson
+A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+  - Ivan Sutherland
 ```
