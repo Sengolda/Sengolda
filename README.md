@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
-  - George Boole
+Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+  - Fred Brooks
 ```
