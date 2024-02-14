@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Within C++, there is a much smaller and cleaner language struggling to get out.
-  - Bjarne Stroustrup
+Every good work of software starts by scratching a developer’s personal itch.
+  - Eric S. Raymond
 ```
