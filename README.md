@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In handling resources, strive to avoid disaster rather than to attain an optimum.
-  - Butler Lampson
+Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+  - L. Peter Deutsch
 ```
