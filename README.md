@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every good work of software starts by scratching a developer’s personal itch.
-  - Eric S. Raymond
+People should be able to speak and breathe programs just like they talk now.
+  - Jaron Lanier
 ```
