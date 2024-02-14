@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
-  - Charles Babbage
+Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+  - Fred Brooks
 ```
