@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
-  - Andy Hertzfeld
+In handling resources, strive to avoid disaster rather than to attain an optimum.
+  - Butler Lampson
 ```
