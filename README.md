@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any sufficiently advanced technology is indistinguishable from magic.
-  - Arthur C. Clarke
+For most software, efficiency just does not matter.
+  - Daniel T. Barry
 ```
