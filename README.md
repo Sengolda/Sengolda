@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
-  - Douglas Crockford
+Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+  - James Gleick
 ```
