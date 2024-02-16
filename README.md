@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
   - Fred Brooks
 ```
