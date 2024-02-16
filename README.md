@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
-  - Fred Brooks
+As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+  - Charles Babbage
 ```
