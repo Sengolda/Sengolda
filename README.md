@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
-  - John Carmack
+There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+  - Jeremy S. Anderson
 ```
