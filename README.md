@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
-  - Linus Torvalds
+Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+  - Jim Horning
 ```
