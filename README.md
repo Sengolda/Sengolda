@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
-  - Wayne Ratliff
+Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+  - Pete Cordell
 ```
