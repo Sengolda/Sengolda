@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
-  - Daniel T. Barry
+The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+  - Edsger W. Dijkstra
 ```
