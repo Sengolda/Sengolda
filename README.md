@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A picture may be worth a thousand words, a formula is worth a thousand pictures.
-  - Edsger W. Dijkstra
+From an artistic standpoint, the best software comes from the realm of intuition.
+  - Bob Carr
 ```
