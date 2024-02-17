@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Within a computer, natural language is unnatural.
-  - Alan Perlis
+The Domain Name Server (DNS) is the Achilles heel of the Web.
+  - Tim Berners-Lee
 ```
