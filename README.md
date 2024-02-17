@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
-  - Douglas Crockford
+Everybody should learn to program a computer, because it teaches you how to think.
+  - Steve Jobs
 ```
