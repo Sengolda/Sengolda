@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Ideas don't disappear. They change form, they merge with other ideas.
-  - Bob Frankston
+Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
+  - Daniel T. Barry
 ```
