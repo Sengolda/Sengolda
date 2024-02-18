@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
-  - Ted Nelson
+Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+  - Harlan Mills
 ```
