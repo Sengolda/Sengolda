@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
-  - Donald Knuth
+Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
+  - Daniel T. Barry
 ```
