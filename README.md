@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The computing scientist’s main challenge is not to get confused by the complexities of his own making.
-  - Edsger W. Dijkstra
+The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+  - Ted Nelson
 ```
