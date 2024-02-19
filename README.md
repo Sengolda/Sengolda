@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Even in the games of children there are things to interest the greatest mathematician.
-  - Gottfried Wilhelm Leibniz
+A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+  - Steve Jobs
 ```
