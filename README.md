@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
-  - Fred Brooks
+Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+  - Ward Cunningham
 ```
