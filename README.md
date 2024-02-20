@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
-  - Fred Brooks
+The only way to learn a new programming language is by writing programs in it.
+  - Dennis Ritchie
 ```
