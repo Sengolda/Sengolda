@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
-  - Fred Brooks
+I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
+  - Richard Stallman
 ```
