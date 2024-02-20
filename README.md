@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
-  - Martin Fowler
+The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+  - Fred Brooks
 ```
