@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
-  - Chris Sacca
+Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+  - Fred Brooks
 ```
