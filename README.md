@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think one of the most valuable rules is avoid duplication.
-  - Martin Fowler
+As with most projects, the last two percent takes fifty percent of the time.
+  - John Warnock
 ```
