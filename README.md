@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As with most projects, the last two percent takes fifty percent of the time.
-  - John Warnock
+When there is no type hierarchy you don’t have to manage the type hierarchy.
+  - Rob Pike
 ```
