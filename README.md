@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Young man, in mathematics you don't understand things. You just get used to them.
-  - John von Neumann
+Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+  - Ray Ozzie
 ```
