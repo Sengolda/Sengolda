@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The entire history of software engineering is that of the rise in levels of abstraction.
-  - Grady Booch
+There's nothing more permanent than a temporary hack.
+  - Kyle Simpson
 ```
