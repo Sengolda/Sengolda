@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Typing is no substitute for thinking.
-  - Richard Hamming
+I'm not a great programmer; I'm just a good programmer with great habits.
+  - Kent Beck
 ```
