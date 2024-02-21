@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm not a great programmer; I'm just a good programmer with great habits.
-  - Kent Beck
+The entire history of software engineering is that of the rise in levels of abstraction.
+  - Grady Booch
 ```
