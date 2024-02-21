@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When we don’t understand a process, we fall into magical thinking about results.
-  - Jef Raskin
+The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+  - Edsger W. Dijkstra
 ```
