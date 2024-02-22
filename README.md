@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The proper use of comments is to compensate for our failure to express ourself in code.
-  - Robert C. Martin
+To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+  - Fred Brooks
 ```
