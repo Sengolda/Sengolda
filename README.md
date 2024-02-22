@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
-  - Fred Brooks
+The only sin is to make a choice without knowing you are making one.
+  - Jonathan Shewchuk
 ```
