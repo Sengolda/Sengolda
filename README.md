@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
-  - Linus Torvalds
+Ideas don't disappear. They change form, they merge with other ideas.
+  - Bob Frankston
 ```
