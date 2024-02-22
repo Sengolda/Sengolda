@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
-  - Vint Cerf
+The proper use of comments is to compensate for our failure to express ourself in code.
+  - Robert C. Martin
 ```
