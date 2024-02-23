@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I don't comment on the code itself because I feel that properly written code is very much self-documented.
-  - Gary Kildall
+If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+  - Martin Fowler
 ```
