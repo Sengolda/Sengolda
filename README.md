@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
-  - Alan Perlis
+It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+  - Steve Jobs
 ```
