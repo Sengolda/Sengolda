@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
-  - Fred Brooks
+I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
+  - Charles Simonyi
 ```
