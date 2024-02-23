@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A year spent in artificial intelligence is enough to make one believe in God.
-  - Alan Perlis
+Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
+  - Chris Sacca
 ```
