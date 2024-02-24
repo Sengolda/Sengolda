@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
-  - Edsger W. Dijkstra
+An evolving system increases its complexity unless work is done to reduce it.
+  - Manny Lehman (computer scientist)
 ```
