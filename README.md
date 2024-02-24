@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A picture may be worth a thousand words, a formula is worth a thousand pictures.
-  - Edsger W. Dijkstra
+One of my most productive days was throwing away 1,000 lines of code.
+  - Ken Thompson
 ```
