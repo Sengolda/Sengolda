@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-An evolving system increases its complexity unless work is done to reduce it.
-  - Manny Lehman (computer scientist)
+Machines as simple as thermostats can be said to have beliefs.
+  - John McCarthy (computer scientist)
 ```
