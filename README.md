@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-JavaScript, purely by accident, has become the most popular programming language in the world.
-  - Douglas Crockford
+You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
+  - John Romero
 ```
