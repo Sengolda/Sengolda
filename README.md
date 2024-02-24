@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If we’d asked the customers what they wanted, they would have said “faster horses”.
-  - Henry Ford
+You should name a variable using the same care with which you name a first-born child.
+  - Jim Coplien
 ```
