@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software gets slower faster than hardware gets faster.
-  - Niklaus Wirth
+So much complexity in software comes from trying to make one thing do two things.
+  - Ryan Singer
 ```
