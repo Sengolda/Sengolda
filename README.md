@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-So much complexity in software comes from trying to make one thing do two things.
-  - Ryan Singer
+If we’d asked the customers what they wanted, they would have said “faster horses”.
+  - Henry Ford
 ```
