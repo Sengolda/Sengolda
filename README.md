@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One of my most productive days was throwing away 1,000 lines of code.
-  - Ken Thompson
+JavaScript, purely by accident, has become the most popular programming language in the world.
+  - Douglas Crockford
 ```
