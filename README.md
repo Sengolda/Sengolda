@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You should name a variable using the same care with which you name a first-born child.
-  - Jim Coplien
+Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+  - Gottfried Wilhelm Leibniz
 ```
