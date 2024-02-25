@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
-  - Donald Knuth
+The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+  - Bill Gates
 ```
