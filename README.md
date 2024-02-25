@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
-  - John Carmack
+You should name a variable using the same care with which you name a first-born child.
+  - Jim Coplien
 ```
