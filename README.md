@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
-  - Steve Jobs
+The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
+  - John Carmack
 ```
