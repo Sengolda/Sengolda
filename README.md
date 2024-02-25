@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
   - Albert Einstein
 ```
