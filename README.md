@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
-  - Stewart Brand
+And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+  - Vint Cerf
 ```
