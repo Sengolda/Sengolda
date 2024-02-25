@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-So much complexity in software comes from trying to make one thing do two things.
-  - Ryan Singer
+Cleaning code does NOT take time. NOT cleaning code does take time.
+  - Robert C. Martin
 ```
