@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best minds of my generation are thinking about how to make people click ads.
-  - Jeff Hammerbacher
+No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+  - Andy Hunt (author)
 ```
