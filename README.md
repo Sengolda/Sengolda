@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
-  - Vint Cerf
+The best minds of my generation are thinking about how to make people click ads.
+  - Jeff Hammerbacher
 ```
