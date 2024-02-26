@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are only two kinds of languages: the ones people complain about and the ones nobody uses.
-  - Bjarne Stroustrup
+The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+  - Ada Lovelace
 ```
