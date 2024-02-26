@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It was a turning point in my programming career when I realized that I didn't have to win every argument.
-  - Ward Cunningham
+In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+  - Richard Hamming
 ```
