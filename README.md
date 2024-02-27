@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-JavaScript, purely by accident, has become the most popular programming language in the world.
-  - Douglas Crockford
+It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+  - Edsger W. Dijkstra
 ```
