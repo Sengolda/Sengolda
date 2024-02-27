@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
-  - Leslie Lamport
+The act of describing a program in unambiguous detail and the act of programming are one and the same.
+  - Kevlin Henney
 ```
