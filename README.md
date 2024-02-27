@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
-  - Pete Cordell
+I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+  - Tim Berners-Lee
 ```
