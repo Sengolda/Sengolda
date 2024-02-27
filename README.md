@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The only sin is to make a choice without knowing you are making one.
-  - Jonathan Shewchuk
+In my second year in graduate school, I took a computer course and that was like lightening striking.
+  - Ted Nelson
 ```
