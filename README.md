@@ -39,7 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
-  - Bob Frankston
+I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+  - David Parnas
 ```
