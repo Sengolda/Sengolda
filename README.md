@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
-  - Sean Parent
+I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+  - Poul Anderson
 ```
