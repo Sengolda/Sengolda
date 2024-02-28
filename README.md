@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The difference between theory and practice is that in theory, there is no difference between theory and practice.
-  - Richard Moore (engineer)
+The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
+  - George Boole
 ```
