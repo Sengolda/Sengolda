@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
-  - Poul Anderson
+There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+  - Bjarne Stroustrup
 ```
