@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The proper use of comments is to compensate for our failure to express ourself in code.
-  - Robert C. Martin
+Walking on water and developing software from a specification are easy if both are frozen.
+  - Edward V. Berard
 ```
