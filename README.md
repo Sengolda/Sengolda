@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are only two kinds of languages: the ones people complain about and the ones nobody uses.
-  - Bjarne Stroustrup
+As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
+  - Edsger W. Dijkstra
 ```
