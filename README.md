@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
-  - Edsger W. Dijkstra
+Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+  - Ted Nelson
 ```
