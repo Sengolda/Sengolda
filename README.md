@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+Adding manpower to a late software project makes it later.
   - Fred Brooks
 ```
