@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
-  - Ted Nelson
+I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+  - Ken Thompson
 ```
