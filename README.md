@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
-  - Marijn Haverbeke
+There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+  - Bjarne Stroustrup
 ```
