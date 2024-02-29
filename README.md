@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
-  - Edsger W. Dijkstra
+I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
+  - Richard Stallman
 ```
