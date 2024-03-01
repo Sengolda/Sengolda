@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A programming language is low level when its programs require attention to the irrelevant.
-  - Alan Perlis
+Fancy algorithms are slow when n is small, and n is usually small.
+  - Rob Pike
 ```
