@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
-  - Ted Nelson
+A language that doesn’t have everything is actually easier to program in than some that do.
+  - Dennis Ritchie
 ```
