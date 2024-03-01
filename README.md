@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
-  - Gary Kildall
+If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+  - Edsger W. Dijkstra
 ```
