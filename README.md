@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
-  - Bill Gates
+It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
+  - Gary Kildall
 ```
