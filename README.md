@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
-  - Linus Torvalds
+Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+  - Joseph Yoder (computer scientist)
 ```
