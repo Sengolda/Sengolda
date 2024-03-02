@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
-  - Simon Peyton Jones
+I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+  - Tim Berners-Lee
 ```
