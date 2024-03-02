@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cool URIs don't change.
-  - Tim Berners-Lee
+Every time you improve process, work becomes harder.
+  - Daniel T. Barry
 ```
