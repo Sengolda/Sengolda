@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Making things easy is hard.
-  - Ted Nelson
+With artificial intelligence we are summoning the demon.
+  - Elon Musk
 ```
