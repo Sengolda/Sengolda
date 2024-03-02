@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every time you improve process, work becomes harder.
-  - Daniel T. Barry
+The way to arrest entropy in software is to refactor it.
+  - Joseph Yoder (computer scientist)
 ```
