@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Less code equals less bugs.
-  - Kevlin Henney
+To iterate is human, to recurse divine.
+  - L. Peter Deutsch
 ```
