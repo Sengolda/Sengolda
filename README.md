@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
-  - Vint Cerf
+What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+  - Dennis Ritchie
 ```
