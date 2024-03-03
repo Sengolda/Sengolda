@@ -39,6 +39,7 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
-  - Donald Knuth
+I think there is a world market for maybe five
+computers.
+  - Thomas J. Watson
 ```
