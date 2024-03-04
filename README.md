@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In theory, there is no difference between theory and practice. But, in practice, there is.
-  - Jan L. A. van de Snepscheut
+With artificial intelligence we are summoning the demon.
+  - Elon Musk
 ```
