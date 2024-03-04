@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
-  - Edsger W. Dijkstra
+The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+  - Danny Hillis
 ```
