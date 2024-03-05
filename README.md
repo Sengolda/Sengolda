@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-From an artistic standpoint, the best software comes from the realm of intuition.
-  - Bob Carr
+Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+  - Marvin Minsky
 ```
