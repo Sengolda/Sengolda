@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software gets slower faster than hardware gets faster.
-  - Niklaus Wirth
+People under pressure don’t work better; they just work faster.
+  - Tom DeMarco
 ```
