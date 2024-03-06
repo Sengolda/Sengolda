@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If we’d asked the customers what they wanted, they would have said “faster horses”.
-  - Henry Ford
+In programming the hard part isn’t solving problems, but deciding what problems to solve.
+  - Paul Graham (programmer)
 ```
