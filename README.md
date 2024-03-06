@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In my second year in graduate school, I took a computer course and that was like lightening striking.
-  - Ted Nelson
+I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+  - Ken Thompson
 ```
