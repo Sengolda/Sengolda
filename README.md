@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-An infinite number of monkeys typing into GNU Emacs would never make a good program.
-  - Linus Torvalds
+Cleaning code does NOT take time. NOT cleaning code does take time.
+  - Robert C. Martin
 ```
