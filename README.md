@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
-  - Alan Perlis
+A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+  - Leslie Lamport
 ```
