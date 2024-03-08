@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
-  - Daniel T. Barry
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+  - Alan Perlis
 ```
