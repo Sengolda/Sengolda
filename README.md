@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
-  - Gary Kildall
+The real problem with throwaway code comes when it isn't thrown away.
+  - Joseph Yoder (computer scientist)
 ```
