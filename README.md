@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is the ultimate field for someone who likes to tinker.
-  - Ray Ozzie
+Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+  - Daniel T. Barry
 ```
