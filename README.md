@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Before software can be reusable it first has to be usable.
-  - Ralph Johnson (computer scientist)
+Programming is the ultimate field for someone who likes to tinker.
+  - Ray Ozzie
 ```
