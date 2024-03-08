@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
-  - Fred Brooks
+In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+  - Richard Hamming
 ```
