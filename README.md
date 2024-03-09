@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best minds of my generation are thinking about how to make people click ads.
-  - Jeff Hammerbacher
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+  - Anonymous
 ```
