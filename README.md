@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-That hardly ever happens is another way of saying 'it happens'.
-  - Douglas Crockford
+A computer shall not waste your time or require you to do more work than is strictly necessary.
+  - Jef Raskin
 ```
