@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A number of studies have shown testing not very effective at finding bugs.
-  - Daniel T. Barry
+It is easier to change the specification to fit the program than vice versa.
+  - Alan Perlis
 ```
