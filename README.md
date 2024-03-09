@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is easier to change the specification to fit the program than vice versa.
-  - Alan Perlis
+I think programming is very much a religious experience for a lot of people.
+  - Gary Kildall
 ```
