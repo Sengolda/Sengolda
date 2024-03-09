@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Maintenance cost is strongly affected by the number of users. More users find more bugs.
-  - Fred Brooks
+The key to keeping software costs down is to write code that is easily modified.
+  - Daniel T. Barry
 ```
