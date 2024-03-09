@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-From an artistic standpoint, the best software comes from the realm of intuition.
-  - Bob Carr
+The best minds of my generation are thinking about how to make people click ads.
+  - Jeff Hammerbacher
 ```
