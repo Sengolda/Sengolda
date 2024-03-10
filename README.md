@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-So much complexity in software comes from trying to make one thing do two things.
-  - Ryan Singer
+The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+  - Alan Perlis
 ```
