@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The very best technology never has as much impact as girlfriend or boyfriend trouble.
-  - Tom DeMarco
+So much complexity in software comes from trying to make one thing do two things.
+  - Ryan Singer
 ```
