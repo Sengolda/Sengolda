@@ -39,7 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think there is a world market for maybe five
-computers.
-  - Thomas J. Watson
+Computer programs are the most complex things that humans make.
+  - Douglas Crockford
 ```
