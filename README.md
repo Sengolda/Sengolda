@@ -39,6 +39,7 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
-  - Fred Brooks
+I think the best way to make JavaScript better would be to
+make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
+  - Douglas Crockford
 ```
