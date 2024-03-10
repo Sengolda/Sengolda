@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
-  - Roy Fielding
+The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+  - Edsger W. Dijkstra
 ```
