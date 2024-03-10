@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As with most projects, the last two percent takes fifty percent of the time.
-  - John Warnock
+The only way to learn a new programming language is by writing programs in it.
+  - Dennis Ritchie
 ```
