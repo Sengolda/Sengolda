@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-An evolving system increases its complexity unless work is done to reduce it.
-  - Manny Lehman (computer scientist)
+The best minds of my generation are thinking about how to make people click ads.
+  - Jeff Hammerbacher
 ```
