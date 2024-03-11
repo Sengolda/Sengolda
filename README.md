@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is not the task of the University to offer what society asks for, but to give what society needs.
-  - Edsger W. Dijkstra
+When we don’t understand a process, we fall into magical thinking about results.
+  - Jef Raskin
 ```
