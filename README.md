@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When in doubt, use brute force.
-  - Ken Thompson
+Programming is the ultimate field for someone who likes to tinker.
+  - Ray Ozzie
 ```
