@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
-  - Bill Gates
+The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+  - Donald Knuth
 ```
