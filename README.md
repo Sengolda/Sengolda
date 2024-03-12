@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
-  - Douglas Crockford
+The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+  - Edsger W. Dijkstra
 ```
