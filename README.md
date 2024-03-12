@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We need to be super careful with AI. Potentially more dangerous than nukes.
-  - Elon Musk
+Even in the games of children there are things to interest the greatest mathematician.
+  - Gottfried Wilhelm Leibniz
 ```
