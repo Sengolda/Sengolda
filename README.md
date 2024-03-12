@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
-  - Fred Brooks
+The most important single aspect of software development is to be clear about what you are trying to build.
+  - Bjarne Stroustrup
 ```
