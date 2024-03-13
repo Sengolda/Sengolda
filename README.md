@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
-  - Gottfried Wilhelm Leibniz
+All too many of our software systems are, architecturally, little more than shantytowns.
+  - Joseph Yoder (computer scientist)
 ```
