@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
-  - Edsger W. Dijkstra
+Programs must be written for people to read, and only incidentally for machines to execute.
+  - Hal Abelson
 ```
