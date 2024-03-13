@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
-  - L. Peter Deutsch
+Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+  - Bjarne Stroustrup
 ```
