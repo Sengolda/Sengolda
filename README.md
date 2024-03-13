@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All too many of our software systems are, architecturally, little more than shantytowns.
-  - Joseph Yoder (computer scientist)
+Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+  - L. Peter Deutsch
 ```
