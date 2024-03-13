@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
   - Edsger W. Dijkstra
 ```
