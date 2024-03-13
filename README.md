@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
-  - Fred Brooks
+Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+  - L. Peter Deutsch
 ```
