@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
-  - Edsger W. Dijkstra
+A good programmer is someone who looks both ways before crossing a one-way street.
+  - Doug Linder
 ```
