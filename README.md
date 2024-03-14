@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
-  - Fred Brooks
+Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+  - Edsger W. Dijkstra
 ```
