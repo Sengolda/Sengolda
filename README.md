@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
-  - Douglas Crockford
+The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+  - Danny Hillis
 ```
