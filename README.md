@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
-  - Linus Torvalds
+Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+  - Edsger W. Dijkstra
 ```
