@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When we don’t understand a process, we fall into magical thinking about results.
-  - Jef Raskin
+The proper use of comments is to compensate for our failure to express ourself in code.
+  - Robert C. Martin
 ```
