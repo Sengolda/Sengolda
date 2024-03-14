@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
-  - Marvin Minsky
+When we don’t understand a process, we fall into magical thinking about results.
+  - Jef Raskin
 ```
