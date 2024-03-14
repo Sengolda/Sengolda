@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
-  - Edsger W. Dijkstra
+I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+  - Linus Torvalds
 ```
