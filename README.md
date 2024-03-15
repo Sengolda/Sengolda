@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-From an artistic standpoint, the best software comes from the realm of intuition.
-  - Bob Carr
+Your most unhappy customers are your greatest source of learning.
+  - Bill Gates
 ```
