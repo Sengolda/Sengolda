@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You can’t trust code that you did not totally create yourself.
-  - Ken Thompson
+The key to keeping software costs down is to write code that is easily modified.
+  - Daniel T. Barry
 ```
