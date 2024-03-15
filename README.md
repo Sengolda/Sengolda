@@ -39,8 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
-  - Michael A. Jackson
+Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+  - Martin Fowler
 ```
