@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
-  - Marvin Minsky
+Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
+  - Donald Knuth
 ```
