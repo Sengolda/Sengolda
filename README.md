@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
+The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
   - Donald Knuth
 ```
