@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The purpose of software engineering is to control complexity, not to create it.
-  - Pamela Zave
+Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+  - Marvin Minsky
 ```
