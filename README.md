@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A clever person solves a problem. A wise person avoids it.
-  - Albert Einstein
+A number of studies have shown testing not very effective at finding bugs.
+  - Daniel T. Barry
 ```
