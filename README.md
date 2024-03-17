@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A number of studies have shown testing not very effective at finding bugs.
-  - Daniel T. Barry
+Young man, in mathematics you don't understand things. You just get used to them.
+  - John von Neumann
 ```
