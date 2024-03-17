@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
-  - George Boole
+See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+  - Linus Torvalds
 ```
