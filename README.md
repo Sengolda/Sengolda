@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is at least as difficult as developing a mathematical theory.
+For most software, efficiency just does not matter.
   - Daniel T. Barry
 ```
