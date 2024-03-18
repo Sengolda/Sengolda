@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Your most unhappy customers are your greatest source of learning.
-  - Bill Gates
+You can’t trust code that you did not totally create yourself.
+  - Ken Thompson
 ```
