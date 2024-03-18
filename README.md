@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Never memorize something that you can look up.
-  - Albert Einstein
+Documentation is a love letter that you write to your future self.
+  - Damian Conway
 ```
