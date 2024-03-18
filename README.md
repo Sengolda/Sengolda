@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
-  - Stan Kelly-Bootle
+There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+  - Elon Musk
 ```
