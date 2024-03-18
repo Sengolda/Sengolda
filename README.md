@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any sufficiently advanced technology is indistinguishable from magic.
-  - Arthur C. Clarke
+Never memorize something that you can look up.
+  - Albert Einstein
 ```
