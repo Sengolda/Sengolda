@@ -39,7 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
-  - Bob Frankston
+Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+  - John McCarthy (computer scientist)
 ```
