@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
   - Daniel T. Barry
 ```
