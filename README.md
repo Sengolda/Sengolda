@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Your most unhappy customers are your greatest source of learning.
-  - Bill Gates
+A language that doesn’t have everything is actually easier to program in than some that do.
+  - Dennis Ritchie
 ```
