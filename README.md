@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best minds of my generation are thinking about how to make people click ads.
-  - Jeff Hammerbacher
+That hardly ever happens is another way of saying 'it happens'.
+  - Douglas Crockford
 ```
