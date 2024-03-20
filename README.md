@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-That hardly ever happens is another way of saying 'it happens'.
-  - Douglas Crockford
+False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+  - Fred Brooks
 ```
