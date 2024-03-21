@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
-  - Jamie Zawinski
+Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+  - Linus Torvalds
 ```
