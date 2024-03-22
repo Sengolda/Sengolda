@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Never trust a computer you can’t throw out a window.
-  - Steve Wozniak
+As with most projects, the last two percent takes fifty percent of the time.
+  - John Warnock
 ```
