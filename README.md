@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The manager's function is not to make people work, but to make it possible for people to work.
-  - Tom DeMarco
+JavaScript is the world's most misunderstood programming language.
+  - Douglas Crockford
 ```
