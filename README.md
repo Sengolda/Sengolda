@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
-  - Bill Gates
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+  - Anonymous
 ```
