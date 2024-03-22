@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best thing about a boolean is even if you are wrong, you are only off by a bit.
-  - Anonymous
+When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+  - Gerald Weinberg
 ```
