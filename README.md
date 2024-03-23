@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
-  - Edsger W. Dijkstra
+We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.
+  - Charles Babbage
 ```
