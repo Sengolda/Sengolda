@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
-  - Richard P. Gabriel
+The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.
+  - Fred Brooks
 ```
