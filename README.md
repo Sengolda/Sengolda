@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
-  - Bill Gates
+By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+  - Donald Knuth
 ```
