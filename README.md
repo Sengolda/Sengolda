@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
-  - Marijn Haverbeke
+I think programming is very much a religious experience for a lot of people.
+  - Gary Kildall
 ```
