@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The entire history of software engineering is that of the rise in levels of abstraction.
-  - Grady Booch
+Before software can be reusable it first has to be usable.
+  - Ralph Johnson (computer scientist)
 ```
