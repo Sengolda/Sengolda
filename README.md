@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
-  - Alan Perlis
+C is quirky, flawed, and an enormous success.
+  - Dennis Ritchie
 ```
