@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Making things easy is hard.
-  - Ted Nelson
+If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+  - Wayne Ratliff
 ```
