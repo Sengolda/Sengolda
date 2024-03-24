@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The real problem with throwaway code comes when it isn't thrown away.
-  - Joseph Yoder (computer scientist)
+The entire history of software engineering is that of the rise in levels of abstraction.
+  - Grady Booch
 ```
