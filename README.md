@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you think it's simple, then you have misunderstood the problem.
-  - Bjarne Stroustrup
+There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+  - Daniel T. Barry
 ```
