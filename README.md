@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
-  - Bill Gates
+First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
+  - Fred Brooks
 ```
