@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
-  - Ellen Ullman
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+  - Martin Fowler
 ```
