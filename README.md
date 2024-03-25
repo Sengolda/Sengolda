@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Nine women can't make a baby in one month.
-  - Fred Brooks
+The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+  - Daniel T. Barry
 ```
