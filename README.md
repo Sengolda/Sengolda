@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A beautiful program is like a beautiful theorem: It does the job elegantly.
-  - Butler Lampson
+The key to keeping software costs down is to write code that is easily modified.
+  - Daniel T. Barry
 ```
