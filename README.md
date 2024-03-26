@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The notions of correctness in mathematics and programs are different. A mathematical model must be consistent; it need not match reality (be correct), and it need not be complete (in the formal sense). A program model must be consistent; it must match reality; and it must be complete (in the sense that it reacts gracefully to all inputs).
-  - Daniel T. Barry
+We could, for instance, begin with cleaning up our language by no longer calling a bug a bug but by calling it an error. It is much more honest because it squarely puts the blame where it belongs, viz. with the programmer who made the error. The animistic metaphor of the bug that maliciously sneaked in while the programmer was not looking is intellectually dishonest as it disguises that the error is the programmer's own creation. The nice thing of this simple change of vocabulary is that it has such a profound effect: while, before, a program with only one bug used to be "almost correct", afterwards a program with an error is just "wrong".
+  - Edsger W. Dijkstra
 ```
