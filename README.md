@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Once you stop learning you start dying.
-  - Albert Einstein
+If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+  - Wayne Ratliff
 ```
