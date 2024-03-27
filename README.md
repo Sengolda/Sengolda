@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Beware of bugs in the above code; I have only proved it correct, not tried it.
+A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
   - Donald Knuth
 ```
