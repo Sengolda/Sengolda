@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
-  - Danny Hillis
+When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+  - Gerald Weinberg
 ```
