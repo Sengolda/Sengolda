@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It's not so important what you work on, so long as you're not wasting your time.
-  - Paul Graham (programmer)
+So much complexity in software comes from trying to make one thing do two things.
+  - Ryan Singer
 ```
