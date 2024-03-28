@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-So much complexity in software comes from trying to make one thing do two things.
-  - Ryan Singer
+C is quirky, flawed, and an enormous success.
+  - Dennis Ritchie
 ```
