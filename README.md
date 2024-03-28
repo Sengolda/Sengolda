@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-From an artistic standpoint, the best software comes from the realm of intuition.
-  - Bob Carr
+Every time you improve process, work becomes harder.
+  - Daniel T. Barry
 ```
