@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every time you improve process, work becomes harder.
-  - Daniel T. Barry
+Low-level programming is good for the programmer’s soul.
+  - John Carmack
 ```
