@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good judgement comes from experience. Experience comes from bad judgement.
-  - Jim Horning
+The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+  - Henry Petroski
 ```
