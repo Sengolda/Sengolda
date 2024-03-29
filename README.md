@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming increases goes as a power of program size.
-  - Fred Brooks
+The button is working, only, it cannot be seen.
+  - Anonymous
 ```
