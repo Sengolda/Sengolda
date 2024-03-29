@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Fancy algorithms are slow when n is small, and n is usually small.
-  - Rob Pike
+Ideas don't disappear. They change form, they merge with other ideas.
+  - Bob Frankston
 ```
