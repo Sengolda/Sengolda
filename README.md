@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
-  - Joseph Yoder (computer scientist)
+I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
+  - Richard Stallman
 ```
