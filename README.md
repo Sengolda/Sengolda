@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First do it, then do it right, then do it better.
-  - Addy Osmani
+People under pressure don’t work better; they just work faster.
+  - Tom DeMarco
 ```
