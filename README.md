@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
-  - Stan Kelly-Bootle
+Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+  - Jim Horning
 ```
