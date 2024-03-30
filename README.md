@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
-  - John Warnock
+Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+  - Joseph Yoder (computer scientist)
 ```
