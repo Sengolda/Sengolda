@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When debugging, novices insert corrective code; experts remove defective code.
-  - Richard E. Pattis
+Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+  - Bjarne Stroustrup
 ```
