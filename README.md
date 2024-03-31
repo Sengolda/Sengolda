@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
-  - Richard Hamming
+You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
+  - John Romero
 ```
