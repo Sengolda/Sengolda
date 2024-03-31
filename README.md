@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There is no reason anyone would want a computer in their home.
-  - Ken Olsen
+We who cut mere stones must always be envisioning cathedrals.
+  - Quarry worker's creed
 ```
