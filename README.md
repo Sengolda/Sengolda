@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
-  - Anonymous
+That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+  - George Boole
 ```
