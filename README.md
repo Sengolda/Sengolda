@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
-  - John Romero
+A language that doesn't affect the way you think about programming, is not worth knowing.
+  - Alan Perlis
 ```
