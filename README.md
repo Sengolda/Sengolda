@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
-  - Tim Berners-Lee
+To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+  - John Warnock
 ```
