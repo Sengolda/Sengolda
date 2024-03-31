@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We who cut mere stones must always be envisioning cathedrals.
-  - Quarry worker's creed
+Good judgement comes from experience. Experience comes from bad judgement.
+  - Jim Horning
 ```
