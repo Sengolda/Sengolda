@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In handling resources, strive to avoid disaster rather than to attain an optimum.
-  - Butler Lampson
+Premature abstraction is as bad as premature optimization.
+  - Luciano Ramalho
 ```
