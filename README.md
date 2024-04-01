@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The entire history of software engineering is that of the rise in levels of abstraction.
-  - Grady Booch
+In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+  - Douglas Crockford
 ```
