@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A language that doesn't affect the way you think about programming, is not worth knowing.
-  - Alan Perlis
+I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+  - Donald Knuth
 ```
