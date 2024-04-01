@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-AI is a fundamental risk to the existence of human civilization.
-  - Elon Musk
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+  - Martin Fowler
 ```
