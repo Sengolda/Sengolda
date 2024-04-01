@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
-  - Danny Hillis
+Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+  - John McCarthy (computer scientist)
 ```
