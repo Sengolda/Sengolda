@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
-  - Martin Fowler
+The entire history of software engineering is that of the rise in levels of abstraction.
+  - Grady Booch
 ```
