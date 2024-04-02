@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
-  - Ted Nelson
+Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
+  - Douglas Crockford
 ```
