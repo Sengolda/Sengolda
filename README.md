@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
-  - Douglas Crockford
+If you have a procedure with 10 parameters, you probably missed some.
+  - Alan Perlis
 ```
