@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software engineering is the part of computer science which is too difficult for the computer scientist.
-  - Friedrich Bauer
+Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+  - Ted Nelson
 ```
