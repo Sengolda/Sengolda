@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-From an artistic standpoint, the best software comes from the realm of intuition.
-  - Bob Carr
+I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+  - Ken Thompson
 ```
