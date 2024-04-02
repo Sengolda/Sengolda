@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
-  - Vint Cerf
+A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+  - Bill Gates
 ```
