@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
   - Daniel T. Barry
 ```
