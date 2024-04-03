@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If Microsoft ever does applications for Linux it means I've won.
-  - Linus Torvalds
+Cleaning code does NOT take time. NOT cleaning code does take time.
+  - Robert C. Martin
 ```
