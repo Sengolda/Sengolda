@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
-  - Douglas Crockford
+I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+  - Poul Anderson
 ```
