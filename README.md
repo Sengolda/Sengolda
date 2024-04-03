@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
-  - Daniel T. Barry
+If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+  - John von Neumann
 ```
