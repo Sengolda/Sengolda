@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In theory, there is no difference between theory and practice. But, in practice, there is.
-  - Jan L. A. van de Snepscheut
+To iterate is human, to recurse divine.
+  - L. Peter Deutsch
 ```
