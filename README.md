@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A picture may be worth a thousand words, a formula is worth a thousand pictures.
-  - Edsger W. Dijkstra
+I'm not a great programmer; I'm just a good programmer with great habits.
+  - Kent Beck
 ```
