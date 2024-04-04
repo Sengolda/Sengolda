@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
-  - Martin Fowler
+Compatibility means deliberately repeating other people’s mistakes.
+  - David Wheeler (computer scientist)
 ```
