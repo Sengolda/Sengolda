@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In my second year in graduate school, I took a computer course and that was like lightening striking.
-  - Ted Nelson
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+  - Alan Perlis
 ```
