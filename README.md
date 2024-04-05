@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
-  - Marvin Minsky
+To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+  - Tim Berners-Lee
 ```
