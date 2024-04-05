@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
-  - Michael Hawley
+Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+  - Vannevar Bush
 ```
