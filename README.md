@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+A picture may be worth a thousand words, a formula is worth a thousand pictures.
   - Edsger W. Dijkstra
 ```
