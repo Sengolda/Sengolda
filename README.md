@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Machines take me by surprise with great frequency.
-  - Alan Turing
+We who cut mere stones must always be envisioning cathedrals.
+  - Quarry worker's creed
 ```
