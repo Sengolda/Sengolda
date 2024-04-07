@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Everything should be made as simple as possible. But to do that you have to master complexity.
-  - Butler Lampson
+We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
+  - Donald Knuth
 ```
