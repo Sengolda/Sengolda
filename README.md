@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
-  - Addy Osmani
+I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+  - Alan Perlis
 ```
