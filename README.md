@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-So much complexity in software comes from trying to make one thing do two things.
-  - Ryan Singer
+A picture may be worth a thousand words, a formula is worth a thousand pictures.
+  - Edsger W. Dijkstra
 ```
