@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The only sin is to make a choice without knowing you are making one.
-  - Jonathan Shewchuk
+I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+  - Alan Kay
 ```
