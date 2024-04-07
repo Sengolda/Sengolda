@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
-  - Gary Kildall
+The way to arrest entropy in software is to refactor it.
+  - Joseph Yoder (computer scientist)
 ```
