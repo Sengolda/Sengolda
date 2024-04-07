@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes it’s just easier to throw a system away, and start over.
-  - Joseph Yoder (computer scientist)
+When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+  - Gary Kildall
 ```
