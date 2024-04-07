@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cleaning code does NOT take time. NOT cleaning code does take time.
-  - Robert C. Martin
+The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+  - Charles Babbage
 ```
