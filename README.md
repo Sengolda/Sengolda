@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
-  - Donald Knuth
+A good programmer is someone who looks both ways before crossing a one-way street.
+  - Doug Linder
 ```
