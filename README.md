@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Compatibility means deliberately repeating other people’s mistakes.
-  - David Wheeler (computer scientist)
+When we don’t understand a process, we fall into magical thinking about results.
+  - Jef Raskin
 ```
