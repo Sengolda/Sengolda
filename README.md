@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
-  - Wayne Ratliff
+There's nothing more permanent than a temporary hack.
+  - Kyle Simpson
 ```
