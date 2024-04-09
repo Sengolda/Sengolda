@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
-  - Lawrence Flon
+The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+  - Edsger W. Dijkstra
 ```
