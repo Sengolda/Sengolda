@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you learn how to solve problems, you can go through life and do pretty well.
-  - Gary Kildall
+There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+  - Lawrence Flon
 ```
