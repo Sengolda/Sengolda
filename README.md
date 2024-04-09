@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The hardest part of design is keeping features out.
-  - Don Norman
+Typing is no substitute for thinking.
+  - Richard Hamming
 ```
