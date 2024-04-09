@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Never trust a computer you can’t throw out a window.
-  - Steve Wozniak
+A number of studies have shown testing not very effective at finding bugs.
+  - Daniel T. Barry
 ```
