@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The computing scientist’s main challenge is not to get confused by the complexities of his own making.
-  - Edsger W. Dijkstra
+First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
+  - Fred Brooks
 ```
