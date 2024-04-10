@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
-  - Donald Knuth
+I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+  - David Parnas
 ```
