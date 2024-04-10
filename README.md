@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes it’s just easier to throw a system away, and start over.
-  - Joseph Yoder (computer scientist)
+It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+  - Edsger W. Dijkstra
 ```
