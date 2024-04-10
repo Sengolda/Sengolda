@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is the ultimate field for someone who likes to tinker.
-  - Ray Ozzie
+By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+  - Donald Knuth
 ```
