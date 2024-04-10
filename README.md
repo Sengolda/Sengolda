@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
-  - Tim Berners-Lee
+Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+  - Linus Torvalds
 ```
