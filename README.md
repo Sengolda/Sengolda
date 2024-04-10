@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Imagination is more important than knowledge.
-  - Albert Einstein
+In order to understand recursion, one must first understand recursion.
+  - Anonymous
 ```
