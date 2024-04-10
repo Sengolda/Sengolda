@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
-  - John Carmack
+Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+  - Fred Brooks
 ```
