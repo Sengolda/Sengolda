@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
-  - Philip Greenspun
+Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+  - Alan Perlis
 ```
