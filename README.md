@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Adding manpower to a late software project makes it later.
-  - Fred Brooks
+What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+  - Dennis Ritchie
 ```
