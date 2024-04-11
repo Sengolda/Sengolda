@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The purpose of computing is insight, not numbers.
-  - Richard Hamming
+I care not only what the code says but how it looks.
+  - Peter Roizen
 ```
