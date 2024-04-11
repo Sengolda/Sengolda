@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What is simplicity? Simplicity is the shortest path to a solution.
-  - Ward Cunningham
+Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+  - John Carmack
 ```
