@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
-  - Charles Simonyi
+It is easier to change the specification to fit the program than vice versa.
+  - Alan Perlis
 ```
