@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is easier to change the specification to fit the program than vice versa.
-  - Alan Perlis
+What is simplicity? Simplicity is the shortest path to a solution.
+  - Ward Cunningham
 ```
