@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
-  - Mario Fusco
+Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+  - Ward Cunningham
 ```
