@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
-  - Edsger W. Dijkstra
+The next best thing to having good ideas is recognizing good ideas from your users.
+  - Eric S. Raymond
 ```
