@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
-  - Douglas Crockford
+In my second year in graduate school, I took a computer course and that was like lightening striking.
+  - Ted Nelson
 ```
