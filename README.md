@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is at least as difficult as developing a mathematical theory.
-  - Daniel T. Barry
+Machines as simple as thermostats can be said to have beliefs.
+  - John McCarthy (computer scientist)
 ```
