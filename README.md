@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Deleted code is debugged code.
-  - Jeff Sickel
+Programming is at least as difficult as developing a mathematical theory.
+  - Daniel T. Barry
 ```
