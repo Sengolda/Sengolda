@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Machines as simple as thermostats can be said to have beliefs.
-  - John McCarthy (computer scientist)
+It is easier to change the specification to fit the program than vice versa.
+  - Alan Perlis
 ```
