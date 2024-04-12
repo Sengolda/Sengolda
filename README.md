@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is easier to change the specification to fit the program than vice versa.
-  - Alan Perlis
+Programming is the ultimate field for someone who likes to tinker.
+  - Ray Ozzie
 ```
