@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
-  - Edsger W. Dijkstra
+Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+  - Fred Brooks
 ```
