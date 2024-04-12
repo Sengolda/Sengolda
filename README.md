@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
-  - Gerald Weinberg
+Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
+  - Daniel T. Barry
 ```
