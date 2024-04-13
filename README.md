@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When I invented the web, I didn't have to ask anyone's permission.
-  - Tim Berners-Lee
+A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+  - Fred Brooks
 ```
