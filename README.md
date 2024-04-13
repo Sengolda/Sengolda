@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
-  - Steve Jobs
+The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+  - Terry Winograd
 ```
