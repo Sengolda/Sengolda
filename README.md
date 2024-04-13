@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
-  - Fred Brooks
+When I invented the web, I didn't have to ask anyone's permission.
+  - Tim Berners-Lee
 ```
