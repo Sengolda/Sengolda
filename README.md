@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
-  - Douglas Crockford
+If Microsoft ever does applications for Linux it means I've won.
+  - Linus Torvalds
 ```
