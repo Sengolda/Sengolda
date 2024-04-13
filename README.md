@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
-  - Edsger W. Dijkstra
+You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+  - Steve Jobs
 ```
