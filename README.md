@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
-  - Linus Torvalds
+The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+  - Donald Knuth
 ```
