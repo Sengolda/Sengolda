@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
-  - Marvin Minsky
+We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+  - Ellen Ullman
 ```
