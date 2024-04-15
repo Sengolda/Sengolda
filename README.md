@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Debugging is like being the detective in a crime movie where you are also the murderer.
-  - Filipe Fortes
+Everybody should learn to program a computer, because it teaches you how to think.
+  - Steve Jobs
 ```
