@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Dealing with failure is easy: Work hard to improve.
-  - Alan Perlis
+We who cut mere stones must always be envisioning cathedrals.
+  - Quarry worker's creed
 ```
