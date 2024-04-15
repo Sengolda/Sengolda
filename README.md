@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
-  - Edsger W. Dijkstra
+Debugging is like being the detective in a crime movie where you are also the murderer.
+  - Filipe Fortes
 ```
