@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
-  - Linus Torvalds
+Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
+  - L. Peter Deutsch
 ```
