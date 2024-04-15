@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Everybody should learn to program a computer, because it teaches you how to think.
-  - Steve Jobs
+Dealing with failure is easy: Work hard to improve.
+  - Alan Perlis
 ```
