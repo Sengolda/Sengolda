@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Really care about the tools you use because they are what make you your best.
-  - Addy Osmani
+The very best technology never has as much impact as girlfriend or boyfriend trouble.
+  - Tom DeMarco
 ```
