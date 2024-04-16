@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A number of studies have shown testing not very effective at finding bugs.
+Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
   - Daniel T. Barry
 ```
