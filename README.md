@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
-  - Fred Brooks
+Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+  - Marvin Minsky
 ```
