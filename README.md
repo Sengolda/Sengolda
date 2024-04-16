@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
-  - Ted Nelson
+Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+  - Fred Brooks
 ```
