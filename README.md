@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Once you stop learning you start dying.
-  - Albert Einstein
+Your most unhappy customers are your greatest source of learning.
+  - Bill Gates
 ```
