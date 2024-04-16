@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
-  - Edsger W. Dijkstra
+A number of studies have shown testing not very effective at finding bugs.
+  - Daniel T. Barry
 ```
