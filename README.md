@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Whenever logical processes of thought are employed, there is an opportunity for the machine.
-  - Vannevar Bush
+Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+  - John Carmack
 ```
