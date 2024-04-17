@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Typing is no substitute for thinking.
-  - Richard Hamming
+Documentation is a love letter that you write to your future self.
+  - Damian Conway
 ```
