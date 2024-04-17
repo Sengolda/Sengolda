@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No code is faster than no code.
-  - Kevlin Henney
+It is easier to change the specification to fit the program than vice versa.
+  - Alan Perlis
 ```
