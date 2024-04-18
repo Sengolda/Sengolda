@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Controlling complexity is the essence of computer programming.
-  - Brian Kernighan
+Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+  - Daniel T. Barry
 ```
