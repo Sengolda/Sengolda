@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When there is no type hierarchy you don’t have to manage the type hierarchy.
-  - Rob Pike
+You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+  - Anonymous
 ```
