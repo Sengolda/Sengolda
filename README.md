@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The next best thing to having good ideas is recognizing good ideas from your users.
-  - Eric S. Raymond
+The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+  - Tom Cargill
 ```
