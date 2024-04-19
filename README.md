@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Codes are a puzzle. A game, just like any other game.
-  - Alan Turing
+A language that doesn't affect the way you think about programming, is not worth knowing.
+  - Alan Perlis
 ```
