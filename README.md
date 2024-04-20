@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Nine women can't make a baby in one month.
-  - Fred Brooks
+Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+  - Edsger W. Dijkstra
 ```
