@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
-  - Edsger W. Dijkstra
+A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+  - Donald Knuth
 ```
