@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Maintenance cost is strongly affected by the number of users. More users find more bugs.
-  - Fred Brooks
+We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+  - Ada Lovelace
 ```
