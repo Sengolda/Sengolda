@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good people with a good process will outperform good people with no process every time.
-  - Grady Booch
+You should name a variable using the same care with which you name a first-born child.
+  - Jim Coplien
 ```
