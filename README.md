@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
-  - Jamie Zawinski
+Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+  - Daniel T. Barry
 ```
