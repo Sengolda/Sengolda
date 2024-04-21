@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
-  - Alan Perlis
+You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+  - Steve Jobs
 ```
