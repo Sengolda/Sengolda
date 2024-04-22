@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
-  - David Leinweber
+A picture may be worth a thousand words, a formula is worth a thousand pictures.
+  - Edsger W. Dijkstra
 ```
