@@ -39,8 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
-  - Michael A. Jackson
+There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+  - Lawrence Flon
 ```
