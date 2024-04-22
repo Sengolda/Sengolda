@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A picture may be worth a thousand words, a formula is worth a thousand pictures.
-  - Edsger W. Dijkstra
+What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+  - Michael Hawley
 ```
