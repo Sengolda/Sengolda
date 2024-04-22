@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Making things easy is hard.
-  - Ted Nelson
+It is easier to change the specification to fit the program than vice versa.
+  - Alan Perlis
 ```
