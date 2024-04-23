@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good people with a good process will outperform good people with no process every time.
-  - Grady Booch
+Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+  - Marijn Haverbeke
 ```
