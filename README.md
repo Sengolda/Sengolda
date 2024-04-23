@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To iterate is human, to recurse divine.
-  - L. Peter Deutsch
+A good programmer is someone who looks both ways before crossing a one-way street.
+  - Doug Linder
 ```
