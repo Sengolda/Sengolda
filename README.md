@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
-  - Marijn Haverbeke
+C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+  - Bjarne Stroustrup
 ```
