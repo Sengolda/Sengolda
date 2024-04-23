@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In order to understand recursion, one must first understand recursion.
-  - Anonymous
+I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+  - Simon Peyton Jones
 ```
