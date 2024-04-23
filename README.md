@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A good programmer is someone who looks both ways before crossing a one-way street.
-  - Doug Linder
+Never trust a computer you can’t throw out a window.
+  - Steve Wozniak
 ```
