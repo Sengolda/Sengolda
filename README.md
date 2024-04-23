@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
-  - Simon Peyton Jones
+Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
+  - Daniel T. Barry
 ```
