@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
-  - Edsger W. Dijkstra
+We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+  - Ada Lovelace
 ```
