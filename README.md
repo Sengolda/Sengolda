@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
-  - Rick Osborne
+The key to keeping software costs down is to write code that is easily modified.
+  - Daniel T. Barry
 ```
