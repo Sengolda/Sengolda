@@ -39,7 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
-  - Bob Frankston
+Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
+  - Douglas Crockford
 ```
