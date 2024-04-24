@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The key to keeping software costs down is to write code that is easily modified.
-  - Daniel T. Barry
+It's not so important what you work on, so long as you're not wasting your time.
+  - Paul Graham (programmer)
 ```
