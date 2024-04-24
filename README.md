@@ -39,6 +39,7 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There's only one trick in software, and that is using a piece of software that's already been written.
-  - Bill Gates
+If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
+  - Bob Frankston
 ```
