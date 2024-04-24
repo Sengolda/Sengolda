@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-From an artistic standpoint, the best software comes from the realm of intuition.
-  - Bob Carr
+There's only one trick in software, and that is using a piece of software that's already been written.
+  - Bill Gates
 ```
