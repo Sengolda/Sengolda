@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Everybody should learn to program a computer, because it teaches you how to think.
-  - Steve Jobs
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+  - Rick Osborne
 ```
