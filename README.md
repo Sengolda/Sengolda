@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
-  - George Boole
+All too many of our software systems are, architecturally, little more than shantytowns.
+  - Joseph Yoder (computer scientist)
 ```
