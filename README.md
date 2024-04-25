@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Deleted code is debugged code.
-  - Jeff Sickel
+Any sufficiently advanced technology is indistinguishable from magic.
+  - Arthur C. Clarke
 ```
