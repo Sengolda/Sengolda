@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All too many of our software systems are, architecturally, little more than shantytowns.
-  - Joseph Yoder (computer scientist)
+If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+  - Martin Fowler
 ```
