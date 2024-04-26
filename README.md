@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
-  - Martin Fowler
+Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
+  - Bill Gates
 ```
