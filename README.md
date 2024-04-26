@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
-  - Buckminster Fuller
+Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
+  - Stan Kelly-Bootle
 ```
