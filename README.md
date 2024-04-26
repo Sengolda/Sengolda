@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First, solve the problem. Then, write the code.
-  - John Johnson
+Everybody should learn to program a computer, because it teaches you how to think.
+  - Steve Jobs
 ```
