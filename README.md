@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It's not so important what you work on, so long as you're not wasting your time.
-  - Paul Graham (programmer)
+Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
+  - Fred Brooks
 ```
