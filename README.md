@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
-  - Stan Kelly-Bootle
+C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+  - Bjarne Stroustrup
 ```
