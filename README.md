@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
-  - Leslie Lamport
+Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+  - Michael Stal
 ```
