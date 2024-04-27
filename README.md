@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
-  - Douglas Crockford
+Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
+  - Richard Stallman
 ```
