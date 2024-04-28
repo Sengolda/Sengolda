@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If debugging is the process of removing software bugs, then programming must be the process of putting them in.
-  - Edsger W. Dijkstra
+The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+  - Fred Brooks
 ```
