@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
-  - Jim Horning
+The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+  - Donald Knuth
 ```
