@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-An infinite number of monkeys typing into GNU Emacs would never make a good program.
-  - Linus Torvalds
+Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
+  - Ken Thompson
 ```
