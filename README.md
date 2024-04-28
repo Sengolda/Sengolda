@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-For most software, efficiency just does not matter.
-  - Daniel T. Barry
+A beautiful program is like a beautiful theorem: It does the job elegantly.
+  - Butler Lampson
 ```
