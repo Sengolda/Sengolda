@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
-  - Linus Torvalds
+I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
+  - Charles Simonyi
 ```
