@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The button is working, only, it cannot be seen.
-  - Anonymous
+First do it, then do it right, then do it better.
+  - Addy Osmani
 ```
