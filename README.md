@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cleaning code does NOT take time. NOT cleaning code does take time.
-  - Robert C. Martin
+Much of the essence of building a program is in fact the debugging of the specification.
+  - Fred Brooks
 ```
