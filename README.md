@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
-  - Ted Nelson
+Cleaning code does NOT take time. NOT cleaning code does take time.
+  - Robert C. Martin
 ```
