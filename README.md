@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Much of the essence of building a program is in fact the debugging of the specification.
-  - Fred Brooks
+The entire history of software engineering is that of the rise in levels of abstraction.
+  - Grady Booch
 ```
