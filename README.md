@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-With artificial intelligence we are summoning the demon.
-  - Elon Musk
+A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+  - Ted Nelson
 ```
