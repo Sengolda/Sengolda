@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
-  - Donald Knuth
+Object-oriented design is the roman numerals of computing.
+  - Rob Pike
 ```
