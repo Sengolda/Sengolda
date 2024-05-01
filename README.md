@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In handling resources, strive to avoid disaster rather than to attain an optimum.
-  - Butler Lampson
+The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+  - Edsger W. Dijkstra
 ```
