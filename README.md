@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
   - Daniel T. Barry
 ```
