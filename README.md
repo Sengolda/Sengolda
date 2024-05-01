@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
-  - Carl Friedrich Gauss
+Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+  - John von Neumann
 ```
