@@ -39,6 +39,7 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
-  - Terry Winograd
+I think there is a world market for maybe five
+computers.
+  - Thomas J. Watson
 ```
