@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When in doubt, use brute force.
-  - Ken Thompson
+Premature abstraction is as bad as premature optimization.
+  - Luciano Ramalho
 ```
