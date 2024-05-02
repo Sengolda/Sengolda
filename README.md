@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Science is what we understand well enough to explain to a computer. Art is everything else we do.
-  - Donald Knuth
+What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+  - Michael Hawley
 ```
