@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cool URIs don't change.
-  - Tim Berners-Lee
+I care not only what the code says but how it looks.
+  - Peter Roizen
 ```
