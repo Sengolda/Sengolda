@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
-  - Ward Cunningham
+You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+  - Steve Jobs
 ```
