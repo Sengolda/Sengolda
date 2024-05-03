@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
-  - Steve Jobs
+Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
+  - Fred Brooks
 ```
