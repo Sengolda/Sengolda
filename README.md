@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I care not only what the code says but how it looks.
-  - Peter Roizen
+The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+  - Tom DeMarco
 ```
