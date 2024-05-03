@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cheapest, fastest, and most reliable components are those that aren’t there.
-  - Gordon Bell
+For most software, efficiency just does not matter.
+  - Daniel T. Barry
 ```
