@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best way to know that you have found the last bug is never to find the first bug.
-  - Harlan Mills
+I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+  - Richard Stallman
 ```
