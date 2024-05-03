@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
-  - Danny Hillis
+The best way to know that you have found the last bug is never to find the first bug.
+  - Harlan Mills
 ```
