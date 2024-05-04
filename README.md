@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
-  - Alan Perlis
+The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+  - Mario Fusco
 ```
