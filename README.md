@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
-  - Mario Fusco
+The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+  - Danny Hillis
 ```
