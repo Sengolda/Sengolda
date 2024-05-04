@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Nine women can't make a baby in one month.
-  - Fred Brooks
+Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+  - John Carmack
 ```
