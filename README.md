@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
-  - Harlan Mills
+Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+  - Edsger W. Dijkstra
 ```
