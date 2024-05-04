@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
-  - Edsger W. Dijkstra
+In theory, there is no difference between theory and practice. But, in practice, there is.
+  - Jan L. A. van de Snepscheut
 ```
