@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The limits of my language mean the limits of my world.
-  - Ludwig Wittgenstein
+One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+  - Fred Brooks
 ```
