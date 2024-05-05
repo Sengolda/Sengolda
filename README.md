@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think you should always bear in mind that entropy is not on your side.
-  - Elon Musk
+There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+  - Marijn Haverbeke
 ```
