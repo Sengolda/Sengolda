@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One accurate measurement is worth more than a thousand expert opinions.
-  - Grace Hopper
+A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+  - Leslie Lamport
 ```
