@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
-  - Fred Brooks
+A good programmer is someone who looks both ways before crossing a one-way street.
+  - Doug Linder
 ```
