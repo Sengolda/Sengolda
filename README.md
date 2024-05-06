@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The difference between theory and practice is that in theory, there is no difference between theory and practice.
-  - Richard Moore (engineer)
+Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+  - Ray Ozzie
 ```
