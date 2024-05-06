@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
-  - Leslie Lamport
+The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+  - Joe Armstrong (programmer)
 ```
