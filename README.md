@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm not a great programmer; I'm just a good programmer with great habits.
-  - Kent Beck
+Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
+  - Douglas Crockford
 ```
