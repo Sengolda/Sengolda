@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
-  - Fred Brooks
+One of the important implications of technical debt is that it must be serviced. If the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets.
+  - Steve McConnell
 ```
