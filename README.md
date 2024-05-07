@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No matter how slow you are writing clean code, you will always be slower if you make a mess.
-  - Robert C. Martin
+The next best thing to having good ideas is recognizing good ideas from your users.
+  - Eric S. Raymond
 ```
