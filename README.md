@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is at least as difficult as developing a mathematical theory.
-  - Daniel T. Barry
+In programming the hard part isn’t solving problems, but deciding what problems to solve.
+  - Paul Graham (programmer)
 ```
