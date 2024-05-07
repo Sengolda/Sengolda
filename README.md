@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-For most software, efficiency just does not matter.
-  - Daniel T. Barry
+No matter how slow you are writing clean code, you will always be slower if you make a mess.
+  - Robert C. Martin
 ```
