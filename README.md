@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think programming is very much a religious experience for a lot of people.
-  - Gary Kildall
+SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+  - Philip Greenspun
 ```
