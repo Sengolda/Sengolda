@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
-  - Richard Hamming
+The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+  - Edsger W. Dijkstra
 ```
