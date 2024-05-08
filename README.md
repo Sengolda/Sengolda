@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
-  - Terry Winograd
+Cleaning code does NOT take time. NOT cleaning code does take time.
+  - Robert C. Martin
 ```
