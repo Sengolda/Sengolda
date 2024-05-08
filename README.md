@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Most errors are introduced during requirements specification!
-  - Daniel T. Barry
+I think programming is very much a religious experience for a lot of people.
+  - Gary Kildall
 ```
