@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is not the task of the University to offer what society asks for, but to give what society needs.
-  - Edsger W. Dijkstra
+The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
+  - John Carmack
 ```
