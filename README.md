@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm interested in creating images that communicate with people.
-  - Toru Iwatani
+The key to keeping software costs down is to write code that is easily modified.
+  - Daniel T. Barry
 ```
