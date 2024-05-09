@@ -39,7 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think the best way to make JavaScript better would be to
-make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
-  - Douglas Crockford
+The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+  - Joshua Bloch
 ```
