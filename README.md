@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The only way to learn a new programming language is by writing programs in it.
-  - Dennis Ritchie
+To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+  - John Warnock
 ```
