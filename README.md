@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
-  - Ted Nelson
+Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+  - Fred Brooks
 ```
