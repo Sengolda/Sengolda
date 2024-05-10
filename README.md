@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
-  - Butler Lampson
+A year spent in artificial intelligence is enough to make one believe in God.
+  - Alan Perlis
 ```
