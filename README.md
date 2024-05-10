@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think one of the most valuable rules is avoid duplication.
-  - Martin Fowler
+I think the best way to supervise is by personal example and by frequent code reviews.
+  - Charles Simonyi
 ```
