@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think the best way to supervise is by personal example and by frequent code reviews.
-  - Charles Simonyi
+The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+  - Robert C. Martin
 ```
