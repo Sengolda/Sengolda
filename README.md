@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cost to repair an error goes up dramatically as project moves towards completion and beyond.
-  - Daniel T. Barry
+Young man, in mathematics you don't understand things. You just get used to them.
+  - John von Neumann
 ```
