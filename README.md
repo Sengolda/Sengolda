@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The top 5% of programmers probably write 99% of the good software.
-  - Paul Graham (programmer)
+People under pressure don’t work better; they just work faster.
+  - Tom DeMarco
 ```
