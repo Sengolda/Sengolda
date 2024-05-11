@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
-  - John Carmack
+Don't worry about anything. Just do what you can and be the best you can be.
+  - Douglas Crockford
 ```
