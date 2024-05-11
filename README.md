@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
-  - Charles Babbage
+A good programmer is someone who looks both ways before crossing a one-way street.
+  - Doug Linder
 ```
