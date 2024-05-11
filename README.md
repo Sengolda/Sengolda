@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
-  - Danny Hillis
+As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+  - Charles Babbage
 ```
