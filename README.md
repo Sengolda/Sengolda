@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Don't worry about anything. Just do what you can and be the best you can be.
-  - Douglas Crockford
+The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+  - Charles Babbage
 ```
