@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To iterate is human, to recurse divine.
-  - L. Peter Deutsch
+Most errors are introduced during requirements specification!
+  - Daniel T. Barry
 ```
