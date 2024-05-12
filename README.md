@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good judgement comes from experience. Experience comes from bad judgement.
-  - Jim Horning
+Programming can be addictive.
+  - Bob Carr
 ```
