@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The act of describing a program in unambiguous detail and the act of programming are one and the same.
-  - Kevlin Henney
+The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
+  - Grady Booch
 ```
