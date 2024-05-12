@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The limits of my language mean the limits of my world.
-  - Ludwig Wittgenstein
+Maintenance cost is strongly affected by the number of users. More users find more bugs.
+  - Fred Brooks
 ```
