@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Documentation is a love letter that you write to your future self.
-  - Damian Conway
+Good judgement comes from experience. Experience comes from bad judgement.
+  - Jim Horning
 ```
