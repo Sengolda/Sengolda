@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
-  - Ted Nelson
+Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+  - Roy Fielding
 ```
