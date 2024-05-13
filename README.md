@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
-  - Martin Fowler
+Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+  - Ted Nelson
 ```
