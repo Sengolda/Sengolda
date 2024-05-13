@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+One man's constant is another man's variable.
   - Alan Perlis
 ```
