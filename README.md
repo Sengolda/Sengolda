@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To iterate is human, to recurse divine.
-  - L. Peter Deutsch
+The manager's function is not to make people work, but to make it possible for people to work.
+  - Tom DeMarco
 ```
