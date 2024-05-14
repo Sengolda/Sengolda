@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-People should be able to speak and breathe programs just like they talk now.
-  - Jaron Lanier
+First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+  - George Carrette
 ```
