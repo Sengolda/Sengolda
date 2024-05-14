@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
-  - George Carrette
+SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+  - Philip Greenspun
 ```
