@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We who cut mere stones must always be envisioning cathedrals.
-  - Quarry worker's creed
+If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+  - Bill Gates
 ```
