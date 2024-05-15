@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Simplicity is prerequisite for reliability.
-  - Edsger W. Dijkstra
+Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+  - Marvin Minsky
 ```
