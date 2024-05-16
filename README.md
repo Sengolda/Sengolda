@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
-  - Ted Nelson
+I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+  - Edsger W. Dijkstra
 ```
