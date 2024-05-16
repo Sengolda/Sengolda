@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Codes are a puzzle. A game, just like any other game.
-  - Alan Turing
+AI is a fundamental risk to the existence of human civilization.
+  - Elon Musk
 ```
