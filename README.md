@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-AI is a fundamental risk to the existence of human civilization.
-  - Elon Musk
+People under pressure don’t work better; they just work faster.
+  - Tom DeMarco
 ```
