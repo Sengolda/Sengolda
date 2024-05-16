@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is at least as difficult as developing a mathematical theory.
-  - Daniel T. Barry
+LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+  - Edsger W. Dijkstra
 ```
