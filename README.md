@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cleaning code does NOT take time. NOT cleaning code does take time.
-  - Robert C. Martin
+When debugging, novices insert corrective code; experts remove defective code.
+  - Richard E. Pattis
 ```
