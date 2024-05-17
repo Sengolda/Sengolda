@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
-  - Edsger W. Dijkstra
+AI is a fundamental risk to the existence of human civilization.
+  - Elon Musk
 ```
