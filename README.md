@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The purpose of software engineering is to control complexity, not to create it.
-  - Pamela Zave
+Cleaning code does NOT take time. NOT cleaning code does take time.
+  - Robert C. Martin
 ```
