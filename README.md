@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
-  - John Romero
+Beware of bugs in the above code; I have only proved it correct, not tried it.
+  - Donald Knuth
 ```
