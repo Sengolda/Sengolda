@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I have no special talent. I am only passionately curious.
+Never memorize something that you can look up.
   - Albert Einstein
 ```
