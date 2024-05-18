@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Unix is simple. It just takes a genius to understand its simplicity.
-  - Dennis Ritchie
+I care not only what the code says but how it looks.
+  - Peter Roizen
 ```
