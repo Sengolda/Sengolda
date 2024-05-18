@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
-  - Charles Babbage
+LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+  - Edsger W. Dijkstra
 ```
