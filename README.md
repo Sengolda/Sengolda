@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
-  - Edsger W. Dijkstra
+Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+  - Richard Hamming
 ```
