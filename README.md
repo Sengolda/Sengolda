@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Life is too short to run proprietary software.
-  - Bdale Garbee
+AI is a fundamental risk to the existence of human civilization.
+  - Elon Musk
 ```
