@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
-  - Fred Brooks
+I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+  - Douglas Crockford
 ```
