@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
-  - Ted Nelson
+To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+  - Fred Brooks
 ```
