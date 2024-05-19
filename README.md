@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is not the task of the University to offer what society asks for, but to give what society needs.
-  - Edsger W. Dijkstra
+Any sufficiently advanced technology is indistinguishable from magic.
+  - Arthur C. Clarke
 ```
