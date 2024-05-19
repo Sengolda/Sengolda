@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
-  - Martin Fowler
+Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+  - Fred Brooks
 ```
