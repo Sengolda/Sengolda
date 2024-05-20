@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The difference between theory and practice is that in theory, there is no difference between theory and practice.
-  - Richard Moore (engineer)
+In man-machine symbiosis, it is man who must adjust: The machines can't.
+  - Alan Perlis
 ```
