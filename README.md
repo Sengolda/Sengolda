@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In man-machine symbiosis, it is man who must adjust: The machines can't.
-  - Alan Perlis
+Unix is simple. It just takes a genius to understand its simplicity.
+  - Dennis Ritchie
 ```
