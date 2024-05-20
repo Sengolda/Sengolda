@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The manager's function is not to make people work, but to make it possible for people to work.
-  - Tom DeMarco
+The act of describing a program in unambiguous detail and the act of programming are one and the same.
+  - Kevlin Henney
 ```
