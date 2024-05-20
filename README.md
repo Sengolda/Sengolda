@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any sufficiently advanced technology is indistinguishable from magic.
-  - Arthur C. Clarke
+AI is a fundamental risk to the existence of human civilization.
+  - Elon Musk
 ```
