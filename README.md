@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It was a turning point in my programming career when I realized that I didn't have to win every argument.
-  - Ward Cunningham
+Low-level programming is good for the programmer’s soul.
+  - John Carmack
 ```
