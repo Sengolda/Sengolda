@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No matter how slow you are writing clean code, you will always be slower if you make a mess.
-  - Robert C. Martin
+The most important thing is to be able to think what you want, not to say what you want.
+  - Paul Graham (programmer)
 ```
