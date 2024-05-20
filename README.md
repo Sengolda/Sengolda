@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
-  - Alan Turing
+No matter how slow you are writing clean code, you will always be slower if you make a mess.
+  - Robert C. Martin
 ```
