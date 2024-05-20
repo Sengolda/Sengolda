@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
   - Fred Brooks
 ```
