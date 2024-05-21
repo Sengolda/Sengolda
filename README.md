@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
-  - Edsger W. Dijkstra
+Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+  - John Carmack
 ```
