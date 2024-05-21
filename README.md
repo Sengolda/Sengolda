@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
-  - Richard Hamming
+The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+  - Danny Hillis
 ```
