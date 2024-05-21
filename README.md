@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A programming language is low level when its programs require attention to the irrelevant.
-  - Alan Perlis
+Low-level programming is good for the programmer’s soul.
+  - John Carmack
 ```
