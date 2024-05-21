@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Low-level programming is good for the programmer’s soul.
-  - John Carmack
+There are few sources of energy so powerful as a procrastinating grad student.
+  - Paul Graham (programmer)
 ```
