@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Within a computer, natural language is unnatural.
-  - Alan Perlis
+Software gets slower faster than hardware gets faster.
+  - Niklaus Wirth
 ```
