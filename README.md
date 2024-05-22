@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Even in the games of children there are things to interest the greatest mathematician.
-  - Gottfried Wilhelm Leibniz
+It was a turning point in my programming career when I realized that I didn't have to win every argument.
+  - Ward Cunningham
 ```
