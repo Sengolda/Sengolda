@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
-  - Linus Torvalds
+The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+  - Edsger W. Dijkstra
 ```
