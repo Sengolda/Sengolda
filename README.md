@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
-  - Elon Musk
+Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+  - Linus Torvalds
 ```
