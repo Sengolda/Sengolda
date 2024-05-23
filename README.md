@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The next best thing to having good ideas is recognizing good ideas from your users.
-  - Eric S. Raymond
+We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+  - Ellen Ullman
 ```
