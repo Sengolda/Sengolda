@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
-  - Harlan Mills
+Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
+  - Fred Brooks
 ```
