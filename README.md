@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software engineering is the part of computer science which is too difficult for the computer scientist.
-  - Friedrich Bauer
+The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+  - Terry Winograd
 ```
