@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
-  - Terry Winograd
+When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+  - L. Peter Deutsch
 ```
