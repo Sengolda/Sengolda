@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every good work of software starts by scratching a developer’s personal itch.
-  - Eric S. Raymond
+The Domain Name Server (DNS) is the Achilles heel of the Web.
+  - Tim Berners-Lee
 ```
