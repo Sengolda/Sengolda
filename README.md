@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When in doubt, use brute force.
-  - Ken Thompson
+There is no reason anyone would want a computer in their home.
+  - Ken Olsen
 ```
