@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Really good programs live forever.
-  - Charles Simonyi
+What I cannot build, I do not understand.
+  - Richard Feynman
 ```
