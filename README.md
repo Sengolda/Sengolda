@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There is no reason anyone would want a computer in their home.
-  - Ken Olsen
+A computer shall not waste your time or require you to do more work than is strictly necessary.
+  - Jef Raskin
 ```
