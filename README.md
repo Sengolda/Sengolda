@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
-  - Tom DeMarco
+Beware of bugs in the above code; I have only proved it correct, not tried it.
+  - Donald Knuth
 ```
