@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
-  - Bill Gates
+Once you stop learning you start dying.
+  - Albert Einstein
 ```
