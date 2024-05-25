@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
-  - Dennis Ritchie
+A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+  - Bill Gates
 ```
