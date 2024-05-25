@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The more code you have, the more places there are for bugs to hide.
-  - Rich Skrenta
+I think the best way to supervise is by personal example and by frequent code reviews.
+  - Charles Simonyi
 ```
