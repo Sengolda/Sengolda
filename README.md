@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In man-machine symbiosis, it is man who must adjust: The machines can't.
-  - Alan Perlis
+If you learn how to solve problems, you can go through life and do pretty well.
+  - Gary Kildall
 ```
