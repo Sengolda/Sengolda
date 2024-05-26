@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No code is faster than no code.
-  - Kevlin Henney
+Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+  - L. Peter Deutsch
 ```
