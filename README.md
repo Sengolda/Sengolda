@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
-  - Lawrence Flon
+Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+  - Fred Brooks
 ```
