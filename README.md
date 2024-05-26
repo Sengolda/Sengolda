@@ -39,7 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think there is a world market for maybe five
-computers.
-  - Thomas J. Watson
+Fancy algorithms are slow when n is small, and n is usually small.
+  - Rob Pike
 ```
