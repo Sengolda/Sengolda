@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
-  - Paul Graham (programmer)
+The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+  - Michael A. Jackson
 ```
