@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
-  - Danny Hillis
+A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+  - Steve Jobs
 ```
