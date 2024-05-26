@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
-  - L. Peter Deutsch
+The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+  - Fred Brooks
 ```
