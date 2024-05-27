@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is the ultimate field for someone who likes to tinker.
-  - Ray Ozzie
+Maintenance cost is strongly affected by the number of users. More users find more bugs.
+  - Fred Brooks
 ```
