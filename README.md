@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Really care about the tools you use because they are what make you your best.
-  - Addy Osmani
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+  - Alan Perlis
 ```
