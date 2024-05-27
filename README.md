@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Controlling complexity is the essence of computer programming.
-  - Brian Kernighan
+If you learn how to solve problems, you can go through life and do pretty well.
+  - Gary Kildall
 ```
