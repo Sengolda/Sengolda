@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Never memorize something that you can look up.
-  - Albert Einstein
+A language that doesn't affect the way you think about programming, is not worth knowing.
+  - Alan Perlis
 ```
