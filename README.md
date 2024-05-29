@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I have no special talent. I am only passionately curious.
-  - Albert Einstein
+Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+  - Michael Stal
 ```
