@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What I cannot build, I do not understand.
-  - Richard Feynman
+That hardly ever happens is another way of saying 'it happens'.
+  - Douglas Crockford
 ```
