@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer programs are the most complex things that humans make.
-  - Douglas Crockford
+No code is faster than no code.
+  - Kevlin Henney
 ```
