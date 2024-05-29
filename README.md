@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
-  - Alan Perlis
+C is quirky, flawed, and an enormous success.
+  - Dennis Ritchie
 ```
