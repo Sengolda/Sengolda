@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No code is faster than no code.
-  - Kevlin Henney
+If Microsoft ever does applications for Linux it means I've won.
+  - Linus Torvalds
 ```
