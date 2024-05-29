@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In theory, there is no difference between theory and practice. But, in practice, there is.
-  - Jan L. A. van de Snepscheut
+I think the best way to supervise is by personal example and by frequent code reviews.
+  - Charles Simonyi
 ```
