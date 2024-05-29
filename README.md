@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-That hardly ever happens is another way of saying 'it happens'.
-  - Douglas Crockford
+The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+  - Ada Lovelace
 ```
