@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Typing is no substitute for thinking.
-  - Richard Hamming
+When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+  - Gerald Weinberg
 ```
