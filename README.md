@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
-  - Gerald Weinberg
+You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
+  - John Romero
 ```
