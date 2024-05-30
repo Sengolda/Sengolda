@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I care not only what the code says but how it looks.
-  - Peter Roizen
+I think you should always bear in mind that entropy is not on your side.
+  - Elon Musk
 ```
