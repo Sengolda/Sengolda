@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Success is a lousy teacher. It seduces smart people into thinking they can't lose.
-  - Bill Gates
+The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+  - Tom DeMarco
 ```
