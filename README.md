@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is not the task of the University to offer what society asks for, but to give what society needs.
-  - Edsger W. Dijkstra
+When there is no type hierarchy you don’t have to manage the type hierarchy.
+  - Rob Pike
 ```
