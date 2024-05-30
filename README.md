@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When there is no type hierarchy you don’t have to manage the type hierarchy.
-  - Rob Pike
+It's not so important what you work on, so long as you're not wasting your time.
+  - Paul Graham (programmer)
 ```
