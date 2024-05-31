@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
-  - Tom Cargill
+I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+  - Jonathan Sachs
 ```
