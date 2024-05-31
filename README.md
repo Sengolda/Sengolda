@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
-  - Charles Simonyi
+The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+  - Tom Cargill
 ```
