@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
-  - Danny Hillis
+All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+  - Albert Einstein
 ```
