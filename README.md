@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
-  - Bjarne Stroustrup
+The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+  - Danny Hillis
 ```
