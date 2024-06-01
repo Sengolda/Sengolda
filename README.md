@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
-  - Elon Musk
+Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+  - Danny Hillis
 ```
