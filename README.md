@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
-  - Jim Horning
+Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+  - George Boole
 ```
