@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In order to understand recursion, one must first understand recursion.
-  - Anonymous
+Humanity is acquiring all the right technology for all the wrong reasons.
+  - Buckminster Fuller
 ```
