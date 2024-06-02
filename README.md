@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
-  - Wayne Ratliff
+The most important thing is to be able to think what you want, not to say what you want.
+  - Paul Graham (programmer)
 ```
