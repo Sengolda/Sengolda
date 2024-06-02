@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
-  - Jim Horning
+An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+  - Harlan Mills
 ```
