@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Humanity is acquiring all the right technology for all the wrong reasons.
-  - Buckminster Fuller
+There's only one trick in software, and that is using a piece of software that's already been written.
+  - Bill Gates
 ```
