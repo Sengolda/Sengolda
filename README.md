@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-An infinite number of monkeys typing into GNU Emacs would never make a good program.
-  - Linus Torvalds
+Really good programs live forever.
+  - Charles Simonyi
 ```
