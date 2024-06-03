@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Life is too short to run proprietary software.
-  - Bdale Garbee
+When we don’t understand a process, we fall into magical thinking about results.
+  - Jef Raskin
 ```
