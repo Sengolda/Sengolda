@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you learn how to solve problems, you can go through life and do pretty well.
-  - Gary Kildall
+The best minds of my generation are thinking about how to make people click ads.
+  - Jeff Hammerbacher
 ```
