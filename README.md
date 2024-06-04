@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
-  - Simon Peyton Jones
+Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+  - Douglas Crockford
 ```
