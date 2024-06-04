@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
-  - John von Neumann
+If you learn how to solve problems, you can go through life and do pretty well.
+  - Gary Kildall
 ```
