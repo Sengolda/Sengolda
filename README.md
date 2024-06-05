@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The entire history of software engineering is that of the rise in levels of abstraction.
-  - Grady Booch
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+  - Edsger W. Dijkstra
 ```
