@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A language that doesn’t have everything is actually easier to program in than some that do.
-  - Dennis Ritchie
+You should name a variable using the same care with which you name a first-born child.
+  - Jim Coplien
 ```
