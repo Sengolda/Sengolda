@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Everybody should learn to program a computer, because it teaches you how to think.
-  - Steve Jobs
+Good people with a good process will outperform good people with no process every time.
+  - Grady Booch
 ```
