@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
-  - Alan Perlis
+Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+  - George Boole
 ```
