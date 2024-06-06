@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes it’s just easier to throw a system away, and start over.
-  - Joseph Yoder (computer scientist)
+Unix is simple. It just takes a genius to understand its simplicity.
+  - Dennis Ritchie
 ```
