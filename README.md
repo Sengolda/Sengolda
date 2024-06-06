@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
-  - George Boole
+By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+  - Donald Knuth
 ```
