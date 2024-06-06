@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The Domain Name Server (DNS) is the Achilles heel of the Web.
-  - Tim Berners-Lee
+A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+  - Ted Nelson
 ```
