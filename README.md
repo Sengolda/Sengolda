@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
-  - Seymour Cray
+Sometimes it’s just easier to throw a system away, and start over.
+  - Joseph Yoder (computer scientist)
 ```
