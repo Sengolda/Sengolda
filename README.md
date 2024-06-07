@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
-  - Elon Musk
+I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+  - Linus Torvalds
 ```
