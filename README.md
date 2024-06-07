@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
-  - Donald Knuth
+The entire history of software engineering is that of the rise in levels of abstraction.
+  - Grady Booch
 ```
