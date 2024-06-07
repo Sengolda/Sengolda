@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Life is too short to run proprietary software.
-  - Bdale Garbee
+That hardly ever happens is another way of saying 'it happens'.
+  - Douglas Crockford
 ```
