@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
-  - Donald Knuth
+As with most projects, the last two percent takes fifty percent of the time.
+  - John Warnock
 ```
