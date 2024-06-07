@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As with most projects, the last two percent takes fifty percent of the time.
-  - John Warnock
+Life is too short to run proprietary software.
+  - Bdale Garbee
 ```
