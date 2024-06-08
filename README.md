@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
-  - Richard Stallman
+Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+  - John Carmack
 ```
