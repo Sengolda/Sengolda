@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A programming systems product takes about nine times as much effort as the component programs written separately for private use.
-  - Fred Brooks
+Good judgement comes from experience. Experience comes from bad judgement.
+  - Jim Horning
 ```
