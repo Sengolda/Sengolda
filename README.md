@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Within C++, there is a much smaller and cleaner language struggling to get out.
-  - Bjarne Stroustrup
+C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
+  - Ken Thompson
 ```
