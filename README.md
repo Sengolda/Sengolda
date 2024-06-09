@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Simplicity does not precede complexity, but follows it.
-  - Alan Perlis
+Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+  - Bjarne Stroustrup
 ```
