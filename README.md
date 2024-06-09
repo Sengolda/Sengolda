@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To iterate is human, to recurse divine.
-  - L. Peter Deutsch
+JavaScript is the world's most misunderstood programming language.
+  - Douglas Crockford
 ```
