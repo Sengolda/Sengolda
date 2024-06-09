@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Everybody should learn to program a computer, because it teaches you how to think.
-  - Steve Jobs
+All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+  - Albert Einstein
 ```
