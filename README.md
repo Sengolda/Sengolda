@@ -39,7 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think there is a world market for maybe five
-computers.
-  - Thomas J. Watson
+Computer Science is no more about computers than astronomy is about telescopes.
+  - Edsger W. Dijkstra
 ```
