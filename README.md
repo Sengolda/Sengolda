@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The key to keeping software costs down is to write code that is easily modified.
-  - Daniel T. Barry
+Within C++, there is a much smaller and cleaner language struggling to get out.
+  - Bjarne Stroustrup
 ```
