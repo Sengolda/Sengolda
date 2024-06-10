@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Much of the essence of building a program is in fact the debugging of the specification.
-  - Fred Brooks
+Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+  - John Warnock
 ```
