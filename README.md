@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
-  - Bill Gates
+The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+  - Fred Brooks
 ```
