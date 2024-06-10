@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
-  - Alan Perlis
+It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+  - Douglas Crockford
 ```
