@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
-  - Bjarne Stroustrup
+Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+  - Daniel T. Barry
 ```
