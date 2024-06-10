@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
-  - Edsger W. Dijkstra
+I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+  - Alan Perlis
 ```
