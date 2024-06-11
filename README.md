@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A few months writing code can save you a few hours in design.
-  - Anonymous
+Never memorize something that you can look up.
+  - Albert Einstein
 ```
