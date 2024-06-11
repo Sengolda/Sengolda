@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you have a procedure with 10 parameters, you probably missed some.
-  - Alan Perlis
+We need to be super careful with AI. Potentially more dangerous than nukes.
+  - Elon Musk
 ```
