@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The key to keeping software costs down is to write code that is easily modified.
-  - Daniel T. Barry
+Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+  - Alan Perlis
 ```
