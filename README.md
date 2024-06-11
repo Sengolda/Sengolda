@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All too many of our software systems are, architecturally, little more than shantytowns.
-  - Joseph Yoder (computer scientist)
+If you have a procedure with 10 parameters, you probably missed some.
+  - Alan Perlis
 ```
