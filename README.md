@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Never memorize something that you can look up.
-  - Albert Einstein
+Debugging is like being the detective in a crime movie where you are also the murderer.
+  - Filipe Fortes
 ```
