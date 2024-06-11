@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Once you stop learning you start dying.
-  - Albert Einstein
+The key to keeping software costs down is to write code that is easily modified.
+  - Daniel T. Barry
 ```
