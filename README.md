@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You should name a variable using the same care with which you name a first-born child.
-  - Jim Coplien
+All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+  - Fred Brooks
 ```
