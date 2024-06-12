@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Humanity is acquiring all the right technology for all the wrong reasons.
-  - Buckminster Fuller
+Just because you've implemented something doesn't mean you understand it.
+  - Brian Cantwell Smith
 ```
