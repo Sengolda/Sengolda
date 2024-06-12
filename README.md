@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
-  - Ted Nelson
+A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
+  - Daniel T. Barry
 ```
