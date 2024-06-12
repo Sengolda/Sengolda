@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
-  - Fred Brooks
+Humanity is acquiring all the right technology for all the wrong reasons.
+  - Buckminster Fuller
 ```
