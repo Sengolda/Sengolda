@@ -39,6 +39,7 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
-  - Donald Knuth
+If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
+  - Bob Frankston
 ```
