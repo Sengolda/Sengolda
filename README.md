@@ -39,7 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
-  - Bob Frankston
+Beware of bugs in the above code; I have only proved it correct, not tried it.
+  - Donald Knuth
 ```
