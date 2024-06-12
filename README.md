@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
-  - Philip Greenspun
+Within C++, there is a much smaller and cleaner language struggling to get out.
+  - Bjarne Stroustrup
 ```
