@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-People should be able to speak and breathe programs just like they talk now.
-  - Jaron Lanier
+JavaScript, purely by accident, has become the most popular programming language in the world.
+  - Douglas Crockford
 ```
