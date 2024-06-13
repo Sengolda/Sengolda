@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The computing scientist’s main challenge is not to get confused by the complexities of his own making.
-  - Edsger W. Dijkstra
+Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+  - Jamie Zawinski
 ```
