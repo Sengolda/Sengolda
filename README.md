@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-JavaScript, purely by accident, has become the most popular programming language in the world.
-  - Douglas Crockford
+Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+  - Bjarne Stroustrup
 ```
