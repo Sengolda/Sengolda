@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
-  - William Wulf
+Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+  - Joseph Yoder (computer scientist)
 ```
