@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No matter how slow you are writing clean code, you will always be slower if you make a mess.
-  - Robert C. Martin
+The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+  - Mario Fusco
 ```
