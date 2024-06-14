@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Young man, in mathematics you don't understand things. You just get used to them.
-  - John von Neumann
+I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+  - Alan Perlis
 ```
