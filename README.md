@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+Your most unhappy customers are your greatest source of learning.
   - Bill Gates
 ```
