@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Even in the games of children there are things to interest the greatest mathematician.
-  - Gottfried Wilhelm Leibniz
+One man's constant is another man's variable.
+  - Alan Perlis
 ```
