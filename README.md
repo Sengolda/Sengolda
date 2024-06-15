@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
-  - Marijn Haverbeke
+I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+  - Carl Friedrich Gauss
 ```
