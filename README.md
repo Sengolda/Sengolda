@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are only two kinds of languages: the ones people complain about and the ones nobody uses.
-  - Bjarne Stroustrup
+I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+  - Jonathan Sachs
 ```
