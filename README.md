@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming increases goes as a power of program size.
-  - Fred Brooks
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+  - Martin Fowler
 ```
