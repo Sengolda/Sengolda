@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every time you improve process, work becomes harder.
-  - Daniel T. Barry
+Good people with a good process will outperform good people with no process every time.
+  - Grady Booch
 ```
