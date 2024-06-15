@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
-  - Danny Hillis
+For most software, efficiency just does not matter.
+  - Daniel T. Barry
 ```
