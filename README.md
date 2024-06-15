@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
-  - Michael A. Jackson
+By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+  - Donald Knuth
 ```
