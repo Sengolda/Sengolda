@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Your most unhappy customers are your greatest source of learning.
-  - Bill Gates
+I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+  - Alan Kay
 ```
