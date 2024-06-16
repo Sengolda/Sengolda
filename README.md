@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-For most software, efficiency just does not matter.
-  - Daniel T. Barry
+To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+  - Tim Berners-Lee
 ```
