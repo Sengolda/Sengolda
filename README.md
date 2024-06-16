@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Once you stop learning you start dying.
-  - Albert Einstein
+Programming is the ultimate field for someone who likes to tinker.
+  - Ray Ozzie
 ```
