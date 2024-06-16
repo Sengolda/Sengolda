@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
-  - Tim Berners-Lee
+Once you stop learning you start dying.
+  - Albert Einstein
 ```
