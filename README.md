@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
-  - Grady Booch
+You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
+  - John Romero
 ```
