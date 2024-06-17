@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
-  - L. Peter Deutsch
+It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
+  - Gary Kildall
 ```
