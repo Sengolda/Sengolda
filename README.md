@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-People under pressure don’t work better; they just work faster.
-  - Tom DeMarco
+Dealing with failure is easy: Work hard to improve.
+  - Alan Perlis
 ```
