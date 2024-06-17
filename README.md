@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
-  - Joseph Yoder (computer scientist)
+I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
+  - Donald Knuth
 ```
