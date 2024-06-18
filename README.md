@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-AI is a fundamental risk to the existence of human civilization.
-  - Elon Musk
+There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+  - Bjarne Stroustrup
 ```
