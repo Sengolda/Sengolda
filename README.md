@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
-  - P. J. Plauger
+An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+  - Bjarne Stroustrup
 ```
