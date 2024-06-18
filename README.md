@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
-  - Charles Simonyi
+A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+  - Danny Hillis
 ```
