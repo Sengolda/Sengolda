@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-With artificial intelligence we are summoning the demon.
-  - Elon Musk
+If you have a procedure with 10 parameters, you probably missed some.
+  - Alan Perlis
 ```
