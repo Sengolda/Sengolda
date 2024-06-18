@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
-  - Joseph Yoder (computer scientist)
+The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+  - Charles Simonyi
 ```
