@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Within a computer, natural language is unnatural.
-  - Alan Perlis
+When there is no type hierarchy you don’t have to manage the type hierarchy.
+  - Rob Pike
 ```
