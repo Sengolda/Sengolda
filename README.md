@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
-  - Marvin Minsky
+The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+  - Henry Petroski
 ```
