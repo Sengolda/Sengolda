@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
-  - Bill Gates
+Typing is no substitute for thinking.
+  - Richard Hamming
 ```
