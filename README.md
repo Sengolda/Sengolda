@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What I cannot build, I do not understand.
-  - Richard Feynman
+A computer shall not waste your time or require you to do more work than is strictly necessary.
+  - Jef Raskin
 ```
