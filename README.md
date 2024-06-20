@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
-  - Carl Friedrich Gauss
+Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
+  - Fred Brooks
 ```
