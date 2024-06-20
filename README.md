@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is the ultimate field for someone who likes to tinker.
-  - Ray Ozzie
+If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+  - Linus Torvalds
 ```
