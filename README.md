@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
-  - Linus Torvalds
+Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+  - Marijn Haverbeke
 ```
