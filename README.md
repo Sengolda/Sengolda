@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
-  - James Gleick
+The button is working, only, it cannot be seen.
+  - Anonymous
 ```
