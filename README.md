@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We need to be super careful with AI. Potentially more dangerous than nukes.
-  - Elon Musk
+The proper use of comments is to compensate for our failure to express ourself in code.
+  - Robert C. Martin
 ```
