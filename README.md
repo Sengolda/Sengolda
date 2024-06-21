@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If Microsoft ever does applications for Linux it means I've won.
-  - Linus Torvalds
+Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+  - Laurence J. Peter
 ```
