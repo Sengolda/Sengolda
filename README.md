@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
-  - Laurence J. Peter
+Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
+  - Stan Kelly-Bootle
 ```
