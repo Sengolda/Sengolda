@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
-  - Ada Lovelace
+Walking on water and developing software from a specification are easy if both are frozen.
+  - Edward V. Berard
 ```
