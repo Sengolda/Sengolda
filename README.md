@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer Science is no more about computers than astronomy is about telescopes.
-  - Edsger W. Dijkstra
+Science is what we understand well enough to explain to a computer. Art is everything else we do.
+  - Donald Knuth
 ```
