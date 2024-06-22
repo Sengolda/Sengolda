@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-So much complexity in software comes from trying to make one thing do two things.
-  - Ryan Singer
+To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+  - Fred Brooks
 ```
