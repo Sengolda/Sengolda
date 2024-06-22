@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
   - Fred Brooks
 ```
