@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most important single aspect of software development is to be clear about what you are trying to build.
-  - Bjarne Stroustrup
+Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+  - Fred Brooks
 ```
