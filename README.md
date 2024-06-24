@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
-  - Donald Knuth
+Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+  - Ted Nelson
 ```
