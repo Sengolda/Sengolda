@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think one of the most valuable rules is avoid duplication.
-  - Martin Fowler
+JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+  - Douglas Crockford
 ```
