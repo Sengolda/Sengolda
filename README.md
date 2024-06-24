@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
-  - Andy Hunt (author)
+Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
+  - Fred Brooks
 ```
