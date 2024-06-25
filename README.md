@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Your most unhappy customers are your greatest source of learning.
-  - Bill Gates
+What one programmer can do in one month, two programmers can do in two months.
+  - Fred Brooks
 ```
