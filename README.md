@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software gets slower faster than hardware gets faster.
-  - Niklaus Wirth
+When I invented the web, I didn't have to ask anyone's permission.
+  - Tim Berners-Lee
 ```
