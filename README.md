@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
-  - Richard Hamming
+We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+  - Ellen Ullman
 ```
