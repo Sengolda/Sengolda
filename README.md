@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
-  - Andy Hunt (author)
+What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+  - Tim Berners-Lee
 ```
