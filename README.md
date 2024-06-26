@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Unix is simple. It just takes a genius to understand its simplicity.
-  - Dennis Ritchie
+There are few sources of energy so powerful as a procrastinating grad student.
+  - Paul Graham (programmer)
 ```
