@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
-  - L. Peter Deutsch
+A year spent in artificial intelligence is enough to make one believe in God.
+  - Alan Perlis
 ```
