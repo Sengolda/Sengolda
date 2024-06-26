@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
-  - Poul Anderson
+I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+  - Jonathan Sachs
 ```
