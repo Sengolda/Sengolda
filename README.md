@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
-  - Douglas Crockford
+The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+  - Charles Simonyi
 ```
