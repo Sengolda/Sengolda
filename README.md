@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
-  - Ted Nelson
+A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+  - Alan Turing
 ```
