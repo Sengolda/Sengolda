@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
-  - Danny Hillis
+If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
+  - Vannevar Bush
 ```
