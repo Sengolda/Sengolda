@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
-  - Fred Brooks
+Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+  - Jim Horning
 ```
