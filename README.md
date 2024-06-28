@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
-  - Elon Musk
+Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+  - Harlan Mills
 ```
