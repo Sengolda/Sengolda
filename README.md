@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
-  - Stewart Brand
+The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+  - Elon Musk
 ```
