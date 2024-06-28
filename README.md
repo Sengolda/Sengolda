@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
-  - Ivan Sutherland
+Maintenance cost is strongly affected by the number of users. More users find more bugs.
+  - Fred Brooks
 ```
