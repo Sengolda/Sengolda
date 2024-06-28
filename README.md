@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
-  - Eric S. Raymond
+Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+  - Stewart Brand
 ```
