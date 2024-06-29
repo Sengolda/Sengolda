@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Success is a lousy teacher. It seduces smart people into thinking they can't lose.
-  - Bill Gates
+A year spent in artificial intelligence is enough to make one believe in God.
+  - Alan Perlis
 ```
