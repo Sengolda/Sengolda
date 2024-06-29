@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-People should be able to speak and breathe programs just like they talk now.
-  - Jaron Lanier
+If you think your users are idiots, only idiots will use it.
+  - Linus Torvalds
 ```
