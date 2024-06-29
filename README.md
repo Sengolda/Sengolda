@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A computer shall not waste your time or require you to do more work than is strictly necessary.
-  - Jef Raskin
+What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+  - Charles Simonyi
 ```
