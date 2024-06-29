@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A year spent in artificial intelligence is enough to make one believe in God.
-  - Alan Perlis
+I think you should always bear in mind that entropy is not on your side.
+  - Elon Musk
 ```
