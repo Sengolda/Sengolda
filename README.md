@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
-  - Linus Torvalds
+The most important thing is to be able to think what you want, not to say what you want.
+  - Paul Graham (programmer)
 ```
