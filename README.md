@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Imagination is more important than knowledge.
+A clever person solves a problem. A wise person avoids it.
   - Albert Einstein
 ```
