@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-So much complexity in software comes from trying to make one thing do two things.
-  - Ryan Singer
+Fancy algorithms are slow when n is small, and n is usually small.
+  - Rob Pike
 ```
