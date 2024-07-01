@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Everybody should learn to program a computer, because it teaches you how to think.
-  - Steve Jobs
+All too many of our software systems are, architecturally, little more than shantytowns.
+  - Joseph Yoder (computer scientist)
 ```
