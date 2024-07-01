@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is the ultimate field for someone who likes to tinker.
-  - Ray Ozzie
+Everybody should learn to program a computer, because it teaches you how to think.
+  - Steve Jobs
 ```
