@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think you should always bear in mind that entropy is not on your side.
-  - Elon Musk
+Don't worry about anything. Just do what you can and be the best you can be.
+  - Douglas Crockford
 ```
