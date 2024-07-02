@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
-  - Michael Stal
+It is not the task of the University to offer what society asks for, but to give what society needs.
+  - Edsger W. Dijkstra
 ```
