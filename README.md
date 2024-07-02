@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All too many of our software systems are, architecturally, little more than shantytowns.
-  - Joseph Yoder (computer scientist)
+There's only one trick in software, and that is using a piece of software that's already been written.
+  - Bill Gates
 ```
