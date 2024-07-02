@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There's only one trick in software, and that is using a piece of software that's already been written.
-  - Bill Gates
+The most important thing is to be able to think what you want, not to say what you want.
+  - Paul Graham (programmer)
 ```
