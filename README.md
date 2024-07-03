@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
-  - Edsger W. Dijkstra
+I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+  - Donald Knuth
 ```
