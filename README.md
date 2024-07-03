@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are only two kinds of languages: the ones people complain about and the ones nobody uses.
-  - Bjarne Stroustrup
+A language that doesn't affect the way you think about programming, is not worth knowing.
+  - Alan Perlis
 ```
