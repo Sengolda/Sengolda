@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cheapest, fastest, and most reliable components are those that aren’t there.
-  - Gordon Bell
+Unix is simple. It just takes a genius to understand its simplicity.
+  - Dennis Ritchie
 ```
