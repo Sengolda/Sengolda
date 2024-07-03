@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Machines as simple as thermostats can be said to have beliefs.
-  - John McCarthy (computer scientist)
+We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+  - Ada Lovelace
 ```
