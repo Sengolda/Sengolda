@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
-  - Bill Gates
+Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+  - Edsger W. Dijkstra
 ```
