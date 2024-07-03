@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When there is no type hierarchy you don’t have to manage the type hierarchy.
-  - Rob Pike
+The cheapest, fastest, and most reliable components are those that aren’t there.
+  - Gordon Bell
 ```
