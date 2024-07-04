@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Less code equals less bugs.
-  - Kevlin Henney
+Object-oriented design is the roman numerals of computing.
+  - Rob Pike
 ```
