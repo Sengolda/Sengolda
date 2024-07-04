@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you learn how to solve problems, you can go through life and do pretty well.
-  - Gary Kildall
+You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+  - Anonymous
 ```
