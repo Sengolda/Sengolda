@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best minds of my generation are thinking about how to make people click ads.
-  - Jeff Hammerbacher
+Walking on water and developing software from a specification are easy if both are frozen.
+  - Edward V. Berard
 ```
