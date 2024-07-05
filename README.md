@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
-  - Gerald Weinberg
+Programs must be written for people to read, and only incidentally for machines to execute.
+  - Hal Abelson
 ```
