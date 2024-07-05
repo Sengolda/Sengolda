@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Never trust a computer you can’t throw out a window.
-  - Steve Wozniak
+Adding manpower to a late software project makes it later.
+  - Fred Brooks
 ```
