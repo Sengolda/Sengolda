@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
-  - Edsger W. Dijkstra
+For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
+  - Alan Perlis
 ```
