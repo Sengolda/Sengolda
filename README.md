@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
-  - Elon Musk
+The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+  - Edsger W. Dijkstra
 ```
