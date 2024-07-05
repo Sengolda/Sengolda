@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No code is faster than no code.
-  - Kevlin Henney
+Codes are a puzzle. A game, just like any other game.
+  - Alan Turing
 ```
