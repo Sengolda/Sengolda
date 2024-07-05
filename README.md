@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is at least as difficult as developing a mathematical theory.
-  - Daniel T. Barry
+AI is a fundamental risk to the existence of human civilization.
+  - Elon Musk
 ```
