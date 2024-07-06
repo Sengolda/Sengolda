@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
-  - L. Peter Deutsch
+I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+  - Douglas Crockford
 ```
