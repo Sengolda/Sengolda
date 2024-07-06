@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
-  - Brian Kernighan
+Everybody should learn to program a computer, because it teaches you how to think.
+  - Steve Jobs
 ```
