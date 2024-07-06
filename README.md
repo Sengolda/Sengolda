@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Low-level programming is good for the programmer’s soul.
-  - John Carmack
+We need to be super careful with AI. Potentially more dangerous than nukes.
+  - Elon Musk
 ```
