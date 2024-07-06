@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
-  - John Romero
+First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+  - George Carrette
 ```
