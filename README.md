@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-AI is a fundamental risk to the existence of human civilization.
-  - Elon Musk
+If you have a procedure with 10 parameters, you probably missed some.
+  - Alan Perlis
 ```
