@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think you should always bear in mind that entropy is not on your side.
-  - Elon Musk
+Controlling complexity is the essence of computer programming.
+  - Brian Kernighan
 ```
