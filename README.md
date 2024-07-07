@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
-  - Tom DeMarco
+I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very suspicious that actually Archimedes had been thinking about that problem for a long time.
+  - Tim Berners-Lee
 ```
