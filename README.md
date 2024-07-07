@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Typing is no substitute for thinking.
-  - Richard Hamming
+The only way to learn a new programming language is by writing programs in it.
+  - Dennis Ritchie
 ```
