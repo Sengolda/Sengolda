@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
-  - David Parnas
+In man-machine symbiosis, it is man who must adjust: The machines can't.
+  - Alan Perlis
 ```
