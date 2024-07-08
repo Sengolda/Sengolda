@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There's nothing more permanent than a temporary hack.
-  - Kyle Simpson
+A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+  - Alan Turing
 ```
