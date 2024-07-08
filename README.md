@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
-  - Fred Brooks
+Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+  - George Boole
 ```
