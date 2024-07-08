@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I care not only what the code says but how it looks.
-  - Peter Roizen
+The top 5% of programmers probably write 99% of the good software.
+  - Paul Graham (programmer)
 ```
