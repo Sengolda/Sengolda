@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A beautiful program is like a beautiful theorem: It does the job elegantly.
-  - Butler Lampson
+Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+  - Edsger W. Dijkstra
 ```
