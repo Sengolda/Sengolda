@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
-  - Fred Brooks
+A beautiful program is like a beautiful theorem: It does the job elegantly.
+  - Butler Lampson
 ```
