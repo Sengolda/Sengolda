@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
-  - Poul Anderson
+Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+  - L. Peter Deutsch
 ```
