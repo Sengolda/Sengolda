@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Within C++, there is a much smaller and cleaner language struggling to get out.
-  - Bjarne Stroustrup
+My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
+  - Fred Brooks
 ```
