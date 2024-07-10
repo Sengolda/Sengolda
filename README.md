@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
-  - John von Neumann
+A computer shall not waste your time or require you to do more work than is strictly necessary.
+  - Jef Raskin
 ```
