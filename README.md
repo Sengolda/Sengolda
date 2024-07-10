@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Before software can be reusable it first has to be usable.
-  - Ralph Johnson (computer scientist)
+The cheapest, fastest, and most reliable components are those that aren’t there.
+  - Gordon Bell
 ```
