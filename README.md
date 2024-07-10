@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To iterate is human, to recurse divine.
-  - L. Peter Deutsch
+Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+  - Martin Fowler
 ```
