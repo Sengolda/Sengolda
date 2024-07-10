@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Simplicity does not precede complexity, but follows it.
-  - Alan Perlis
+Young man, in mathematics you don't understand things. You just get used to them.
+  - John von Neumann
 ```
