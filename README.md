@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A computer shall not waste your time or require you to do more work than is strictly necessary.
-  - Jef Raskin
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+  - Anonymous
 ```
