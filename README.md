@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
-  - William Wulf
+For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
+  - Alan Perlis
 ```
