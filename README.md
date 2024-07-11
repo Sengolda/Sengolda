@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-People under pressure don’t work better; they just work faster.
-  - Tom DeMarco
+I think the best way to supervise is by personal example and by frequent code reviews.
+  - Charles Simonyi
 ```
