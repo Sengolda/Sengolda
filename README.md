@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every good work of software starts by scratching a developer’s personal itch.
-  - Eric S. Raymond
+For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
+  - Alan Perlis
 ```
