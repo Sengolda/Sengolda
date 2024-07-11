@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
-  - Danny Hillis
+Every good work of software starts by scratching a developer’s personal itch.
+  - Eric S. Raymond
 ```
