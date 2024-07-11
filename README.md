@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
-  - Ken Thompson
+I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+  - Linus Torvalds
 ```
