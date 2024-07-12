@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you have a procedure with 10 parameters, you probably missed some.
-  - Alan Perlis
+Ideas don't disappear. They change form, they merge with other ideas.
+  - Bob Frankston
 ```
