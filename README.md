@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you think it's simple, then you have misunderstood the problem.
-  - Bjarne Stroustrup
+If you have a procedure with 10 parameters, you probably missed some.
+  - Alan Perlis
 ```
