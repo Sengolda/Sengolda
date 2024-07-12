@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The purpose of software engineering is to control complexity, not to create it.
-  - Pamela Zave
+The most important part of writing a program is designing the data structures.
+  - Dan Bricklin
 ```
