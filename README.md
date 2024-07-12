@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Everything should be made as simple as possible. But to do that you have to master complexity.
-  - Butler Lampson
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+  - Seymour Cray
 ```
