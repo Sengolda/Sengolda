@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
-  - Bill Gates
+The purpose of software engineering is to control complexity, not to create it.
+  - Pamela Zave
 ```
