@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software engineering is the part of computer science which is too difficult for the computer scientist.
-  - Friedrich Bauer
+The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+  - Ada Lovelace
 ```
