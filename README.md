@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good software, like good wine, takes time.
-  - Joel Spolsky
+If you have a procedure with 10 parameters, you probably missed some.
+  - Alan Perlis
 ```
