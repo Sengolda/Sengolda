@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
-  - Buckminster Fuller
+A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+  - Leslie Lamport
 ```
