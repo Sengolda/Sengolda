@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
-  - Ken Thompson
+A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
+  - John von Neumann
 ```
