@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I have no special talent. I am only passionately curious.
-  - Albert Einstein
+Premature abstraction is as bad as premature optimization.
+  - Luciano Ramalho
 ```
