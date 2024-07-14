@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+The most important single aspect of software development is to be clear about what you are trying to build.
   - Bjarne Stroustrup
 ```
