@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The only sin is to make a choice without knowing you are making one.
-  - Jonathan Shewchuk
+A year spent in artificial intelligence is enough to make one believe in God.
+  - Alan Perlis
 ```
