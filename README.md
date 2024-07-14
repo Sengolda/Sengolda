@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The real problem with throwaway code comes when it isn't thrown away.
-  - Joseph Yoder (computer scientist)
+A few months writing code can save you a few hours in design.
+  - Anonymous
 ```
