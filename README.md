@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most important single aspect of software development is to be clear about what you are trying to build.
-  - Bjarne Stroustrup
+The real problem with throwaway code comes when it isn't thrown away.
+  - Joseph Yoder (computer scientist)
 ```
