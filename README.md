@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A few months writing code can save you a few hours in design.
-  - Anonymous
+The only sin is to make a choice without knowing you are making one.
+  - Jonathan Shewchuk
 ```
