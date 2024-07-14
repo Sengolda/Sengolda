@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is the ultimate field for someone who likes to tinker.
-  - Ray Ozzie
+I'm not a great programmer; I'm just a good programmer with great habits.
+  - Kent Beck
 ```
