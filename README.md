@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
-  - Ellen Ullman
+The best way to know that you have found the last bug is never to find the first bug.
+  - Harlan Mills
 ```
