@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
-  - Alan Perlis
+Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
+  - Marijn Haverbeke
 ```
