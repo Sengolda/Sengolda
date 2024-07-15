@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
-  - Fred Brooks
+When we don’t understand a process, we fall into magical thinking about results.
+  - Jef Raskin
 ```
