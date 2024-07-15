@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When I invented the web, I didn't have to ask anyone's permission.
-  - Tim Berners-Lee
+What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+  - Dennis Ritchie
 ```
