@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When we don’t understand a process, we fall into magical thinking about results.
-  - Jef Raskin
+Much of the essence of building a program is in fact the debugging of the specification.
+  - Fred Brooks
 ```
