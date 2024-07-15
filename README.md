@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
-  - Jeremy S. Anderson
+Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+  - Fred Brooks
 ```
