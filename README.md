@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
   - Fred Brooks
 ```
