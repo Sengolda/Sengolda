@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
-  - Bjarne Stroustrup
+I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+  - Alan Kay
 ```
