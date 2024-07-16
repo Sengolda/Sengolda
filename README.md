@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When in doubt, use brute force.
-  - Ken Thompson
+Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+  - Daniel T. Barry
 ```
