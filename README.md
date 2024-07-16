@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
-  - Donald Knuth
+A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+  - Steve Jobs
 ```
