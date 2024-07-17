@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
-  - Butler Lampson
+The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+  - Donald Knuth
 ```
