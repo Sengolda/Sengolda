@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
-  - Steve Jobs
+A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+  - Fred Brooks
 ```
