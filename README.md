@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
-  - Bjarne Stroustrup
+One of my most productive days was throwing away 1,000 lines of code.
+  - Ken Thompson
 ```
