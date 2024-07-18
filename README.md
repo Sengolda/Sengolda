@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A picture may be worth a thousand words, a formula is worth a thousand pictures.
-  - Edsger W. Dijkstra
+The act of describing a program in unambiguous detail and the act of programming are one and the same.
+  - Kevlin Henney
 ```
