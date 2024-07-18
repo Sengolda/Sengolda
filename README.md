@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Don't worry about anything. Just do what you can and be the best you can be.
-  - Douglas Crockford
+As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+  - Charles Babbage
 ```
