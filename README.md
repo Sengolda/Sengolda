@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Really care about the tools you use because they are what make you your best.
-  - Addy Osmani
+The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+  - Terry Winograd
 ```
