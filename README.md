@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are few sources of energy so powerful as a procrastinating grad student.
-  - Paul Graham (programmer)
+The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+  - Donald Knuth
 ```
