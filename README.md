@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.
-  - Charles Babbage
+The proper use of comments is to compensate for our failure to express ourself in code.
+  - Robert C. Martin
 ```
