@@ -39,6 +39,7 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
-  - Richard Stallman
+I think the best way to make JavaScript better would be to
+make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
+  - Douglas Crockford
 ```
