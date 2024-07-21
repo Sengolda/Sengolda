@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
-  - Michael Stal
+Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+  - Fred Brooks
 ```
