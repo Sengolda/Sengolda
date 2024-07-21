@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
-  - Alan Turing
+Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+  - Bill Gates
 ```
