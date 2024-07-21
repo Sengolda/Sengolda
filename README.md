@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
-  - Linus Torvalds
+It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
+  - Gary Kildall
 ```
