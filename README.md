@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
-  - Fred Brooks
+The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+  - Elon Musk
 ```
