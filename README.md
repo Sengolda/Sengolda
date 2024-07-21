@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are few sources of energy so powerful as a procrastinating grad student.
-  - Paul Graham (programmer)
+Before software can be reusable it first has to be usable.
+  - Ralph Johnson (computer scientist)
 ```
