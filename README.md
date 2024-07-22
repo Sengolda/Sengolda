@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A number of studies have shown testing not very effective at finding bugs.
-  - Daniel T. Barry
+Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+  - Bill Gates
 ```
