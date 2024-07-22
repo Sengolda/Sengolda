@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Once the computers got control, we might never get it back.
-  - Marvin Minsky
+If you have a procedure with 10 parameters, you probably missed some.
+  - Alan Perlis
 ```
