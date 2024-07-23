@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
-  - Bill Gates
+Everything should be made as simple as possible. But to do that you have to master complexity.
+  - Butler Lampson
 ```
