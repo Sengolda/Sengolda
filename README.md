@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
-  - Douglas Crockford
+I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+  - Richard Stallman
 ```
