@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Typing is no substitute for thinking.
-  - Richard Hamming
+Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+  - Marijn Haverbeke
 ```
