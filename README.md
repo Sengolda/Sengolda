@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
-  - Bjarne Stroustrup
+If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+  - Gerald Weinberg
 ```
