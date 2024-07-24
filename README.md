@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cost to repair an error goes up dramatically as project moves towards completion and beyond.
-  - Daniel T. Barry
+A good programmer is someone who looks both ways before crossing a one-way street.
+  - Doug Linder
 ```
