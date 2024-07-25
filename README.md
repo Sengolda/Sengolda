@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It's not so important what you work on, so long as you're not wasting your time.
-  - Paul Graham (programmer)
+Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+  - Alan Perlis
 ```
