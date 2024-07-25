@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
-  - Bill Gates
+To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+  - Fred Brooks
 ```
