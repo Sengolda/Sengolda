@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
-  - Marijn Haverbeke
+It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+  - Alan Perlis
 ```
