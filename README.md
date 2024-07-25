@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
-  - Joseph Yoder (computer scientist)
+Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+  - John Warnock
 ```
