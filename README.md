@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
-  - Alan Perlis
+Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+  - Joseph Yoder (computer scientist)
 ```
