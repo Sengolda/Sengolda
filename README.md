@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
-  - Elon Musk
+As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
+  - Edsger W. Dijkstra
 ```
