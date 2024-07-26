@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
-  - Andy Hunt (author)
+I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+  - Edsger W. Dijkstra
 ```
