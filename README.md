@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As with most projects, the last two percent takes fifty percent of the time.
-  - John Warnock
+Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+  - Alan Perlis
 ```
