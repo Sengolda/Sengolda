@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Ideas don't disappear. They change form, they merge with other ideas.
-  - Bob Frankston
+That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+  - George Boole
 ```
