@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cool URIs don't change.
-  - Tim Berners-Lee
+If Microsoft ever does applications for Linux it means I've won.
+  - Linus Torvalds
 ```
