@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If Microsoft ever does applications for Linux it means I've won.
-  - Linus Torvalds
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+  - Alan Turing
 ```
