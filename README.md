@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-C is quirky, flawed, and an enormous success.
-  - Dennis Ritchie
+Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+  - P. J. Plauger
 ```
