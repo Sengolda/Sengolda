@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Fancy algorithms are slow when n is small, and n is usually small.
-  - Rob Pike
+Debugging is like being the detective in a crime movie where you are also the murderer.
+  - Filipe Fortes
 ```
