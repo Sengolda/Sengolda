@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The Domain Name Server (DNS) is the Achilles heel of the Web.
-  - Tim Berners-Lee
+The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+  - Terry Winograd
 ```
