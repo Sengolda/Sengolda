@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
-  - Nathaniel Borenstein
+Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+  - Harlan Mills
 ```
