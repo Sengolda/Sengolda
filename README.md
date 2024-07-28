@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
-  - John von Neumann
+The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+  - Fred Brooks
 ```
