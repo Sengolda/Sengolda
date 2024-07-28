@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
-  - Alan Perlis
+If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+  - Gerald Weinberg
 ```
