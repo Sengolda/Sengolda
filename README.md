@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think you should always bear in mind that entropy is not on your side.
-  - Elon Musk
+The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+  - Daniel T. Barry
 ```
