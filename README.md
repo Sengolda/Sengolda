@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
-  - Marijn Haverbeke
+Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+  - Albert Einstein
 ```
