@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Low-level programming is good for the programmer’s soul.
-  - John Carmack
+Fancy algorithms are slow when n is small, and n is usually small.
+  - Rob Pike
 ```
