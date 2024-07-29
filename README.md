@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
-  - Martin Fowler
+The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+  - Fred Brooks
 ```
