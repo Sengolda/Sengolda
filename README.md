@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
-  - Fred Brooks
+There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+  - Jeremy S. Anderson
 ```
