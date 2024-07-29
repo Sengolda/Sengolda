@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+A year spent in artificial intelligence is enough to make one believe in God.
   - Alan Perlis
 ```
