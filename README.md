@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
-  - Gottfried Wilhelm Leibniz
+Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+  - Alan Perlis
 ```
