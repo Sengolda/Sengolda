@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer Science is no more about computers than astronomy is about telescopes.
-  - Edsger W. Dijkstra
+Programming is the ultimate field for someone who likes to tinker.
+  - Ray Ozzie
 ```
