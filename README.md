@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
-  - Daniel T. Barry
+Computer Science is no more about computers than astronomy is about telescopes.
+  - Edsger W. Dijkstra
 ```
