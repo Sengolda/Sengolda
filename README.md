@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
-  - Bill Gates
+When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+  - Kent Beck
 ```
