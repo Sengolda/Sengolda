@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is the ultimate field for someone who likes to tinker.
-  - Ray Ozzie
+Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+  - Sean Parent
 ```
