@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
-  - Brian Kernighan
+If we’d asked the customers what they wanted, they would have said “faster horses”.
+  - Henry Ford
 ```
