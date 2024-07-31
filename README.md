@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
-  - Robert C. Martin
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+  - Alan Turing
 ```
