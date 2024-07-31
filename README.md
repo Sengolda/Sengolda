@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
-  - Alan Turing
+Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+  - Stewart Brand
 ```
