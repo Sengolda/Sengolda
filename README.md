@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First do it, then do it right, then do it better.
-  - Addy Osmani
+What is simplicity? Simplicity is the shortest path to a solution.
+  - Ward Cunningham
 ```
