@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
-  - Bjarne Stroustrup
+Walking on water and developing software from a specification are easy if both are frozen.
+  - Edward V. Berard
 ```
