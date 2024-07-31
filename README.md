@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What is simplicity? Simplicity is the shortest path to a solution.
-  - Ward Cunningham
+AI is a fundamental risk to the existence of human civilization.
+  - Elon Musk
 ```
