@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When there is no type hierarchy you don’t have to manage the type hierarchy.
-  - Rob Pike
+The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+  - Fred Brooks
 ```
