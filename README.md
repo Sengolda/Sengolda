@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think one of the most valuable rules is avoid duplication.
-  - Martin Fowler
+The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+  - Bill Gates
 ```
