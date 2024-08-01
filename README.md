@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
-  - Anders Hejlsberg
+If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+  - Joe Armstrong (programmer)
 ```
