@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I don't like using any tools or programs I didn't write myself or that I don't have some control over.
-  - Jonathan Sachs
+JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+  - Douglas Crockford
 ```
