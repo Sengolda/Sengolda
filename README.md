@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
-  - John Carmack
+What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+  - Charles Simonyi
 ```
