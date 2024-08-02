@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
-  - John Warnock
+Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+  - Bill Gates
 ```
