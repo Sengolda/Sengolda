@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
-  - Fred Brooks
+What is simplicity? Simplicity is the shortest path to a solution.
+  - Ward Cunningham
 ```
