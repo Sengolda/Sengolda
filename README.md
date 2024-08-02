@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What is simplicity? Simplicity is the shortest path to a solution.
-  - Ward Cunningham
+Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+  - John Warnock
 ```
