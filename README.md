@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Dealing with failure is easy: Work hard to improve.
-  - Alan Perlis
+People should be able to speak and breathe programs just like they talk now.
+  - Jaron Lanier
 ```
