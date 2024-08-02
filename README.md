@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A number of studies have shown testing not very effective at finding bugs.
-  - Daniel T. Barry
+If we’d asked the customers what they wanted, they would have said “faster horses”.
+  - Henry Ford
 ```
