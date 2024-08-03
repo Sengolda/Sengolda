@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
-  - Donald Knuth
+If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+  - David Leinweber
 ```
