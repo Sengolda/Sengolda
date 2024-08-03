@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think the best way to supervise is by personal example and by frequent code reviews.
-  - Charles Simonyi
+We who cut mere stones must always be envisioning cathedrals.
+  - Quarry worker's creed
 ```
