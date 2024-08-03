@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
-  - Ada Lovelace
+The most important single aspect of software development is to be clear about what you are trying to build.
+  - Bjarne Stroustrup
 ```
