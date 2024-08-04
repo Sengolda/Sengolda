@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Nine women can't make a baby in one month.
-  - Fred Brooks
+Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+  - Marijn Haverbeke
 ```
