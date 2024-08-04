@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
-  - George Carrette
+It is not the task of the University to offer what society asks for, but to give what society needs.
+  - Edsger W. Dijkstra
 ```
