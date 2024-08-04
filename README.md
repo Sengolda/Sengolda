@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
-  - Alan Kay
+I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+  - David Parnas
 ```
