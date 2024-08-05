@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-For most software, efficiency just does not matter.
-  - Daniel T. Barry
+A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+  - Fred Brooks
 ```
