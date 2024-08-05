@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Within a computer, natural language is unnatural.
-  - Alan Perlis
+Unix is simple. It just takes a genius to understand its simplicity.
+  - Dennis Ritchie
 ```
