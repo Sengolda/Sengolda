@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
-  - Butler Lampson
+There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+  - Jeremy S. Anderson
 ```
