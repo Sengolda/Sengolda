@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
-  - Michael A. Jackson
+Within a computer, natural language is unnatural.
+  - Alan Perlis
 ```
