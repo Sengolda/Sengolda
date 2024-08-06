@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Deleted code is debugged code.
-  - Jeff Sickel
+When I invented the web, I didn't have to ask anyone's permission.
+  - Tim Berners-Lee
 ```
