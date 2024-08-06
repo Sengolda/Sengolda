@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All too many of our software systems are, architecturally, little more than shantytowns.
-  - Joseph Yoder (computer scientist)
+No code is faster than no code.
+  - Kevlin Henney
 ```
