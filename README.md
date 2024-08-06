@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Walking on water and developing software from a specification are easy if both are frozen.
-  - Edward V. Berard
+One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+  - Fred Brooks
 ```
