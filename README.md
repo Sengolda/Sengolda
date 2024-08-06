@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
-  - Jamie Zawinski
+Software engineering is the part of computer science which is too difficult for the computer scientist.
+  - Friedrich Bauer
 ```
