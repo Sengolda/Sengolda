@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cost to repair an error goes up dramatically as project moves towards completion and beyond.
-  - Daniel T. Barry
+An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+  - Harlan Mills
 ```
