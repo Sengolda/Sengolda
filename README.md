@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
-  - Douglas Crockford
+In handling resources, strive to avoid disaster rather than to attain an optimum.
+  - Butler Lampson
 ```
