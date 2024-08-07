@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In handling resources, strive to avoid disaster rather than to attain an optimum.
-  - Butler Lampson
+As with most projects, the last two percent takes fifty percent of the time.
+  - John Warnock
 ```
