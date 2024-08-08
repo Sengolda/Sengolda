@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
-  - Buckminster Fuller
+When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+  - Fred Brooks
 ```
