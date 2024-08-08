@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Once the computers got control, we might never get it back.
-  - Marvin Minsky
+There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+  - Bjarne Stroustrup
 ```
