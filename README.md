@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
-  - Marvin Minsky
+Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+  - Fred Brooks
 ```
