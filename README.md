@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
-  - L. Peter Deutsch
+If you learn how to solve problems, you can go through life and do pretty well.
+  - Gary Kildall
 ```
