@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The only sin is to make a choice without knowing you are making one.
-  - Jonathan Shewchuk
+If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+  - Linus Torvalds
 ```
