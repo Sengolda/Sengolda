@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Never memorize something that you can look up.
-  - Albert Einstein
+A computer shall not waste your time or require you to do more work than is strictly necessary.
+  - Jef Raskin
 ```
