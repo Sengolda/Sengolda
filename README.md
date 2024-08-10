@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
-  - John Carmack
+It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
+  - Gary Kildall
 ```
