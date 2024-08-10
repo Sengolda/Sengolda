@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
-  - Brian Kernighan
+I don't comment on the code itself because I feel that properly written code is very much self-documented.
+  - Gary Kildall
 ```
