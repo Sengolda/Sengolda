@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I don't comment on the code itself because I feel that properly written code is very much self-documented.
-  - Gary Kildall
+When there is no type hierarchy you don’t have to manage the type hierarchy.
+  - Rob Pike
 ```
