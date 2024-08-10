@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Compatibility means deliberately repeating other people’s mistakes.
-  - David Wheeler (computer scientist)
+The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+  - Edsger W. Dijkstra
 ```
