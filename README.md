@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
-  - Ken Thompson
+The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+  - Terry Winograd
 ```
