@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If we’d asked the customers what they wanted, they would have said “faster horses”.
-  - Henry Ford
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+  - Alan Perlis
 ```
