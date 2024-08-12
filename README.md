@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
-  - Douglas Crockford
+A good programmer is someone who looks both ways before crossing a one-way street.
+  - Doug Linder
 ```
