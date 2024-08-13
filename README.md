@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
-  - Steve Jobs
+An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+  - Harlan Mills
 ```
