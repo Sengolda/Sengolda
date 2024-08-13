@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It’s all talk until the code runs.
-  - Ward Cunningham
+The key to keeping software costs down is to write code that is easily modified.
+  - Daniel T. Barry
 ```
