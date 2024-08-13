@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
-  - Manuel Blum
+The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+  - Charles Simonyi
 ```
