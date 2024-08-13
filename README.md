@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The key to keeping software costs down is to write code that is easily modified.
-  - Daniel T. Barry
+If you think your users are idiots, only idiots will use it.
+  - Linus Torvalds
 ```
