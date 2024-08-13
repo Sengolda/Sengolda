@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
-  - Steve Jobs
+Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+  - Bjarne Stroustrup
 ```
