@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
-  - Douglas Crockford
+The most important part of writing a program is designing the data structures.
+  - Dan Bricklin
 ```
