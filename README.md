@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
-  - L. Peter Deutsch
+It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+  - Douglas Crockford
 ```
