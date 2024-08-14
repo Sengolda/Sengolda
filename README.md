@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
-  - Carl Friedrich Gauss
+A language that doesn’t have everything is actually easier to program in than some that do.
+  - Dennis Ritchie
 ```
