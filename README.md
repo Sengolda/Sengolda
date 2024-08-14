@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A language that doesn’t have everything is actually easier to program in than some that do.
-  - Dennis Ritchie
+JavaScript is the world's most misunderstood programming language.
+  - Douglas Crockford
 ```
