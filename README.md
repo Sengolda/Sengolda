@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-JavaScript is the world's most misunderstood programming language.
-  - Douglas Crockford
+A few months writing code can save you a few hours in design.
+  - Anonymous
 ```
