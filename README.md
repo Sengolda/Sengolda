@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
-  - Douglas Crockford
+What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+  - Dennis Ritchie
 ```
