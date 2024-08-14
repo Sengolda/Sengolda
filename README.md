@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Talk is cheap. Show me the code.
-  - Linus Torvalds
+The cheapest, fastest, and most reliable components are those that aren’t there.
+  - Gordon Bell
 ```
