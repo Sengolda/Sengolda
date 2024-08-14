@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
-  - Tim Berners-Lee
+Programs must be written for people to read, and only incidentally for machines to execute.
+  - Hal Abelson
 ```
