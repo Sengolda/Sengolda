@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
-  - Bjarne Stroustrup
+Maintenance cost is strongly affected by the number of users. More users find more bugs.
+  - Fred Brooks
 ```
