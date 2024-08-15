@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-With artificial intelligence we are summoning the demon.
-  - Elon Musk
+All too many of our software systems are, architecturally, little more than shantytowns.
+  - Joseph Yoder (computer scientist)
 ```
