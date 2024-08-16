@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
-  - Fred Brooks
+The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+  - Ada Lovelace
 ```
