@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
-  - Edsger W. Dijkstra
+False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+  - Fred Brooks
 ```
