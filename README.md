@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
-  - P. J. Plauger
+When I invented the web, I didn't have to ask anyone's permission.
+  - Tim Berners-Lee
 ```
