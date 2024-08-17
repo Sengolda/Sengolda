@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
-  - Gottfried Wilhelm Leibniz
+One of my most productive days was throwing away 1,000 lines of code.
+  - Ken Thompson
 ```
