@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
-  - Alan Kay
+Programs must be written for people to read, and only incidentally for machines to execute.
+  - Hal Abelson
 ```
