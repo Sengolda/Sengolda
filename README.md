@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Once the computers got control, we might never get it back.
-  - Marvin Minsky
+Any sufficiently advanced technology is indistinguishable from magic.
+  - Arthur C. Clarke
 ```
