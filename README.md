@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A language that doesn't affect the way you think about programming, is not worth knowing.
-  - Alan Perlis
+The best minds of my generation are thinking about how to make people click ads.
+  - Jeff Hammerbacher
 ```
