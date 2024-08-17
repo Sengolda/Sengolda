@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any sufficiently advanced technology is indistinguishable from magic.
-  - Arthur C. Clarke
+The top 5% of programmers probably write 99% of the good software.
+  - Paul Graham (programmer)
 ```
