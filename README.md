@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
-  - Linus Torvalds
+The top 5% of programmers probably write 99% of the good software.
+  - Paul Graham (programmer)
 ```
