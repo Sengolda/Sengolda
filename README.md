@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cleaning code does NOT take time. NOT cleaning code does take time.
-  - Robert C. Martin
+I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+  - Linus Torvalds
 ```
