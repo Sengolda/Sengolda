@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cool URIs don't change.
-  - Tim Berners-Lee
+What one programmer can do in one month, two programmers can do in two months.
+  - Fred Brooks
 ```
