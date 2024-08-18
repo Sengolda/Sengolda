@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
-  - P. J. Plauger
+Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+  - John Carmack
 ```
