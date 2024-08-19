@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Most errors are introduced during requirements specification!
-  - Daniel T. Barry
+A language that doesn’t have everything is actually easier to program in than some that do.
+  - Dennis Ritchie
 ```
