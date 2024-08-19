@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Within a computer, natural language is unnatural.
-  - Alan Perlis
+For most software, efficiency just does not matter.
+  - Daniel T. Barry
 ```
