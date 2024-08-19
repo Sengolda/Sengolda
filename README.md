@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
-  - Richard Stallman
+Software gets slower faster than hardware gets faster.
+  - Niklaus Wirth
 ```
