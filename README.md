@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
-  - Bill Gates
+Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+  - Vannevar Bush
 ```
