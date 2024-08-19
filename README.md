@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
-  - Ray Ozzie
+The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+  - Donald Knuth
 ```
