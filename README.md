@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
-  - Daniel T. Barry
+By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+  - Maurice Wilkes
 ```
