@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good judgement comes from experience. Experience comes from bad judgement.
-  - Jim Horning
+If you think your users are idiots, only idiots will use it.
+  - Linus Torvalds
 ```
