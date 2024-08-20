@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
   - Steve Jobs
 ```
