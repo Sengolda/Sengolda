@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What one programmer can do in one month, two programmers can do in two months.
-  - Fred Brooks
+A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+  - Alan Turing
 ```
