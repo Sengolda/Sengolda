@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
-  - Edsger W. Dijkstra
+Ideas don't disappear. They change form, they merge with other ideas.
+  - Bob Frankston
 ```
