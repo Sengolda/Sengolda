@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are only two kinds of languages: the ones people complain about and the ones nobody uses.
-  - Bjarne Stroustrup
+It's not so important what you work on, so long as you're not wasting your time.
+  - Paul Graham (programmer)
 ```
