@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
-  - Charles Babbage
+My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
+  - Fred Brooks
 ```
