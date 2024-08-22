@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
-  - George Carrette
+Debugging is like being the detective in a crime movie where you are also the murderer.
+  - Filipe Fortes
 ```
