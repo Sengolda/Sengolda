@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
-  - Douglas Crockford
+Good judgement comes from experience. Experience comes from bad judgement.
+  - Jim Horning
 ```
