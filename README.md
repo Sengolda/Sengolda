@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Your most unhappy customers are your greatest source of learning.
-  - Bill Gates
+Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+  - Addy Osmani
 ```
