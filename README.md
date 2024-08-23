@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The more code you have, the more places there are for bugs to hide.
-  - Rich Skrenta
+Good people with a good process will outperform good people with no process every time.
+  - Grady Booch
 ```
