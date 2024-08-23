@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
-  - Edsger W. Dijkstra
+I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+  - Simon Peyton Jones
 ```
