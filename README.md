@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
-  - Brian Kernighan
+When we don’t understand a process, we fall into magical thinking about results.
+  - Jef Raskin
 ```
