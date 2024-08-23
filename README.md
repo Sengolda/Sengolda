@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Ideas don't disappear. They change form, they merge with other ideas.
-  - Bob Frankston
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+  - Brian Kernighan
 ```
