@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
-  - Robert C. Martin
+A clever person solves a problem. A wise person avoids it.
+  - Albert Einstein
 ```
