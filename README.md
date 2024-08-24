@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
-  - Edsger W. Dijkstra
+The real problem with throwaway code comes when it isn't thrown away.
+  - Joseph Yoder (computer scientist)
 ```
