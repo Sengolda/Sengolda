@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What is simplicity? Simplicity is the shortest path to a solution.
-  - Ward Cunningham
+Just because you've implemented something doesn't mean you understand it.
+  - Brian Cantwell Smith
 ```
