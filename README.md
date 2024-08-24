@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If Microsoft ever does applications for Linux it means I've won.
-  - Linus Torvalds
+One of my most productive days was throwing away 1,000 lines of code.
+  - Ken Thompson
 ```
