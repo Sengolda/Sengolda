@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+If Microsoft ever does applications for Linux it means I've won.
   - Linus Torvalds
 ```
