@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Machines as simple as thermostats can be said to have beliefs.
-  - John McCarthy (computer scientist)
+The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+  - Michael A. Jackson
 ```
