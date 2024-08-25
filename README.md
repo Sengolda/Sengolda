@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Unix is simple. It just takes a genius to understand its simplicity.
-  - Dennis Ritchie
+Everybody should learn to program a computer, because it teaches you how to think.
+  - Steve Jobs
 ```
