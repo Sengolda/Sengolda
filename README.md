@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
-  - Wayne Ratliff
+Unix is simple. It just takes a genius to understand its simplicity.
+  - Dennis Ritchie
 ```
