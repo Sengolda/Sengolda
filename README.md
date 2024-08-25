@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Just because you've implemented something doesn't mean you understand it.
-  - Brian Cantwell Smith
+Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+  - Jamie Zawinski
 ```
