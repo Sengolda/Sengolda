@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
-  - Alan Perlis
+From an artistic standpoint, the best software comes from the realm of intuition.
+  - Bob Carr
 ```
