@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
-  - Marijn Haverbeke
+The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+  - Paul Graham (programmer)
 ```
