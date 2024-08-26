@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
-  - Richard Feynman
+I think the best way to supervise is by personal example and by frequent code reviews.
+  - Charles Simonyi
 ```
