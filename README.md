@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think the best way to supervise is by personal example and by frequent code reviews.
-  - Charles Simonyi
+We need to be super careful with AI. Potentially more dangerous than nukes.
+  - Elon Musk
 ```
