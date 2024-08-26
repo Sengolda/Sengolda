@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programs must be written for people to read, and only incidentally for machines to execute.
-  - Hal Abelson
+The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+  - Alan Perlis
 ```
