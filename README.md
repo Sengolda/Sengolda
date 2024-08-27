@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
-  - Fred Brooks
+With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+  - Martin Fowler
 ```
