@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
-  - Martin Fowler
+From an artistic standpoint, the best software comes from the realm of intuition.
+  - Bob Carr
 ```
