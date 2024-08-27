@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-An infinite number of monkeys typing into GNU Emacs would never make a good program.
-  - Linus Torvalds
+Sometimes it’s just easier to throw a system away, and start over.
+  - Joseph Yoder (computer scientist)
 ```
