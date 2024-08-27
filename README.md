@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
-  - Fred Brooks
+I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very suspicious that actually Archimedes had been thinking about that problem for a long time.
+  - Tim Berners-Lee
 ```
