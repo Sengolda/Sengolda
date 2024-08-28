@@ -39,6 +39,7 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
-  - Bill Gates
+I think the best way to make JavaScript better would be to
+make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
+  - Douglas Crockford
 ```
