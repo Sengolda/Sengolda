@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In order to understand recursion, one must first understand recursion.
-  - Anonymous
+It is not the task of the University to offer what society asks for, but to give what society needs.
+  - Edsger W. Dijkstra
 ```
