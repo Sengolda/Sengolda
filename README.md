@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
-  - Sean Parent
+JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+  - Douglas Crockford
 ```
