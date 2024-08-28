@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
-  - Ada Lovelace
+If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+  - Wayne Ratliff
 ```
