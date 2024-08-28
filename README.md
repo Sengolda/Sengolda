@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The only sin is to make a choice without knowing you are making one.
-  - Jonathan Shewchuk
+In order to understand recursion, one must first understand recursion.
+  - Anonymous
 ```
