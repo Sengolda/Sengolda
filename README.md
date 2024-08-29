@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Dealing with failure is easy: Work hard to improve.
-  - Alan Perlis
+Any product that needs a manual to work is broken.
+  - Elon Musk
 ```
