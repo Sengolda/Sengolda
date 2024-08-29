@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In programming the hard part isn’t solving problems, but deciding what problems to solve.
-  - Paul Graham (programmer)
+Don't worry about anything. Just do what you can and be the best you can be.
+  - Douglas Crockford
 ```
