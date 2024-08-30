@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most important single aspect of software development is to be clear about what you are trying to build.
-  - Bjarne Stroustrup
+I think the best way to supervise is by personal example and by frequent code reviews.
+  - Charles Simonyi
 ```
