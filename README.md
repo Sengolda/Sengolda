@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
-  - Alan Perlis
+When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+  - Gary Kildall
 ```
