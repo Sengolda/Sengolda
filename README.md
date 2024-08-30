@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
-  - Edsger W. Dijkstra
+The manager's function is not to make people work, but to make it possible for people to work.
+  - Tom DeMarco
 ```
