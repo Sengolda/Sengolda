@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
-  - Ken Thompson
+I think you should always bear in mind that entropy is not on your side.
+  - Elon Musk
 ```
