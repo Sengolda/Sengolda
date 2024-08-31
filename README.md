@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
-  - Stewart Brand
+I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+  - Ken Thompson
 ```
