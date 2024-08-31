@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
-  - John McCarthy (computer scientist)
+W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+  - Martin Fowler
 ```
