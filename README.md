@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every good work of software starts by scratching a developer’s personal itch.
-  - Eric S. Raymond
+The key to keeping software costs down is to write code that is easily modified.
+  - Daniel T. Barry
 ```
