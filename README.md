@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
-  - John Carmack
+Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+  - Edsger W. Dijkstra
 ```
