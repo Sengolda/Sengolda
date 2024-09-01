@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Low-level programming is good for the programmer’s soul.
-  - John Carmack
+A year spent in artificial intelligence is enough to make one believe in God.
+  - Alan Perlis
 ```
