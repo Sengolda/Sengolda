@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cleaning code does NOT take time. NOT cleaning code does take time.
-  - Robert C. Martin
+If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+  - Edsger W. Dijkstra
 ```
