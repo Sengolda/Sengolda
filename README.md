@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
-  - Fred Brooks
+Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+  - P. J. Plauger
 ```
