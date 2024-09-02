@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
-  - George Boole
+A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+  - Albert Einstein
 ```
