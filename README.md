@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Debugging is like being the detective in a crime movie where you are also the murderer.
-  - Filipe Fortes
+A computer shall not waste your time or require you to do more work than is strictly necessary.
+  - Jef Raskin
 ```
