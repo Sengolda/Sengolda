@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
-  - Daniel T. Barry
+There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+  - Lawrence Flon
 ```
