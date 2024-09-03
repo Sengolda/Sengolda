@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
-  - Bill Gates
+First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+  - George Carrette
 ```
