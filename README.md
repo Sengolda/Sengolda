@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes it’s just easier to throw a system away, and start over.
-  - Joseph Yoder (computer scientist)
+I think the best way to supervise is by personal example and by frequent code reviews.
+  - Charles Simonyi
 ```
