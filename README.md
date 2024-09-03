@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
-  - Alan Perlis
+The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+  - Daniel T. Barry
 ```
