@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think the best way to supervise is by personal example and by frequent code reviews.
-  - Charles Simonyi
+If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+  - Bill Gates
 ```
