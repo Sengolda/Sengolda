@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
-  - L. Peter Deutsch
+It is not the task of the University to offer what society asks for, but to give what society needs.
+  - Edsger W. Dijkstra
 ```
