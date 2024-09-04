@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
-  - Ted Nelson
+The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+  - Danny Hillis
 ```
