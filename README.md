@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cost to repair an error goes up dramatically as project moves towards completion and beyond.
-  - Daniel T. Barry
+The next best thing to having good ideas is recognizing good ideas from your users.
+  - Eric S. Raymond
 ```
