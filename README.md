@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
   - Donald Knuth
 ```
