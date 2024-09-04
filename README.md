@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
-  - L. Peter Deutsch
+It's not so important what you work on, so long as you're not wasting your time.
+  - Paul Graham (programmer)
 ```
