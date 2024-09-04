@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
-  - Vint Cerf
+I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+  - David Parnas
 ```
