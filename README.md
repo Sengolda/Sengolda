@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A language that doesn’t have everything is actually easier to program in than some that do.
-  - Dennis Ritchie
+It's not so important what you work on, so long as you're not wasting your time.
+  - Paul Graham (programmer)
 ```
