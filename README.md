@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A number of studies have shown testing not very effective at finding bugs.
-  - Daniel T. Barry
+Programs must be written for people to read, and only incidentally for machines to execute.
+  - Hal Abelson
 ```
