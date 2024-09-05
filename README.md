@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you have a procedure with 10 parameters, you probably missed some.
-  - Alan Perlis
+Compatibility means deliberately repeating other people’s mistakes.
+  - David Wheeler (computer scientist)
 ```
