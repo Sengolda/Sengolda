@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is at least as difficult as developing a mathematical theory.
-  - Daniel T. Barry
+If you have a procedure with 10 parameters, you probably missed some.
+  - Alan Perlis
 ```
