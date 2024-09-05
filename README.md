@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
-  - Daniel T. Barry
+It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
+  - Danny Hillis
 ```
