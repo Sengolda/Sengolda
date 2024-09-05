@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Code never lies, comments sometimes do.
-  - Ron Jeffries
+Your most unhappy customers are your greatest source of learning.
+  - Bill Gates
 ```
