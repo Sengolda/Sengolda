@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All too many of our software systems are, architecturally, little more than shantytowns.
-  - Joseph Yoder (computer scientist)
+A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+  - Alan Turing
 ```
