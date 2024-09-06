@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A clever person solves a problem. A wise person avoids it.
-  - Albert Einstein
+A good programmer is someone who looks both ways before crossing a one-way street.
+  - Doug Linder
 ```
