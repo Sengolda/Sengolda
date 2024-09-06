@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm not a great programmer; I'm just a good programmer with great habits.
-  - Kent Beck
+Imagination is more important than knowledge.
+  - Albert Einstein
 ```
