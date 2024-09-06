@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
-  - Joshua Bloch
+Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+  - Jamie Zawinski
 ```
