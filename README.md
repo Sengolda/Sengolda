@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes it’s just easier to throw a system away, and start over.
-  - Joseph Yoder (computer scientist)
+Before software can be reusable it first has to be usable.
+  - Ralph Johnson (computer scientist)
 ```
