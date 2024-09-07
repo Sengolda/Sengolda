@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
-  - Andy Hunt (author)
+Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+  - Ted Nelson
 ```
