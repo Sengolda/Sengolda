@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The act of describing a program in unambiguous detail and the act of programming are one and the same.
-  - Kevlin Henney
+From an artistic standpoint, the best software comes from the realm of intuition.
+  - Bob Carr
 ```
