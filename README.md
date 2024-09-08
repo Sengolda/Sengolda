@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The only sin is to make a choice without knowing you are making one.
-  - Jonathan Shewchuk
+AI is a fundamental risk to the existence of human civilization.
+  - Elon Musk
 ```
