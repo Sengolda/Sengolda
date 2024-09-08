@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every time you improve process, work becomes harder.
-  - Daniel T. Barry
+The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+  - Fred Brooks
 ```
