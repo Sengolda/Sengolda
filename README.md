@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+A programming systems product takes about nine times as much effort as the component programs written separately for private use.
   - Fred Brooks
 ```
