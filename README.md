@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Adding manpower to a late software project makes it later.
-  - Fred Brooks
+The act of describing a program in unambiguous detail and the act of programming are one and the same.
+  - Kevlin Henney
 ```
