@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
-  - Fred Brooks
+That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+  - George Boole
 ```
