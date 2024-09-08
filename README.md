@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
-  - Ted Nelson
+Programming is at least as difficult as developing a mathematical theory.
+  - Daniel T. Barry
 ```
