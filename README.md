@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
-  - Steve Jobs
+Once the computers got control, we might never get it back.
+  - Marvin Minsky
 ```
