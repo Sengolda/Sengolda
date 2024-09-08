@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A programming systems product takes about nine times as much effort as the component programs written separately for private use.
-  - Fred Brooks
+In order to understand recursion, one must first understand recursion.
+  - Anonymous
 ```
