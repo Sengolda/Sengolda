@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-AI is a fundamental risk to the existence of human civilization.
-  - Elon Musk
+What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+  - Steve Jobs
 ```
