@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Don't worry about anything. Just do what you can and be the best you can be.
-  - Douglas Crockford
+There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+  - Elon Musk
 ```
