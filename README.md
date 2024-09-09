@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-From an artistic standpoint, the best software comes from the realm of intuition.
-  - Bob Carr
+Don't worry about anything. Just do what you can and be the best you can be.
+  - Douglas Crockford
 ```
