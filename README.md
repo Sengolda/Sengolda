@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-People under pressure don’t work better; they just work faster.
-  - Tom DeMarco
+A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+  - Albert Einstein
 ```
