@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good people with a good process will outperform good people with no process every time.
-  - Grady Booch
+Whenever logical processes of thought are employed, there is an opportunity for the machine.
+  - Vannevar Bush
 ```
