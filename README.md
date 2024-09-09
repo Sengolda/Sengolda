@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The proper use of comments is to compensate for our failure to express ourself in code.
-  - Robert C. Martin
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+  - Brian Kernighan
 ```
