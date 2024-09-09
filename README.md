@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
-  - Elon Musk
+Beware of bugs in the above code; I have only proved it correct, not tried it.
+  - Donald Knuth
 ```
