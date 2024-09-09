@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Whenever logical processes of thought are employed, there is an opportunity for the machine.
-  - Vannevar Bush
+People under pressure don’t work better; they just work faster.
+  - Tom DeMarco
 ```
