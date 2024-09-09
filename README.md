@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I care not only what the code says but how it looks.
-  - Peter Roizen
+Good people with a good process will outperform good people with no process every time.
+  - Grady Booch
 ```
