@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
-  - Danny Hillis
+By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+  - Maurice Wilkes
 ```
