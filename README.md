@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programs must be written for people to read, and only incidentally for machines to execute.
-  - Hal Abelson
+JavaScript, purely by accident, has become the most popular programming language in the world.
+  - Douglas Crockford
 ```
