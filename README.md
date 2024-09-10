@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm interested in creating images that communicate with people.
-  - Toru Iwatani
+A number of studies have shown testing not very effective at finding bugs.
+  - Daniel T. Barry
 ```
