@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A number of studies have shown testing not very effective at finding bugs.
-  - Daniel T. Barry
+I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+  - Jonathan Sachs
 ```
