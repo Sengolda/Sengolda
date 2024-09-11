@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I don't like using any tools or programs I didn't write myself or that I don't have some control over.
-  - Jonathan Sachs
+By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+  - Maurice Wilkes
 ```
