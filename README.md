@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
-  - Daniel T. Barry
+Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+  - Butler Lampson
 ```
