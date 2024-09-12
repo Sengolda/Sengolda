@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
-  - Edsger W. Dijkstra
+The way to arrest entropy in software is to refactor it.
+  - Joseph Yoder (computer scientist)
 ```
