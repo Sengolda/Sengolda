@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
-  - Henry Petroski
+Unix is simple. It just takes a genius to understand its simplicity.
+  - Dennis Ritchie
 ```
