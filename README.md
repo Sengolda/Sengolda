@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most important thing is to be able to think what you want, not to say what you want.
-  - Paul Graham (programmer)
+A year spent in artificial intelligence is enough to make one believe in God.
+  - Alan Perlis
 ```
