@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
-  - Bjarne Stroustrup
+I'm interested in creating images that communicate with people.
+  - Toru Iwatani
 ```
