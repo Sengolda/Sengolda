@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
-  - Daniel T. Barry
+The only sin is to make a choice without knowing you are making one.
+  - Jonathan Shewchuk
 ```
