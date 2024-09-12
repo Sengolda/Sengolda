@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The way to arrest entropy in software is to refactor it.
-  - Joseph Yoder (computer scientist)
+An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+  - Bjarne Stroustrup
 ```
