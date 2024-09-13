@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
-  - Ted Nelson
+A language that doesn’t have everything is actually easier to program in than some that do.
+  - Dennis Ritchie
 ```
