@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software engineering is the part of computer science which is too difficult for the computer scientist.
-  - Friedrich Bauer
+Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+  - L. Peter Deutsch
 ```
