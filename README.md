@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A few months writing code can save you a few hours in design.
-  - Anonymous
+A program that produces incorrect results twice as fast is infinitely slower.
+  - John Ousterhout
 ```
