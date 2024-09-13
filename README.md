@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
-  - Jim Horning
+Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+  - Bjarne Stroustrup
 ```
