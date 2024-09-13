@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
-  - Bjarne Stroustrup
+A picture may be worth a thousand words, a formula is worth a thousand pictures.
+  - Edsger W. Dijkstra
 ```
