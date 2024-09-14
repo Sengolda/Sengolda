@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What I cannot build, I do not understand.
-  - Richard Feynman
+Before software can be reusable it first has to be usable.
+  - Ralph Johnson (computer scientist)
 ```
