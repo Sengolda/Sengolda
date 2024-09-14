@@ -39,6 +39,7 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Controlling complexity is the essence of computer programming.
-  - Brian Kernighan
+I think there is a world market for maybe five
+computers.
+  - Thomas J. Watson
 ```
