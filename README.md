@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The proper use of comments is to compensate for our failure to express ourself in code.
-  - Robert C. Martin
+The entire history of software engineering is that of the rise in levels of abstraction.
+  - Grady Booch
 ```
