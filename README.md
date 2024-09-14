@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you think it's simple, then you have misunderstood the problem.
-  - Bjarne Stroustrup
+My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
+  - Donald Knuth
 ```
