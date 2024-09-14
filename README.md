@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most important single aspect of software development is to be clear about what you are trying to build.
-  - Bjarne Stroustrup
+Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+  - Stewart Brand
 ```
