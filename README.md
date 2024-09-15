@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most important thing is to be able to think what you want, not to say what you want.
-  - Paul Graham (programmer)
+I think the best way to supervise is by personal example and by frequent code reviews.
+  - Charles Simonyi
 ```
