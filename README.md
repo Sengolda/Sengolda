@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Your most unhappy customers are your greatest source of learning.
-  - Bill Gates
+AI is a fundamental risk to the existence of human civilization.
+  - Elon Musk
 ```
