@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Within C++, there is a much smaller and cleaner language struggling to get out.
-  - Bjarne Stroustrup
+Fancy algorithms are slow when n is small, and n is usually small.
+  - Rob Pike
 ```
