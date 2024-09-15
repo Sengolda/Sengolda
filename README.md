@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Fancy algorithms are slow when n is small, and n is usually small.
-  - Rob Pike
+Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+  - Marijn Haverbeke
 ```
