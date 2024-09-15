@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The very best technology never has as much impact as girlfriend or boyfriend trouble.
-  - Tom DeMarco
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+  - Seymour Cray
 ```
