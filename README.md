@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
-  - Douglas Crockford
+The only way to learn a new programming language is by writing programs in it.
+  - Dennis Ritchie
 ```
