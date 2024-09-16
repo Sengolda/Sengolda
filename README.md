@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you think your users are idiots, only idiots will use it.
-  - Linus Torvalds
+Programming is the ultimate field for someone who likes to tinker.
+  - Ray Ozzie
 ```
