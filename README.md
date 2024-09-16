@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
-  - Joe Armstrong (programmer)
+What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+  - Charles Simonyi
 ```
