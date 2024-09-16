@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Adding manpower to a late software project makes it later.
-  - Fred Brooks
+I think you should always bear in mind that entropy is not on your side.
+  - Elon Musk
 ```
