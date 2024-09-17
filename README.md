@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
-  - David Leinweber
+Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+  - Daniel T. Barry
 ```
