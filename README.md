@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Everything should be made as simple as possible. But to do that you have to master complexity.
-  - Butler Lampson
+There's only one trick in software, and that is using a piece of software that's already been written.
+  - Bill Gates
 ```
