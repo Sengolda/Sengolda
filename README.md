@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
-  - Daniel T. Barry
+I think the best way to supervise is by personal example and by frequent code reviews.
+  - Charles Simonyi
 ```
