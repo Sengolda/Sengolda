@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The button is working, only, it cannot be seen.
-  - Anonymous
+One man's constant is another man's variable.
+  - Alan Perlis
 ```
