@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A language that doesn't affect the way you think about programming, is not worth knowing.
-  - Alan Perlis
+Really care about the tools you use because they are what make you your best.
+  - Addy Osmani
 ```
