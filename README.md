@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
-  - Stewart Brand
+I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+  - Tim Berners-Lee
 ```
