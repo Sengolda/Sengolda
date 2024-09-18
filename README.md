@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The act of describing a program in unambiguous detail and the act of programming are one and the same.
-  - Kevlin Henney
+No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+  - Mark Gibbs
 ```
