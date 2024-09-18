@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
-  - Alan Turing
+And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+  - Vint Cerf
 ```
