@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
-  - Stewart Brand
+The way to arrest entropy in software is to refactor it.
+  - Joseph Yoder (computer scientist)
 ```
