@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All too many of our software systems are, architecturally, little more than shantytowns.
-  - Joseph Yoder (computer scientist)
+A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+  - Alan Turing
 ```
