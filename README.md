@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-AI is a fundamental risk to the existence of human civilization.
-  - Elon Musk
+When debugging, novices insert corrective code; experts remove defective code.
+  - Richard E. Pattis
 ```
