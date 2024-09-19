@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We who cut mere stones must always be envisioning cathedrals.
-  - Quarry worker's creed
+The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+  - Daniel T. Barry
 ```
