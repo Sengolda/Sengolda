@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes it’s just easier to throw a system away, and start over.
-  - Joseph Yoder (computer scientist)
+The best minds of my generation are thinking about how to make people click ads.
+  - Jeff Hammerbacher
 ```
