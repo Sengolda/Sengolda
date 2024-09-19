@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cost to repair an error goes up dramatically as project moves towards completion and beyond.
-  - Daniel T. Barry
+AI is a fundamental risk to the existence of human civilization.
+  - Elon Musk
 ```
