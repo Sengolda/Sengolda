@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
-  - Butler Lampson
+The most important part of writing a program is designing the data structures.
+  - Dan Bricklin
 ```
