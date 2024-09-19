@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think programming is very much a religious experience for a lot of people.
-  - Gary Kildall
+The most important part of writing a program is designing the data structures.
+  - Dan Bricklin
 ```
