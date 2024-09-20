@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The way to arrest entropy in software is to refactor it.
-  - Joseph Yoder (computer scientist)
+Much of the essence of building a program is in fact the debugging of the specification.
+  - Fred Brooks
 ```
