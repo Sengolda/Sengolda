@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
-  - Fred Brooks
+Just because you've implemented something doesn't mean you understand it.
+  - Brian Cantwell Smith
 ```
