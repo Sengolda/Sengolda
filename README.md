@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Just because you've implemented something doesn't mean you understand it.
-  - Brian Cantwell Smith
+All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+  - Albert Einstein
 ```
