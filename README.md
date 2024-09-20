@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every time you improve process, work becomes harder.
-  - Daniel T. Barry
+Less code equals less bugs.
+  - Kevlin Henney
 ```
