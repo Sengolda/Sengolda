@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The purpose of software engineering is to control complexity, not to create it.
-  - Pamela Zave
+The limits of my language mean the limits of my world.
+  - Ludwig Wittgenstein
 ```
