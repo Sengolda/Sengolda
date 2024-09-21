@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
-  - Harlan Mills
+Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+  - Laurence J. Peter
 ```
