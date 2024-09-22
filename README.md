@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
-  - Joseph Yoder (computer scientist)
+The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+  - Michael A. Jackson
 ```
