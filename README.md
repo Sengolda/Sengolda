@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Simplicity is prerequisite for reliability.
+The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
   - Edsger W. Dijkstra
 ```
