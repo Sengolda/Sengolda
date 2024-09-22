@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Before software can be reusable it first has to be usable.
-  - Ralph Johnson (computer scientist)
+No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
+  - George Boole
 ```
