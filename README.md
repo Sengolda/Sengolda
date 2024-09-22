@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In order to understand recursion, one must first understand recursion.
-  - Anonymous
+Every good work of software starts by scratching a developer’s personal itch.
+  - Eric S. Raymond
 ```
