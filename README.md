@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good software, like good wine, takes time.
-  - Joel Spolsky
+I'm interested in creating images that communicate with people.
+  - Toru Iwatani
 ```
