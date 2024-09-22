@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
-  - Edsger W. Dijkstra
+If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
+  - Vannevar Bush
 ```
