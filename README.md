@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
-  - Philip Greenspun
+Before software can be reusable it first has to be usable.
+  - Ralph Johnson (computer scientist)
 ```
