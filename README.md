@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
-  - Fred Brooks
+SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+  - Philip Greenspun
 ```
