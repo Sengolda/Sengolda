@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
-  - Danny Hillis
+There are few sources of energy so powerful as a procrastinating grad student.
+  - Paul Graham (programmer)
 ```
