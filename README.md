@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every time you improve process, work becomes harder.
-  - Daniel T. Barry
+Machines as simple as thermostats can be said to have beliefs.
+  - John McCarthy (computer scientist)
 ```
