@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Your most unhappy customers are your greatest source of learning.
-  - Bill Gates
+Debugging time increases as a square of the program’s size.
+  - Chris Wenham
 ```
