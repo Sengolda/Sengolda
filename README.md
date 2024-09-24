@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The next best thing to having good ideas is recognizing good ideas from your users.
-  - Eric S. Raymond
+They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+  - Ted Nelson
 ```
