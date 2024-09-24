@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Don't worry about anything. Just do what you can and be the best you can be.
-  - Douglas Crockford
+The only sin is to make a choice without knowing you are making one.
+  - Jonathan Shewchuk
 ```
