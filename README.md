@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In man-machine symbiosis, it is man who must adjust: The machines can't.
-  - Alan Perlis
+We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+  - Ellen Ullman
 ```
