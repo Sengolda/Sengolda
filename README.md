@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Adding manpower to a late software project makes it later.
-  - Fred Brooks
+The next best thing to having good ideas is recognizing good ideas from your users.
+  - Eric S. Raymond
 ```
