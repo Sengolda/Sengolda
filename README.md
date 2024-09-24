@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
-  - Vint Cerf
+In man-machine symbiosis, it is man who must adjust: The machines can't.
+  - Alan Perlis
 ```
