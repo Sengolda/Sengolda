@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
-  - Kent Beck
+When I invented the web, I didn't have to ask anyone's permission.
+  - Tim Berners-Lee
 ```
