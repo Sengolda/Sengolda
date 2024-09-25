@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
-  - Philip Greenspun
+Nine women can't make a baby in one month.
+  - Fred Brooks
 ```
