@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Just because you've implemented something doesn't mean you understand it.
-  - Brian Cantwell Smith
+From an artistic standpoint, the best software comes from the realm of intuition.
+  - Bob Carr
 ```
