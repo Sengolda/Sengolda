@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
-  - Richard Hamming
+Just because you've implemented something doesn't mean you understand it.
+  - Brian Cantwell Smith
 ```
