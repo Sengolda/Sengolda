@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Documentation is a love letter that you write to your future self.
-  - Damian Conway
+Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+  - Richard Hamming
 ```
