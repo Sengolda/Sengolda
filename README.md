@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The notions of correctness in mathematics and programs are different. A mathematical model must be consistent; it need not match reality (be correct), and it need not be complete (in the formal sense). A program model must be consistent; it must match reality; and it must be complete (in the sense that it reacts gracefully to all inputs).
-  - Daniel T. Barry
+Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+  - Pete Cordell
 ```
