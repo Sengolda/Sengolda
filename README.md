@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
-  - Richard Hamming
+Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+  - Daniel T. Barry
 ```
