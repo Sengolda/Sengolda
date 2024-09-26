@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
-  - Charles Babbage
+When debugging, novices insert corrective code; experts remove defective code.
+  - Richard E. Pattis
 ```
