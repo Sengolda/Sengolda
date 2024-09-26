@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What I cannot build, I do not understand.
-  - Richard Feynman
+The way to arrest entropy in software is to refactor it.
+  - Joseph Yoder (computer scientist)
 ```
