@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you learn how to solve problems, you can go through life and do pretty well.
-  - Gary Kildall
+If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+  - Gerald Weinberg
 ```
