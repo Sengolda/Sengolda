@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
-  - Fred Brooks
+The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+  - Paul Graham (programmer)
 ```
