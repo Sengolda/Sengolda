@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When debugging, novices insert corrective code; experts remove defective code.
-  - Richard E. Pattis
+The next best thing to having good ideas is recognizing good ideas from your users.
+  - Eric S. Raymond
 ```
