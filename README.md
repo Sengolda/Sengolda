@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
-  - Gerald Weinberg
+In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+  - Richard Hamming
 ```
