@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Walking on water and developing software from a specification are easy if both are frozen.
-  - Edward V. Berard
+If you learn how to solve problems, you can go through life and do pretty well.
+  - Gary Kildall
 ```
