@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+Computer programs are the most complex things that humans make.
   - Douglas Crockford
 ```
