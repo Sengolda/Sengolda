@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
-  - Marijn Haverbeke
+Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+  - Fred Brooks
 ```
