@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You can’t trust code that you did not totally create yourself.
-  - Ken Thompson
+The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+  - Terry Winograd
 ```
