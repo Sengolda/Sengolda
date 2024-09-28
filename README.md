@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
-  - Douglas Crockford
+The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+  - Joshua Bloch
 ```
