@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
-  - Joshua Bloch
+We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+  - Bill Gates
 ```
