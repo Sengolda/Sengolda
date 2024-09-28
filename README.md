@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
-  - Bill Gates
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+  - Rick Osborne
 ```
