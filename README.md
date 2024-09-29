@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Codes are a puzzle. A game, just like any other game.
-  - Alan Turing
+We need to be super careful with AI. Potentially more dangerous than nukes.
+  - Elon Musk
 ```
