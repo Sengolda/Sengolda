@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Never trust a computer you can’t throw out a window.
-  - Steve Wozniak
+Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+  - Linus Torvalds
 ```
