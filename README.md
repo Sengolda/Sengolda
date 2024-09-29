@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A clever person solves a problem. A wise person avoids it.
-  - Albert Einstein
+Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+  - Fred Brooks
 ```
