@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
-  - Elon Musk
+Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+  - Andy Hertzfeld
 ```
