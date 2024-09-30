@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Within C++, there is a much smaller and cleaner language struggling to get out.
-  - Bjarne Stroustrup
+I'm not a great programmer; I'm just a good programmer with great habits.
+  - Kent Beck
 ```
