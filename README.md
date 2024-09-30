@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
-  - Edsger W. Dijkstra
+Beware of bugs in the above code; I have only proved it correct, not tried it.
+  - Donald Knuth
 ```
