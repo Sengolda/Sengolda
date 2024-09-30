@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
-  - Tim Berners-Lee
+Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
+  - Daniel T. Barry
 ```
