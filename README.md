@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
-  - Donald Knuth
+Any sufficiently advanced technology is indistinguishable from magic.
+  - Arthur C. Clarke
 ```
