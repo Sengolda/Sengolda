@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
-  - Alan Perlis
+A beautiful program is like a beautiful theorem: It does the job elegantly.
+  - Butler Lampson
 ```
