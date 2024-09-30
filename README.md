@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A good programmer is someone who looks both ways before crossing a one-way street.
-  - Doug Linder
+The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+  - Edsger W. Dijkstra
 ```
