@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
-  - Fred Brooks
+Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+  - Anders Hejlsberg
 ```
