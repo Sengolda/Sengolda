@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The purpose of computing is insight, not numbers.
-  - Richard Hamming
+If we’d asked the customers what they wanted, they would have said “faster horses”.
+  - Henry Ford
 ```
