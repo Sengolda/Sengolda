@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm interested in creating images that communicate with people.
-  - Toru Iwatani
+People should be able to speak and breathe programs just like they talk now.
+  - Jaron Lanier
 ```
