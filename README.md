@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
-  - Stan Kelly-Bootle
+The proper use of comments is to compensate for our failure to express ourself in code.
+  - Robert C. Martin
 ```
