@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer programs are the most complex things that humans make.
-  - Douglas Crockford
+Within C++, there is a much smaller and cleaner language struggling to get out.
+  - Bjarne Stroustrup
 ```
