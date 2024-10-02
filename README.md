@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
-  - Joshua Bloch
+When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+  - Gary Kildall
 ```
