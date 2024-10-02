@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In theory, there is no difference between theory and practice. But, in practice, there is.
-  - Jan L. A. van de Snepscheut
+In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+  - Douglas Crockford
 ```
