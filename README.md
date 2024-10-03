@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is not the task of the University to offer what society asks for, but to give what society needs.
+Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
   - Edsger W. Dijkstra
 ```
