@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
-  - Alan Perlis
+Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+  - Wayne Ratliff
 ```
