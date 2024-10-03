@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A good programmer is someone who looks both ways before crossing a one-way street.
-  - Doug Linder
+When debugging, novices insert corrective code; experts remove defective code.
+  - Richard E. Pattis
 ```
