@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm not a great programmer; I'm just a good programmer with great habits.
-  - Kent Beck
+It is not the task of the University to offer what society asks for, but to give what society needs.
+  - Edsger W. Dijkstra
 ```
