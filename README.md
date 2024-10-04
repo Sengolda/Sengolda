@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
-  - Mark Gibbs
+You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+  - Steve Jobs
 ```
