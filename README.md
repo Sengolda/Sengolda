@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
-  - David Parnas
+Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+  - Danny Hillis
 ```
