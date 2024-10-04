@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It's not so important what you work on, so long as you're not wasting your time.
-  - Paul Graham (programmer)
+We who cut mere stones must always be envisioning cathedrals.
+  - Quarry worker's creed
 ```
