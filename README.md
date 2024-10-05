@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
-  - Jamie Zawinski
+A good programmer is someone who looks both ways before crossing a one-way street.
+  - Doug Linder
 ```
