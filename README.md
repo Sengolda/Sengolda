@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good software, like good wine, takes time.
-  - Joel Spolsky
+Low-level programming is good for the programmer’s soul.
+  - John Carmack
 ```
