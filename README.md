@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
-  - Steve Jobs
+The only sin is to make a choice without knowing you are making one.
+  - Jonathan Shewchuk
 ```
