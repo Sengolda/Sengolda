@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A programming language is low level when its programs require attention to the irrelevant.
-  - Alan Perlis
+By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+  - Maurice Wilkes
 ```
