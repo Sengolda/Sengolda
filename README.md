@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cheapest, fastest, and most reliable components are those that aren’t there.
-  - Gordon Bell
+When I invented the web, I didn't have to ask anyone's permission.
+  - Tim Berners-Lee
 ```
