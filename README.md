@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One accurate measurement is worth more than a thousand expert opinions.
-  - Grace Hopper
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
+  - Linus Torvalds
 ```
