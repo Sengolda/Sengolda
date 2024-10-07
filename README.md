@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
-  - Ted Nelson
+Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+  - Andy Hertzfeld
 ```
