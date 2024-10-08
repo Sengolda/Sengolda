@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
-  - Danny Hillis
+It's not so important what you work on, so long as you're not wasting your time.
+  - Paul Graham (programmer)
 ```
