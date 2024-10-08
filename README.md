@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
-  - Daniel T. Barry
+Computer programs are the most complex things that humans make.
+  - Douglas Crockford
 ```
