@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computer programs are the most complex things that humans make.
-  - Douglas Crockford
+As with most projects, the last two percent takes fifty percent of the time.
+  - John Warnock
 ```
