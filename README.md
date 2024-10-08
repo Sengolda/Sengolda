@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
-  - David Gelernter
+Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+  - Daniel T. Barry
 ```
