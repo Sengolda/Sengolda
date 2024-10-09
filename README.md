@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
-  - Douglas Crockford
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+  - Anonymous
 ```
