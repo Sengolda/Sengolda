@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Everything should be made as simple as possible. But to do that you have to master complexity.
-  - Butler Lampson
+The limits of my language mean the limits of my world.
+  - Ludwig Wittgenstein
 ```
