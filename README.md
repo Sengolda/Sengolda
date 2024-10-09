@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The limits of my language mean the limits of my world.
-  - Ludwig Wittgenstein
+In programming the hard part isn’t solving problems, but deciding what problems to solve.
+  - Paul Graham (programmer)
 ```
