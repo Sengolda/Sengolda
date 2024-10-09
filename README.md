@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
-  - Maurice Wilkes
+False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+  - Fred Brooks
 ```
