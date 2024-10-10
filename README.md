@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
-  - Fred Brooks
+All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+  - Albert Einstein
 ```
