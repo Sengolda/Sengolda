@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
+The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
   - Fred Brooks
 ```
