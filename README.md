@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good judgement comes from experience. Experience comes from bad judgement.
-  - Jim Horning
+The most important part of writing a program is designing the data structures.
+  - Dan Bricklin
 ```
