@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When there is no type hierarchy you don’t have to manage the type hierarchy.
-  - Rob Pike
+That hardly ever happens is another way of saying 'it happens'.
+  - Douglas Crockford
 ```
