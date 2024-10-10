@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
-  - Alan Turing
+The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+  - Edsger W. Dijkstra
 ```
