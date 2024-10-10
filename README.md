@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When we don’t understand a process, we fall into magical thinking about results.
-  - Jef Raskin
+For most software, efficiency just does not matter.
+  - Daniel T. Barry
 ```
