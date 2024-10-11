@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To iterate is human, to recurse divine.
-  - L. Peter Deutsch
+It is easier to change the specification to fit the program than vice versa.
+  - Alan Perlis
 ```
