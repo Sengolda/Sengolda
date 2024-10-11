@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is easier to change the specification to fit the program than vice versa.
-  - Alan Perlis
+Computer Science is no more about computers than astronomy is about telescopes.
+  - Edsger W. Dijkstra
 ```
