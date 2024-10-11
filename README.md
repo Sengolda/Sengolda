@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
-  - Tim Berners-Lee
+The more code you have, the more places there are for bugs to hide.
+  - Rich Skrenta
 ```
