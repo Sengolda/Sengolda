@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The difference between theory and practice is that in theory, there is no difference between theory and practice.
-  - Richard Moore (engineer)
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+  - Brian Kernighan
 ```
