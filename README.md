@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
-  - Daniel T. Barry
+Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+  - Richard Hamming
 ```
