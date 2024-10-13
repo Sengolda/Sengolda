@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you think your users are idiots, only idiots will use it.
-  - Linus Torvalds
+When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+  - Gerald Weinberg
 ```
