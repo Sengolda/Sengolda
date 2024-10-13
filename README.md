@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
-  - Gerald Weinberg
+Programming is the ultimate field for someone who likes to tinker.
+  - Ray Ozzie
 ```
