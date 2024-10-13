@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
-  - Harlan Mills
+The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+  - Fred Brooks
 ```
