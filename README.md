@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
-  - Edsger W. Dijkstra
+In my second year in graduate school, I took a computer course and that was like lightening striking.
+  - Ted Nelson
 ```
