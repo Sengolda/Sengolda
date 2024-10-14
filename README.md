@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
-  - Fred Brooks
+It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+  - Maurice Wilkes
 ```
