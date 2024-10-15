@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You can’t trust code that you did not totally create yourself.
-  - Ken Thompson
+The cheapest, fastest, and most reliable components are those that aren’t there.
+  - Gordon Bell
 ```
