@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
-  - Alan Kay
+The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+  - Harlan Mills
 ```
