@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
-  - Bjarne Stroustrup
+Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+  - Ted Nelson
 ```
