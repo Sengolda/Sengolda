@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Making things easy is hard.
-  - Ted Nelson
+In order to understand recursion, one must first understand recursion.
+  - Anonymous
 ```
