@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
-  - Vint Cerf
+W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+  - Martin Fowler
 ```
