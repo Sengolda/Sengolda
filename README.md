@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
-  - Jamie Zawinski
+Good judgement comes from experience. Experience comes from bad judgement.
+  - Jim Horning
 ```
