@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
-  - Daniel T. Barry
+Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+  - Jamie Zawinski
 ```
