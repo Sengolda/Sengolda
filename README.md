@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A good programmer is someone who looks both ways before crossing a one-way street.
-  - Doug Linder
+Every good work of software starts by scratching a developer’s personal itch.
+  - Eric S. Raymond
 ```
