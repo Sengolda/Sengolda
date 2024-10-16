@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Walking on water and developing software from a specification are easy if both are frozen.
-  - Edward V. Berard
+Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+  - Daniel T. Barry
 ```
