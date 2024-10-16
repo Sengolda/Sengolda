@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There's nothing more permanent than a temporary hack.
-  - Kyle Simpson
+From an artistic standpoint, the best software comes from the realm of intuition.
+  - Bob Carr
 ```
