@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good judgement comes from experience. Experience comes from bad judgement.
-  - Jim Horning
+When there is no type hierarchy you don’t have to manage the type hierarchy.
+  - Rob Pike
 ```
