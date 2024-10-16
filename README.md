@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-C is quirky, flawed, and an enormous success.
-  - Dennis Ritchie
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
+  - Linus Torvalds
 ```
