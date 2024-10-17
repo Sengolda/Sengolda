@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Beware of bugs in the above code; I have only proved it correct, not tried it.
-  - Donald Knuth
+And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+  - Vint Cerf
 ```
