@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
-  - John von Neumann
+If you have a procedure with 10 parameters, you probably missed some.
+  - Alan Perlis
 ```
