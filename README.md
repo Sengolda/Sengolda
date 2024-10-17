@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
-  - Andy Hertzfeld
+Beware of bugs in the above code; I have only proved it correct, not tried it.
+  - Donald Knuth
 ```
