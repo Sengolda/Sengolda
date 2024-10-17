@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you have a procedure with 10 parameters, you probably missed some.
-  - Alan Perlis
+If you think your users are idiots, only idiots will use it.
+  - Linus Torvalds
 ```
