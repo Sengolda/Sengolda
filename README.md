@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What I cannot build, I do not understand.
-  - Richard Feynman
+Cleaning code does NOT take time. NOT cleaning code does take time.
+  - Robert C. Martin
 ```
