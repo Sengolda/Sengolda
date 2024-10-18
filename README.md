@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There's only one trick in software, and that is using a piece of software that's already been written.
-  - Bill Gates
+The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+  - Edsger W. Dijkstra
 ```
