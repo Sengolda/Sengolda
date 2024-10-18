@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cleaning code does NOT take time. NOT cleaning code does take time.
-  - Robert C. Martin
+There's only one trick in software, and that is using a piece of software that's already been written.
+  - Bill Gates
 ```
