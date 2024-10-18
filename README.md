@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
-  - Danny Hillis
+Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+  - Albert Einstein
 ```
