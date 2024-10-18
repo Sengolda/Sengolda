@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The computing scientist’s main challenge is not to get confused by the complexities of his own making.
-  - Edsger W. Dijkstra
+A year spent in artificial intelligence is enough to make one believe in God.
+  - Alan Perlis
 ```
