@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
-  - Wayne Ratliff
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+  - Anonymous
 ```
