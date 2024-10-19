@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best thing about a boolean is even if you are wrong, you are only off by a bit.
-  - Anonymous
+A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+  - Ted Nelson
 ```
