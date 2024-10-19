@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A program that produces incorrect results twice as fast is infinitely slower.
-  - John Ousterhout
+A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+  - Steve Jobs
 ```
