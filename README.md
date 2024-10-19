@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
-  - Paul Graham (programmer)
+Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+  - Anders Hejlsberg
 ```
