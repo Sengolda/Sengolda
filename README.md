@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
-  - Andy Hunt (author)
+Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.
+  - Martin Fowler
 ```
