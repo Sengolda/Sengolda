@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
-  - Bill Gates
+If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+  - Fred Brooks
 ```
