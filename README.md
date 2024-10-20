@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Dealing with failure is easy: Work hard to improve.
-  - Alan Perlis
+The very best technology never has as much impact as girlfriend or boyfriend trouble.
+  - Tom DeMarco
 ```
