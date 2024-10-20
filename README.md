@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
-  - Dennis Ritchie
+The real problem with throwaway code comes when it isn't thrown away.
+  - Joseph Yoder (computer scientist)
 ```
