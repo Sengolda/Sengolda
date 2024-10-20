@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
-  - Anonymous
+The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
+  - Manuel Blum
 ```
