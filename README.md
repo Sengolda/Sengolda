@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
-  - Ted Nelson
+Programming can be addictive.
+  - Bob Carr
 ```
