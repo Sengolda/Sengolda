@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
-  - George Boole
+The most important single aspect of software development is to be clear about what you are trying to build.
+  - Bjarne Stroustrup
 ```
