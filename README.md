@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
-  - Laurence J. Peter
+The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
+  - Robert L. Glass
 ```
