@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Don't worry about anything. Just do what you can and be the best you can be.
-  - Douglas Crockford
+A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+  - Donald Knuth
 ```
