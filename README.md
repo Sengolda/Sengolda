@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The only way to learn a new programming language is by writing programs in it.
-  - Dennis Ritchie
+While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
+  - Joseph Yoder (computer scientist)
 ```
