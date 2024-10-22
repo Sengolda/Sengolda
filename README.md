@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you think your users are idiots, only idiots will use it.
-  - Linus Torvalds
+The purpose of software engineering is to control complexity, not to create it.
+  - Pamela Zave
 ```
