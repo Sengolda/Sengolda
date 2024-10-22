@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
-  - Ted Nelson
+I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+  - L. Peter Deutsch
 ```
