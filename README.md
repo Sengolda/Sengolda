@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
-  - Donald Knuth
+Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+  - Ted Nelson
 ```
