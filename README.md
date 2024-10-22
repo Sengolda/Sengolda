@@ -39,6 +39,7 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
-  - P. J. Plauger
+I think there is a world market for maybe five
+computers.
+  - Thomas J. Watson
 ```
