@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
-  - Douglas Crockford
+If you think your users are idiots, only idiots will use it.
+  - Linus Torvalds
 ```
