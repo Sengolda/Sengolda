@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If debugging is the process of removing software bugs, then programming must be the process of putting them in.
-  - Edsger W. Dijkstra
+Don't worry about anything. Just do what you can and be the best you can be.
+  - Douglas Crockford
 ```
