@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The purpose of software engineering is to control complexity, not to create it.
-  - Pamela Zave
+The only way to learn a new programming language is by writing programs in it.
+  - Dennis Ritchie
 ```
