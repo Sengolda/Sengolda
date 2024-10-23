@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One man's constant is another man's variable.
-  - Alan Perlis
+We need to be super careful with AI. Potentially more dangerous than nukes.
+  - Elon Musk
 ```
