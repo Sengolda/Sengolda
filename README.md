@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
-  - Vint Cerf
+The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+  - Edsger W. Dijkstra
 ```
