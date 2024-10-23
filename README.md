@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any product that needs a manual to work is broken.
-  - Elon Musk
+I think programming is very much a religious experience for a lot of people.
+  - Gary Kildall
 ```
