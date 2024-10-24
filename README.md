@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every good work of software starts by scratching a developer’s personal itch.
-  - Eric S. Raymond
+If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+  - Joe Armstrong (programmer)
 ```
