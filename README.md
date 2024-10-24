@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming increases goes as a power of program size.
-  - Fred Brooks
+Every good work of software starts by scratching a developer’s personal itch.
+  - Eric S. Raymond
 ```
