@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best way to predict the future is to invent it.
-  - Alan Kay
+Programming is the ultimate field for someone who likes to tinker.
+  - Ray Ozzie
 ```
