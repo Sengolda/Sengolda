@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In order to understand recursion, one must first understand recursion.
-  - Anonymous
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+  - Bill Gates
 ```
