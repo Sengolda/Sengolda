@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A computer shall not waste your time or require you to do more work than is strictly necessary.
-  - Jef Raskin
+Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+  - Linus Torvalds
 ```
