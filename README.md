@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What is simplicity? Simplicity is the shortest path to a solution.
-  - Ward Cunningham
+The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers.
+  - Fred Brooks
 ```
