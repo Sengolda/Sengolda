@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A computer shall not waste your time or require you to do more work than is strictly necessary.
-  - Jef Raskin
+What is simplicity? Simplicity is the shortest path to a solution.
+  - Ward Cunningham
 ```
