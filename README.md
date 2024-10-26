@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When there is no type hierarchy you don’t have to manage the type hierarchy.
-  - Rob Pike
+If you have a procedure with 10 parameters, you probably missed some.
+  - Alan Perlis
 ```
