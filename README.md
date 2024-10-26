@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is not the task of the University to offer what society asks for, but to give what society needs.
-  - Edsger W. Dijkstra
+A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+  - Bill Gates
 ```
