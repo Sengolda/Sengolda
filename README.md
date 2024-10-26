@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Documentation is a love letter that you write to your future self.
-  - Damian Conway
+From an artistic standpoint, the best software comes from the realm of intuition.
+  - Bob Carr
 ```
