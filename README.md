@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you have a procedure with 10 parameters, you probably missed some.
-  - Alan Perlis
+People should be able to speak and breathe programs just like they talk now.
+  - Jaron Lanier
 ```
