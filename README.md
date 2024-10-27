@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
-  - Martin Fowler
+What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+  - Tim Berners-Lee
 ```
