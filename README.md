@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Debugging time increases as a square of the program’s size.
-  - Chris Wenham
+The difference between theory and practice is that in theory, there is no difference between theory and practice.
+  - Richard Moore (engineer)
 ```
