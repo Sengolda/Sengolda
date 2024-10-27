@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best way to predict the future is to invent it.
-  - Alan Kay
+A clever person solves a problem. A wise person avoids it.
+  - Albert Einstein
 ```
