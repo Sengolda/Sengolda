@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
-  - John Carmack
+The most important thing is to be able to think what you want, not to say what you want.
+  - Paul Graham (programmer)
 ```
