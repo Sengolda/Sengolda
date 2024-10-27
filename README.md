@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Walking on water and developing software from a specification are easy if both are frozen.
-  - Edward V. Berard
+Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+  - Fred Brooks
 ```
