@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
-  - Richard Hamming
+First do it, then do it right, then do it better.
+  - Addy Osmani
 ```
