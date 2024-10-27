@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First do it, then do it right, then do it better.
-  - Addy Osmani
+The purpose of computing is insight, not numbers.
+  - Richard Hamming
 ```
