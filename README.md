@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The very best technology never has as much impact as girlfriend or boyfriend trouble.
-  - Tom DeMarco
+W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+  - Martin Fowler
 ```
