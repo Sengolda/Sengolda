@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best way to know that you have found the last bug is never to find the first bug.
-  - Harlan Mills
+An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+  - Bjarne Stroustrup
 ```
