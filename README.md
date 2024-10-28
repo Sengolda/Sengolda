@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-With artificial intelligence we are summoning the demon.
-  - Elon Musk
+The more code you have, the more places there are for bugs to hide.
+  - Rich Skrenta
 ```
