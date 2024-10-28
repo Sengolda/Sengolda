@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
-  - Daniel T. Barry
+The best way to know that you have found the last bug is never to find the first bug.
+  - Harlan Mills
 ```
