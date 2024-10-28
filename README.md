@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
-  - Tim Berners-Lee
+The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+  - Edsger W. Dijkstra
 ```
