@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Machines take me by surprise with great frequency.
-  - Alan Turing
+One accurate measurement is worth more than a thousand expert opinions.
+  - Grace Hopper
 ```
