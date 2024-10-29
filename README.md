@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A program that produces incorrect results twice as fast is infinitely slower.
-  - John Ousterhout
+Programs must be written for people to read, and only incidentally for machines to execute.
+  - Hal Abelson
 ```
