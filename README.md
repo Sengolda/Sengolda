@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The act of describing a program in unambiguous detail and the act of programming are one and the same.
-  - Kevlin Henney
+Anyone who has ever written a program knows that telling a computer what you want it to do is not as easy as it sounds. Every detail of the computer’s desired operation must be precisely described. For instance, if you tell an accounting program to bill your clients for the amount that each owes, then the computer will send out a weekly bill for $0.00 to clients who owe nothing.
+  - Danny Hillis
 ```
