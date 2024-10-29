@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
-  - David Parnas
+The best way to predict the future is to invent it.
+  - Alan Kay
 ```
