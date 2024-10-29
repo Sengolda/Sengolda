@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
-  - Bjarne Stroustrup
+Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.
+  - Martin Fowler
 ```
