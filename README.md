@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
-  - Linus Torvalds
+The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
+  - Robert L. Glass
 ```
