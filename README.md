@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The limits of my language mean the limits of my world.
-  - Ludwig Wittgenstein
+When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+  - Kent Beck
 ```
