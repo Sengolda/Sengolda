@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
-  - Martin Fowler
+Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+  - Sean Parent
 ```
