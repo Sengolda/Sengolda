@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Your most unhappy customers are your greatest source of learning.
-  - Bill Gates
+Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+  - Marijn Haverbeke
 ```
