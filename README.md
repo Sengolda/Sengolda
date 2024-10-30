@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
-  - Kent Beck
+Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+  - Jim Horning
 ```
