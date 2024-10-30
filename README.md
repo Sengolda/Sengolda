@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-People under pressure don’t work better; they just work faster.
-  - Tom DeMarco
+Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+  - Bill Gates
 ```
