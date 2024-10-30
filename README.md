@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
-  - Bjarne Stroustrup
+The entire history of software engineering is that of the rise in levels of abstraction.
+  - Grady Booch
 ```
