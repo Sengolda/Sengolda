@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
-  - Bjarne Stroustrup
+I think you should always bear in mind that entropy is not on your side.
+  - Elon Musk
 ```
