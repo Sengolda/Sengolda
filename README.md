@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Science is what we understand well enough to explain to a computer. Art is everything else we do.
-  - Donald Knuth
+If we’d asked the customers what they wanted, they would have said “faster horses”.
+  - Henry Ford
 ```
