@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
-  - Albert Einstein
+Humanity is acquiring all the right technology for all the wrong reasons.
+  - Buckminster Fuller
 ```
