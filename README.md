@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
-  - Sean Parent
+An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+  - Bjarne Stroustrup
 ```
