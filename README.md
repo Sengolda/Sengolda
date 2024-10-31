@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Humanity is acquiring all the right technology for all the wrong reasons.
-  - Buckminster Fuller
+Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+  - Bjarne Stroustrup
 ```
