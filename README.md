@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
-  - Ken Thompson
+Compatibility means deliberately repeating other people’s mistakes.
+  - David Wheeler (computer scientist)
 ```
