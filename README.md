@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-No code is faster than no code.
-  - Kevlin Henney
+Programming increases goes as a power of program size.
+  - Fred Brooks
 ```
