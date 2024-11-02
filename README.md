@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are only two kinds of languages: the ones people complain about and the ones nobody uses.
-  - Bjarne Stroustrup
+If you learn how to solve problems, you can go through life and do pretty well.
+  - Gary Kildall
 ```
