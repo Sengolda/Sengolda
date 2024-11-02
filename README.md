@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Walking on water and developing software from a specification are easy if both are frozen.
-  - Edward V. Berard
+Much of the essence of building a program is in fact the debugging of the specification.
+  - Fred Brooks
 ```
