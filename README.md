@@ -39,6 +39,7 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
-  - Edsger W. Dijkstra
+I think the best way to make JavaScript better would be to
+make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
+  - Douglas Crockford
 ```
