@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good judgement comes from experience. Experience comes from bad judgement.
-  - Jim Horning
+You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+  - Steve Jobs
 ```
