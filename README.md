@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
-  - Joseph Yoder (computer scientist)
+Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+  - Daniel T. Barry
 ```
