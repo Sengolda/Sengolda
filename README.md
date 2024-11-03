@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-It is not the task of the University to offer what society asks for, but to give what society needs.
-  - Edsger W. Dijkstra
+If you learn how to solve problems, you can go through life and do pretty well.
+  - Gary Kildall
 ```
