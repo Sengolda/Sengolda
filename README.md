@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One man's constant is another man's variable.
-  - Alan Perlis
+Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+  - Addy Osmani
 ```
