@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
-  - Daniel T. Barry
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+  - Edsger W. Dijkstra
 ```
