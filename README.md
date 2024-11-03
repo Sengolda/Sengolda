@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If debugging is the process of removing software bugs, then programming must be the process of putting them in.
-  - Edsger W. Dijkstra
+First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+  - George Carrette
 ```
