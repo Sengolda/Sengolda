@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best way to predict the future is to invent it.
-  - Alan Kay
+Premature abstraction is as bad as premature optimization.
+  - Luciano Ramalho
 ```
