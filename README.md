@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Code never lies, comments sometimes do.
-  - Ron Jeffries
+Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+  - John Carmack
 ```
