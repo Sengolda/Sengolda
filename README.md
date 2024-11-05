@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
-  - Ted Nelson
+It's not so important what you work on, so long as you're not wasting your time.
+  - Paul Graham (programmer)
 ```
