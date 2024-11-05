@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Premature abstraction is as bad as premature optimization.
-  - Luciano Ramalho
+Everything should be made as simple as possible. But to do that you have to master complexity.
+  - Butler Lampson
 ```
