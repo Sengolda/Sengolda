@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One of my most productive days was throwing away 1,000 lines of code.
-  - Ken Thompson
+Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+  - Jamie Zawinski
 ```
