@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
-  - Joe Armstrong (programmer)
+The most important thing is to be able to think what you want, not to say what you want.
+  - Paul Graham (programmer)
 ```
