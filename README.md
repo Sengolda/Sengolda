@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
-  - Alan Perlis
+There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+  - Lawrence Flon
 ```
