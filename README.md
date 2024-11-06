@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
-  - Richard Stallman
+Software engineering is the part of computer science which is too difficult for the computer scientist.
+  - Friedrich Bauer
 ```
