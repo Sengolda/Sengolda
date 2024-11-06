@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Simplicity is prerequisite for reliability.
-  - Edsger W. Dijkstra
+Before software can be reusable it first has to be usable.
+  - Ralph Johnson (computer scientist)
 ```
