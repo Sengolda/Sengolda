@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
-  - Andy Hertzfeld
+Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+  - Bill Gates
 ```
