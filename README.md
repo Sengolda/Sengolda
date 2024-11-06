@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good people with a good process will outperform good people with no process every time.
-  - Grady Booch
+As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+  - Gottfried Wilhelm Leibniz
 ```
