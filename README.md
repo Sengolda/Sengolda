@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
-  - Gottfried Wilhelm Leibniz
+Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+  - Andy Hertzfeld
 ```
