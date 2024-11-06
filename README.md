@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Before software can be reusable it first has to be usable.
-  - Ralph Johnson (computer scientist)
+With artificial intelligence we are summoning the demon.
+  - Elon Musk
 ```
