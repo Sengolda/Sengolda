@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
-  - Butler Lampson
+The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+  - Edsger W. Dijkstra
 ```
