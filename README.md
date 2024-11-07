@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
-  - Terry Winograd
+In man-machine symbiosis, it is man who must adjust: The machines can't.
+  - Alan Perlis
 ```
