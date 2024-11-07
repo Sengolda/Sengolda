@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
-  - Laurence J. Peter
+The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+  - Danny Hillis
 ```
