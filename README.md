@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
-  - Gary Kildall
+Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
+  - L. Peter Deutsch
 ```
