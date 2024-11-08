@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There is never enough time to do it right, but there is always enough time to fix it or to do it over.
-  - Daniel T. Barry
+Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+  - Fred Brooks
 ```
