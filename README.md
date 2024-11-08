@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Good judgement comes from experience. Experience comes from bad judgement.
-  - Jim Horning
+I'm interested in creating images that communicate with people.
+  - Toru Iwatani
 ```
