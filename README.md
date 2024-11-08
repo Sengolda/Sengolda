@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
-  - Fred Brooks
+Imagination is more important than knowledge.
+  - Albert Einstein
 ```
