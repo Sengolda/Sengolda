@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
-  - Paul Graham (programmer)
+There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+  - Daniel T. Barry
 ```
