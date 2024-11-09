@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
-  - Butler Lampson
+C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+  - Bjarne Stroustrup
 ```
