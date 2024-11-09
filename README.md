@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm interested in creating images that communicate with people.
-  - Toru Iwatani
+The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+  - Donald Knuth
 ```
