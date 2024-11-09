@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
-  - Edsger W. Dijkstra
+And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+  - Vint Cerf
 ```
