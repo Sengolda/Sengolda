@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
-  - Richard Hamming
+A good programmer is someone who looks both ways before crossing a one-way street.
+  - Doug Linder
 ```
