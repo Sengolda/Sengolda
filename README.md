@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
-  - Linus Torvalds
+A computer shall not waste your time or require you to do more work than is strictly necessary.
+  - Jef Raskin
 ```
