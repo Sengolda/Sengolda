@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
-  - Donald Knuth
+When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+  - Fred Brooks
 ```
