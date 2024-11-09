@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Walking on water and developing software from a specification are easy if both are frozen.
-  - Edward V. Berard
+Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+  - Danny Hillis
 ```
