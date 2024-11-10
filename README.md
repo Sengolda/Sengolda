@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Programming can be addictive.
-  - Bob Carr
+When we don’t understand a process, we fall into magical thinking about results.
+  - Jef Raskin
 ```
