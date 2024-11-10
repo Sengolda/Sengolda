@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think the best way to supervise is by personal example and by frequent code reviews.
-  - Charles Simonyi
+Machines as simple as thermostats can be said to have beliefs.
+  - John McCarthy (computer scientist)
 ```
