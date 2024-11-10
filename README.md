@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Machines as simple as thermostats can be said to have beliefs.
-  - John McCarthy (computer scientist)
+The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+  - Danny Hillis
 ```
