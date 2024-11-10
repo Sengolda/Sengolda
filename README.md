@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Your most unhappy customers are your greatest source of learning.
-  - Bill Gates
+People under pressure don’t work better; they just work faster.
+  - Tom DeMarco
 ```
