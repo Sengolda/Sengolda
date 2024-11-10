@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
-  - Alan Perlis
+I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+  - Tim Berners-Lee
 ```
