@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
-  - Douglas Crockford
+No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
+  - George Boole
 ```
