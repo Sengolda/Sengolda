@@ -39,7 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
-  - Bob Frankston
+See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+  - Linus Torvalds
 ```
