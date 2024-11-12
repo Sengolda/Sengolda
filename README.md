@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
-  - Danny Hillis
+I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+  - L. Peter Deutsch
 ```
