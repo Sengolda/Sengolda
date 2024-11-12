@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
-  - Linus Torvalds
+With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
+  - Danny Hillis
 ```
