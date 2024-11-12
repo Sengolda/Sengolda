@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-First, solve the problem. Then, write the code.
-  - John Johnson
+Ideas don't disappear. They change form, they merge with other ideas.
+  - Bob Frankston
 ```
