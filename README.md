@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think one of the most valuable rules is avoid duplication.
-  - Martin Fowler
+I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+  - David Parnas
 ```
