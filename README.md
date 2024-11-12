@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
-  - David Parnas
+If you learn how to solve problems, you can go through life and do pretty well.
+  - Gary Kildall
 ```
