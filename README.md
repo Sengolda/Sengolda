@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
-  - Bill Gates
+A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+  - Donald Knuth
 ```
