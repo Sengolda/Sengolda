@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If you have a procedure with 10 parameters, you probably missed some.
-  - Alan Perlis
+The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+  - Fred Brooks
 ```
