@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
-  - Michael A. Jackson
+I'm interested in creating images that communicate with people.
+  - Toru Iwatani
 ```
