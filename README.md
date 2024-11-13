@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
-  - John Carmack
+The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+  - Edsger W. Dijkstra
 ```
