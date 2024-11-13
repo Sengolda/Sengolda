@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Adding manpower to a late software project makes it later.
-  - Fred Brooks
+Once the computers got control, we might never get it back.
+  - Marvin Minsky
 ```
