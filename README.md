@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
-  - Fred Brooks
+No matter how slow you are writing clean code, you will always be slower if you make a mess.
+  - Robert C. Martin
 ```
