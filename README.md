@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The most important thing is to be able to think what you want, not to say what you want.
-  - Paul Graham (programmer)
+A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
+  - Marijn Haverbeke
 ```
