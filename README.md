@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A few months writing code can save you a few hours in design.
-  - Anonymous
+Cleaning code does NOT take time. NOT cleaning code does take time.
+  - Robert C. Martin
 ```
