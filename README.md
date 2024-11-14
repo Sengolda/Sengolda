@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Cleaning code does NOT take time. NOT cleaning code does take time.
-  - Robert C. Martin
+If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+  - Gerald Weinberg
 ```
