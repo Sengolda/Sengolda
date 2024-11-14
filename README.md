@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Walking on water and developing software from a specification are easy if both are frozen.
-  - Edward V. Berard
+If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+  - Bill Gates
 ```
