@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The very best technology never has as much impact as girlfriend or boyfriend trouble.
-  - Tom DeMarco
+If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+  - David Leinweber
 ```
