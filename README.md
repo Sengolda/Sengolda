@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The more code you have, the more places there are for bugs to hide.
-  - Rich Skrenta
+Science is what we understand well enough to explain to a computer. Art is everything else we do.
+  - Donald Knuth
 ```
