@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Compatibility means deliberately repeating other people’s mistakes.
-  - David Wheeler (computer scientist)
+What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+  - Michael Hawley
 ```
