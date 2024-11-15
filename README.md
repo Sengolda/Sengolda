@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The purpose of computing is insight, not numbers.
-  - Richard Hamming
+We who cut mere stones must always be envisioning cathedrals.
+  - Quarry worker's creed
 ```
