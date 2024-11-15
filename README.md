@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A picture may be worth a thousand words, a formula is worth a thousand pictures.
-  - Edsger W. Dijkstra
+I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
+  - Richard Stallman
 ```
