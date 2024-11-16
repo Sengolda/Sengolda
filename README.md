@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
-  - Ellen Ullman
+There's only one trick in software, and that is using a piece of software that's already been written.
+  - Bill Gates
 ```
