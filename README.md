@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In theory, there is no difference between theory and practice. But, in practice, there is.
-  - Jan L. A. van de Snepscheut
+Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+  - L. Peter Deutsch
 ```
