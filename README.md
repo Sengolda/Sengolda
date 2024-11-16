@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
-  - L. Peter Deutsch
+A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+  - Alan Turing
 ```
