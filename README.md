@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
-  - George Boole
+All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+  - Albert Einstein
 ```
