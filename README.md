@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-C is quirky, flawed, and an enormous success.
-  - Dennis Ritchie
+What one programmer can do in one month, two programmers can do in two months.
+  - Fred Brooks
 ```
