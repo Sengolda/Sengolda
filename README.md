@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-What one programmer can do in one month, two programmers can do in two months.
-  - Fred Brooks
+In handling resources, strive to avoid disaster rather than to attain an optimum.
+  - Butler Lampson
 ```
