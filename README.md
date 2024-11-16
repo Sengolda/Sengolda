@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
-  - Alan Turing
+There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
+  - Butler Lampson
 ```
