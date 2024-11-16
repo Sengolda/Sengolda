@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-The key to keeping software costs down is to write code that is easily modified.
-  - Daniel T. Barry
+A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+  - Danny Hillis
 ```
