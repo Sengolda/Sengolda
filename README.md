@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
-  - Fred Brooks
+Walking on water and developing software from a specification are easy if both are frozen.
+  - Edward V. Berard
 ```
