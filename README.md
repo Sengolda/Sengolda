@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Walking on water and developing software from a specification are easy if both are frozen.
-  - Edward V. Berard
+Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+  - Daniel T. Barry
 ```
