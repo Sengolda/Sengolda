@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Sometimes it’s just easier to throw a system away, and start over.
-  - Joseph Yoder (computer scientist)
+The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+  - Fred Brooks
 ```
