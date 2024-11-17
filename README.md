@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-In my second year in graduate school, I took a computer course and that was like lightening striking.
-  - Ted Nelson
+The top 5% of programmers probably write 99% of the good software.
+  - Paul Graham (programmer)
 ```
