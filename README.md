@@ -39,7 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think there is a world market for maybe five
-computers.
-  - Thomas J. Watson
+A language that doesn’t have everything is actually easier to program in than some that do.
+  - Dennis Ritchie
 ```
