@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Walking on water and developing software from a specification are easy if both are frozen.
-  - Edward V. Berard
+Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+  - Marvin Minsky
 ```
