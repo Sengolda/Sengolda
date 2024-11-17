@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
-  - Vint Cerf
+Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+  - Fred Brooks
 ```
