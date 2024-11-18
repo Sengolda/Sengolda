@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
-  - L. Peter Deutsch
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
+  - Linus Torvalds
 ```
