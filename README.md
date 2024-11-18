@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
-  - John Warnock
+You should name a variable using the same care with which you name a first-born child.
+  - Jim Coplien
 ```
