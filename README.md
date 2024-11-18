@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
-  - Alan Turing
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+  - Bill Gates
 ```
