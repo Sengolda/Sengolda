@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I think programming is very much a religious experience for a lot of people.
-  - Gary Kildall
+As with most projects, the last two percent takes fifty percent of the time.
+  - John Warnock
 ```
