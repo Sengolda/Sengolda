@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
-  - Douglas Crockford
+Documentation is a love letter that you write to your future self.
+  - Damian Conway
 ```
