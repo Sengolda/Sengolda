@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A programming systems product takes about nine times as much effort as the component programs written separately for private use.
-  - Fred Brooks
+The key to keeping software costs down is to write code that is easily modified.
+  - Daniel T. Barry
 ```
