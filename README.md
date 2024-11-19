@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
-  - Tim Berners-Lee
+Any sufficiently advanced technology is indistinguishable from magic.
+  - Arthur C. Clarke
 ```
