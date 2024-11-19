@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-If we’d asked the customers what they wanted, they would have said “faster horses”.
-  - Henry Ford
+A language that doesn't affect the way you think about programming, is not worth knowing.
+  - Alan Perlis
 ```
