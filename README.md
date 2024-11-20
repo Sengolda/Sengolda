@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
-  - William Wulf
+Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
+  - Douglas Crockford
 ```
