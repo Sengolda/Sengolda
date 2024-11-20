@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
-  - Rick Osborne
+The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+  - Alan Perlis
 ```
