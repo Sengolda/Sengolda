@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-Code never lies, comments sometimes do.
-  - Ron Jeffries
+Programming increases goes as a power of program size.
+  - Fred Brooks
 ```
