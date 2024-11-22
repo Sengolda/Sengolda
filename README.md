@@ -39,6 +39,6 @@ class Sengolda:
 - Quote for the hour is:
 
 ```
-A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
-  - Marijn Haverbeke
+Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+  - Edsger W. Dijkstra
 ```
